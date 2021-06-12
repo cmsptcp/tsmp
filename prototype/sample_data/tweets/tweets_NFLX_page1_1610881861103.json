@@ -1,0 +1,3402 @@
+{
+    "data": [
+        {
+            "author_id": "1347776564914647042",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597222535168",
+                        "name": "Online Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Tech brand",
+                        "id": "1339952418100920320",
+                        "name": "Apple (the brand) (Serra training)"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "description": "Apple Music",
+                        "id": "10051876501",
+                        "name": "Apple Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597222535168",
+                        "name": "Online Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10037284711",
+                        "name": "Disney"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10040276669",
+                        "name": "Spotify"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10040276682",
+                        "name": "Apple Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "description": "Deezer",
+                        "id": "905155888117301249",
+                        "name": "Deezer"
+                    }
+                }
+            ],
+            "conversation_id": "1348242009803264007",
+            "created_at": "2021-01-10T16:18:41.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "username": "cladbeneath"
+                    }
+                ]
+            },
+            "id": "1348303257249017859",
+            "in_reply_to_user_id": "1171624484",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1348242009803264007",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@cladbeneath VIU\n\n1 bulan 15,OOO\n3 bulan 2O,OOO\n6 bulan 25,OOO\n1 tahun 3O,OOO\n\nJual spotify netflix viu youtube apple music disney hotstar canva deezer iflix iqiyi we tv scribd wattpad remini wps"
+        },
+        {
+            "author_id": "1345650333712674816",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1334937763708342274",
+            "created_at": "2021-01-10T16:18:39.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "username": "SodhiGeet"
+                    },
+                    {
+                        "end": 27,
+                        "start": 11,
+                        "username": "Harshit09535283"
+                    },
+                    {
+                        "end": 41,
+                        "start": 28,
+                        "username": "NetflixIndia"
+                    },
+                    {
+                        "end": 50,
+                        "start": 42,
+                        "username": "netflix"
+                    }
+                ]
+            },
+            "id": "1348303249787424769",
+            "in_reply_to_user_id": "992616590100312064",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1348302985550389249",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@SodhiGeet @Harshit09535283 @NetflixIndia @netflix Predestination!\nMinor premise !"
+        },
+        {
+            "author_id": "919229263055872000",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10032646480",
+                        "name": "NARUTO (BORUTO)"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1136329838350880768",
+                        "name": "Naruto"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1348303249175179266",
+            "created_at": "2021-01-10T16:18:39.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "netflix",
+                        "probability": 0.7154,
+                        "start": 54,
+                        "type": "Product"
+                    }
+                ]
+            },
+            "id": "1348303249175179266",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "btw why is season 5 of boruto and all the rest not on netflix :/"
+        },
+        {
+            "author_id": "1291059066928865281",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1348303248835440640",
+            "created_at": "2021-01-10T16:18:39.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "username": "netflix"
+                    }
+                ]
+            },
+            "id": "1348303248835440640",
+            "in_reply_to_user_id": "16573941",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@netflix your content sucks. Get better and stop price gouging."
+        },
+        {
+            "author_id": "818558942867505154",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1348272427500003329",
+            "created_at": "2021-01-10T16:18:38.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "username": "kruri_x"
+                    },
+                    {
+                        "end": 17,
+                        "start": 9,
+                        "username": "netflix"
+                    }
+                ]
+            },
+            "id": "1348303245295419394",
+            "in_reply_to_user_id": "1068467705685204992",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1348303022506586120",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@kruri_x @netflix Will be done around 6"
+        },
+        {
+            "author_id": "612776597",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A film like Rogue One: A Star Wars Story",
+                        "id": "86",
+                        "name": "Movie"
+                    },
+                    "entity": {
+                        "description": "Call Me By Your Name",
+                        "id": "892435606386561024",
+                        "name": "Call Me By Your Name"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A movie genre like Action",
+                        "id": "87",
+                        "name": "Movie Genre"
+                    },
+                    "entity": {
+                        "description": "Drama",
+                        "id": "856976804749258752",
+                        "name": "Drama films"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A movie genre like Action",
+                        "id": "87",
+                        "name": "Movie Genre"
+                    },
+                    "entity": {
+                        "description": "Romance",
+                        "id": "856977050619363328",
+                        "name": "Romance films"
+                    }
+                }
+            ],
+            "conversation_id": "1348303240111280135",
+            "created_at": "2021-01-10T16:18:37.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "netflix",
+                        "probability": 0.5304,
+                        "start": 25,
+                        "type": "Product"
+                    }
+                ]
+            },
+            "id": "1348303240111280135",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "can we put cmbyn back on netflix uk please"
+        },
+        {
+            "author_id": "1069891813392175104",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1348303239805087749",
+            "created_at": "2021-01-10T16:18:37.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "Netflix UK",
+                        "probability": 0.439,
+                        "start": 64,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "AttackOnTitan"
+                    }
+                ]
+            },
+            "id": "1348303239805087749",
+            "in_reply_to_user_id": "172359983",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@AttackOnTitan when will there rest of the seasons be coming to Netflix UK"
+        },
+        {
+            "author_id": "1284864101315940353",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1348303217508012032",
+            "created_at": "2021-01-10T16:18:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Netflix",
+                        "probability": 0.5116,
+                        "start": 34,
+                        "type": "Product"
+                    }
+                ]
+            },
+            "id": "1348303217508012032",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "What\u2019s something good to watch on Netflix ?"
+        },
+        {
+            "author_id": "79369907",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "1346414003686236162",
+                        "name": "Lupin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "Lupin The Third (\u30eb\u30d1\u30f3\u4e09\u4e16)",
+                        "id": "1012688761606426625",
+                        "name": "Lupin The Third"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1348303213775245313",
+            "created_at": "2021-01-10T16:18:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Lupin",
+                        "probability": 0.7075,
+                        "start": 49,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 66,
+                        "normalized_text": "Netflix",
+                        "probability": 0.7358,
+                        "start": 60,
+                        "type": "Product"
+                    }
+                ]
+            },
+            "id": "1348303213775245313",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "To some of us trying to brush up on our french, 'Lupin', on Netflix, is not only entertainment but a gift \ud83d\ude0a"
+        },
+        {
+            "author_id": "1308453305895575552",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1348301289998987268",
+            "created_at": "2021-01-10T16:18:30.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "netflix",
+                        "probability": 0.5649,
+                        "start": 49,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "EagleMayan"
+                    },
+                    {
+                        "end": 19,
+                        "start": 12,
+                        "username": "amazon"
+                    }
+                ]
+            },
+            "id": "1348303213158662144",
+            "in_reply_to_user_id": "1326942939772301319",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1348301829164167178",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@EagleMayan @amazon great stuff, i will keep non netflix.... and other free tv.. ok will cancel"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "16_1348303196066865152"
+                ]
+            },
+            "author_id": "1176710279842934784",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American actress",
+                        "id": "1070715923932180482",
+                        "name": "Taylor Dooley"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "American actress",
+                        "id": "1070715923932180482",
+                        "name": "Taylor Dooley"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A film like Rogue One: A Star Wars Story",
+                        "id": "86",
+                        "name": "Movie"
+                    },
+                    "entity": {
+                        "description": "upcoming Netflix film",
+                        "id": "1286692222025441282",
+                        "name": "We Can Be Heroes"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A movie genre like Action",
+                        "id": "87",
+                        "name": "Movie Genre"
+                    },
+                    "entity": {
+                        "description": "Action and adventure",
+                        "id": "856976360337661952",
+                        "name": "Action & adventure films"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597222535168",
+                        "name": "Online Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10040276669",
+                        "name": "Spotify"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10043701892",
+                        "name": "SoundCloud"
+                    }
+                }
+            ],
+            "conversation_id": "1348303202379313152",
+            "created_at": "2021-01-10T16:18:28.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 168,
+                        "normalized_text": "Spotify",
+                        "probability": 0.6512,
+                        "start": 162,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 233,
+                        "normalized_text": "Soundcloud",
+                        "probability": 0.4905,
+                        "start": 224,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 57,
+                        "start": 43,
+                        "tag": "WeCanBeHeroes"
+                    },
+                    {
+                        "end": 159,
+                        "start": 151,
+                        "tag": "Netflix"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 124,
+                        "start": 111,
+                        "username": "taylordooley"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "shorturl.at/nuAW4",
+                        "end": 193,
+                        "expanded_url": "http://shorturl.at/nuAW4",
+                        "start": 170,
+                        "url": "https://t.co/VmA5HF4yzH"
+                    },
+                    {
+                        "description": "\u200eTV & Film \u00b7 2021",
+                        "display_url": "shorturl.at/agsR3",
+                        "end": 223,
+                        "expanded_url": "http://shorturl.at/agsR3",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://pbs.twimg.com/news_img/1348300998377410560/xbQJ5xMu?format=png&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1348300998377410560/xbQJ5xMu?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 200,
+                        "status": 200,
+                        "title": "\u200ePop Culture Reference on Apple Podcasts",
+                        "unwound_url": "https://podcasts.apple.com/nz/podcast/pop-culture-reference/id1481440049",
+                        "url": "https://t.co/APnPiaBKiP"
+                    },
+                    {
+                        "description": "This week the Boys are joined by longtime friend and bitter podcast rival Diego Roman to discuss the new Robert Rodriguez film We Can Be Heroes as well as the cancellation of Caillou and new DCEU upda",
+                        "display_url": "shorturl.at/pXY56",
+                        "end": 259,
+                        "expanded_url": "http://shorturl.at/pXY56",
+                        "images": [
+                            {
+                                "height": 500,
+                                "url": "https://pbs.twimg.com/news_img/1348300993860132865/MtZHKdWx?format=jpg&name=orig",
+                                "width": 500
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1348300993860132865/MtZHKdWx?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 236,
+                        "status": 200,
+                        "title": "Ep 38 - We Can Be Heroes, Official Moon Knight Casting, and the end of Caillou (w/ Diego Roman!)",
+                        "unwound_url": "https://soundcloud.com/pop-culture-reference-pod/ep-38-we-can-be-heroes-official-moon-knight-casting-and-the-end-of-caillou-w-diego-roman",
+                        "url": "https://t.co/c0QxmG92Zh"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/8oLSaTsGIR",
+                        "end": 283,
+                        "expanded_url": "https://twitter.com/PCR_Podcast/status/1348303202379313152/photo/1",
+                        "start": 260,
+                        "url": "https://t.co/8oLSaTsGIR"
+                    }
+                ]
+            },
+            "id": "1348303202379313152",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 24,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Somehow there is already confirmation of a #WeCanBeHeroes sequel! Hopefully we actually get more Shark boy and @taylordooley as Lava girl in this one. #Netflix \n\nSpotify:https://t.co/VmA5HF4yzH\nApple:https://t.co/APnPiaBKiP\nSoundcloud: https://t.co/c0QxmG92Zh https://t.co/8oLSaTsGIR"
+        },
+        {
+            "author_id": "582158346",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1347985795177713666",
+            "created_at": "2021-01-10T16:18:24.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Netflix",
+                        "probability": 0.4743,
+                        "start": 39,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "warrenmcfc"
+                    },
+                    {
+                        "end": 24,
+                        "start": 12,
+                        "username": "shellmcfc74"
+                    }
+                ]
+            },
+            "id": "1348303186235445249",
+            "in_reply_to_user_id": "114271764",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1348301729423626240",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@warrenmcfc @shellmcfc74 Back to Life, Netflix pretty good so far but waiting for it to go weird, not filth so may not be your cuppa \ud83d\ude01"
+        },
+        {
+            "author_id": "1107925430831505408",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597222535168",
+                        "name": "Online Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10037284711",
+                        "name": "Disney"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10040276669",
+                        "name": "Spotify"
+                    }
+                }
+            ],
+            "conversation_id": "1348195282958262272",
+            "created_at": "2021-01-10T16:18:23.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "sofeazulfadhli"
+                    }
+                ]
+            },
+            "id": "1348303180119986178",
+            "in_reply_to_user_id": "1246702224614383616",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1348195282958262272",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@sofeazulfadhli \u0295\u00b4\u2022 \u1d25\u2022\u0325`\u0294 jual netflix \u0295\u00b4\u2022 \u1d25\u2022\u0325`\u0294\n\n\ud83d\udc98sharing.      \ud83d\udc98private\n1 bulan : 35k   1 bulan : 125k\n3 bulan : 85k   3 bulan : 290k\n\n\u26a0\ufe0fVIA TSEL NO RATE\u26a0\ufe0f\n\nada viu,spotify,canva,wetv,\ndisney+,app music dll dm!!!\n\n\u2705 legal \n\u2705 anti on hold \n\u2705 full garansi \n\n\ud83d\udcb8via : GOPAY,OVO, TSEL"
+        },
+        {
+            "author_id": "1522400426",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1348287213075886099",
+            "created_at": "2021-01-10T16:18:20.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Netflix",
+                        "probability": 0.5297,
+                        "start": 30,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "Shayla__Jayde"
+                    }
+                ]
+            },
+            "id": "1348303171249172480",
+            "in_reply_to_user_id": "33795750",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1348300219902009347",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@Shayla__Jayde That\u2019s because Netflix cares about you \ud83d\ude48\ud83d\ude48\ud83d\ude02"
+        },
+        {
+            "author_id": "1271418652445700099",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1348303154509606913",
+            "created_at": "2021-01-10T16:18:16.000Z",
+            "id": "1348303154509606913",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "following",
+            "source": "Twitter for Android",
+            "text": "lf netflix n chill lang need 1\ud83e\udd23"
+        },
+        {
+            "author_id": "246087962",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A film like Rogue One: A Star Wars Story",
+                        "id": "86",
+                        "name": "Movie"
+                    },
+                    "entity": {
+                        "description": "Releases on January 7, 2020 by Netflix.",
+                        "id": "1346177949796429824",
+                        "name": "Pieces of a Woman"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A movie genre like Action",
+                        "id": "87",
+                        "name": "Movie Genre"
+                    },
+                    "entity": {
+                        "description": "Drama",
+                        "id": "856976804749258752",
+                        "name": "Drama films"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A movie genre like Action",
+                        "id": "87",
+                        "name": "Movie Genre"
+                    },
+                    "entity": {
+                        "description": "Drama",
+                        "id": "856976804749258752",
+                        "name": "Drama films"
+                    }
+                }
+            ],
+            "conversation_id": "1348303154274836480",
+            "created_at": "2021-01-10T16:18:16.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "Pieces of a Woman",
+                        "probability": 0.4415,
+                        "start": 0,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 26,
+                        "normalized_text": "Netflix",
+                        "probability": 0.434,
+                        "start": 20,
+                        "type": "Product"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "netflix.com/title/81128745\u2026",
+                        "end": 52,
+                        "expanded_url": "https://www.netflix.com/title/81128745?s=i&trkid=13747225&t=twt",
+                        "start": 29,
+                        "url": "https://t.co/6JwQSZhBcc"
+                    }
+                ]
+            },
+            "id": "1348303154274836480",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "Pieces of a Woman | Netflix \nhttps://t.co/6JwQSZhBcc"
+        },
+        {
+            "author_id": "1107925430831505408",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597222535168",
+                        "name": "Online Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10037284711",
+                        "name": "Disney"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10040276669",
+                        "name": "Spotify"
+                    }
+                }
+            ],
+            "conversation_id": "1348166458711281667",
+            "created_at": "2021-01-10T16:18:15.000Z",
+            "id": "1348303146548744194",
+            "in_reply_to_user_id": "1213253731409465346",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1348166458711281667",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@luqm4nsabri \u0295\u00b4\u2022 \u1d25\u2022\u0325`\u0294 jual netflix \u0295\u00b4\u2022 \u1d25\u2022\u0325`\u0294\n\n\ud83d\udc98sharing.      \ud83d\udc98private\n1 bulan : 35k   1 bulan : 125k\n3 bulan : 85k   3 bulan : 290k\n\n\u26a0\ufe0fVIA TSEL NO RATE\u26a0\ufe0f\n\nada viu,spotify,canva,wetv,\ndisney+,app music dll dm!!!\n\n\u2705 legal \n\u2705 anti on hold \n\u2705 full garansi \n\n\ud83d\udcb8via : GOPAY,OVO, TSEL"
+        },
+        {
+            "author_id": "1151597430",
+            "conversation_id": "1348303145479319552",
+            "created_at": "2021-01-10T16:18:14.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "UK",
+                        "probability": 0.5947,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 69,
+                        "normalized_text": "EU",
+                        "probability": 0.4748,
+                        "start": 68,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "theguardian.com/tv-and-radio/2\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.theguardian.com/tv-and-radio/2021/jan/10/uk-tv-streaming-sport-eu-sky-amazon-netflix-bt-sport",
+                        "start": 71,
+                        "url": "https://t.co/iaU0MtgsUH"
+                    }
+                ]
+            },
+            "id": "1348303145479319552",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "UK TV streaming subscribers can no longer access live sport when in EU https://t.co/iaU0MtgsUH"
+        },
+        {
+            "author_id": "23225504",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1348293146908749825",
+            "created_at": "2021-01-10T16:18:14.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Netflix",
+                        "probability": 0.4894,
+                        "start": 30,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "start": 0,
+                        "username": "Dannyoconnor430"
+                    },
+                    {
+                        "end": 25,
+                        "start": 17,
+                        "username": "EssexPR"
+                    }
+                ]
+            },
+            "id": "1348303144774721537",
+            "in_reply_to_user_id": "778677054699036672",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1348299634389741568",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@Dannyoconnor430 @EssexPR The Netflix one? Gutted they ended all of them."
+        },
+        {
+            "author_id": "42456169",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                }
+            ],
+            "conversation_id": "1348303142832795649",
+            "created_at": "2021-01-10T16:18:14.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 78,
+                        "normalized_text": "netflix",
+                        "probability": 0.4956,
+                        "start": 72,
+                        "type": "Product"
+                    }
+                ]
+            },
+            "id": "1348303142832795649",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "work, read texts you don\u2019t care about, try to stimulate your brain with netflix/youtube/social media bc you\u2019re too tired to do anything else, sleep, repeat"
+        }
+    ],
+    "errors": [
+        {
+            "detail": "Could not find user with in_reply_to_user_id: [1213253731409465346].",
+            "parameter": "in_reply_to_user_id",
+            "resource_type": "user",
+            "title": "Not Found Error",
+            "type": "https://api.twitter.com/2/problems/resource-not-found",
+            "value": "1213253731409465346"
+        },
+        {
+            "detail": "Could not find tweet with referenced_tweets.id: [1348166458711281667].",
+            "parameter": "referenced_tweets.id",
+            "resource_type": "tweet",
+            "title": "Not Found Error",
+            "type": "https://api.twitter.com/2/problems/resource-not-found",
+            "value": "1348166458711281667"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "height": 262,
+                "media_key": "16_1348303196066865152",
+                "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/ErYinPsW4AA_i1A.jpg",
+                "type": "animated_gif",
+                "width": 498
+            }
+        ],
+        "tweets": [
+            {
+                "author_id": "1171624484",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Top level entities that describe a Brands industry",
+                            "id": "45",
+                            "name": "Brand Vertical"
+                        },
+                        "entity": {
+                            "id": "781974597310615553",
+                            "name": "Entertainment"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                            "id": "46",
+                            "name": "Brand Category"
+                        },
+                        "entity": {
+                            "id": "781974597105094656",
+                            "name": "TV/Movies Related"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "10026367762",
+                            "name": "Netflix"
+                        }
+                    }
+                ],
+                "conversation_id": "1348242009803264007",
+                "created_at": "2021-01-10T12:15:18.000Z",
+                "id": "1348242009803264007",
+                "lang": "in",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 10,
+                    "reply_count": 133,
+                    "retweet_count": 0
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter Web App",
+                "text": "Kayaknya lebih rame pake key word \"jual netflix\" ya? tapi aku lagi butuhnya viu. Ayo dong yang jual viu mana nihhhh?"
+            },
+            {
+                "author_id": "992616590100312064",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Top level entities that describe a Brands industry",
+                            "id": "45",
+                            "name": "Brand Vertical"
+                        },
+                        "entity": {
+                            "id": "781974597310615553",
+                            "name": "Entertainment"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                            "id": "46",
+                            "name": "Brand Category"
+                        },
+                        "entity": {
+                            "id": "781974597105094656",
+                            "name": "TV/Movies Related"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "10026367762",
+                            "name": "Netflix"
+                        }
+                    }
+                ],
+                "conversation_id": "1334937763708342274",
+                "created_at": "2021-01-10T16:17:36.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 15,
+                            "start": 0,
+                            "username": "nightcall_vibe"
+                        },
+                        {
+                            "end": 32,
+                            "start": 16,
+                            "username": "Harshit09535283"
+                        },
+                        {
+                            "end": 46,
+                            "start": 33,
+                            "username": "NetflixIndia"
+                        },
+                        {
+                            "end": 55,
+                            "start": 47,
+                            "username": "netflix"
+                        }
+                    ]
+                },
+                "id": "1348302985550389249",
+                "in_reply_to_user_id": "1345650333712674816",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1348302415406092288",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter Web App",
+                "text": "@nightcall_vibe @Harshit09535283 @NetflixIndia @netflix I asked for a movie \ud83c\udfa5\ud83d\ude42"
+            },
+            {
+                "author_id": "1068467705685204992",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Top level entities that describe a Brands industry",
+                            "id": "45",
+                            "name": "Brand Vertical"
+                        },
+                        "entity": {
+                            "id": "781974597310615553",
+                            "name": "Entertainment"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                            "id": "46",
+                            "name": "Brand Category"
+                        },
+                        "entity": {
+                            "id": "781974597105094656",
+                            "name": "TV/Movies Related"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "10026367762",
+                            "name": "Netflix"
+                        }
+                    }
+                ],
+                "conversation_id": "1348272427500003329",
+                "created_at": "2021-01-10T16:17:45.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 11,
+                            "start": 0,
+                            "username": "RileyCj_Bw"
+                        },
+                        {
+                            "end": 20,
+                            "start": 12,
+                            "username": "netflix"
+                        }
+                    ]
+                },
+                "id": "1348303022506586120",
+                "in_reply_to_user_id": "818558942867505154",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1348300905452605441",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "@RileyCj_Bw @netflix Series"
+            },
+            {
+                "author_id": "1326942939772301319",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Top level entities that describe a Brands industry",
+                            "id": "45",
+                            "name": "Brand Vertical"
+                        },
+                        "entity": {
+                            "id": "781974596706635776",
+                            "name": "Retail"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                            "id": "46",
+                            "name": "Brand Category"
+                        },
+                        "entity": {
+                            "id": "783335558466506752",
+                            "name": "Online"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "10026792024",
+                            "name": "Amazon"
+                        }
+                    }
+                ],
+                "conversation_id": "1348301289998987268",
+                "created_at": "2021-01-10T16:13:00.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 16,
+                            "start": 0,
+                            "username": "PritchardGriff2"
+                        },
+                        {
+                            "end": 24,
+                            "start": 17,
+                            "username": "amazon"
+                        }
+                    ]
+                },
+                "id": "1348301829164167178",
+                "in_reply_to_user_id": "1308453305895575552",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1348301289998987268",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter Web App",
+                "text": "@PritchardGriff2 @amazon cancelled mine today, done. Never returning"
+            },
+            {
+                "author_id": "114271764",
+                "conversation_id": "1347985795177713666",
+                "created_at": "2021-01-10T16:12:37.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 12,
+                            "start": 0,
+                            "username": "shellmcfc74"
+                        },
+                        {
+                            "end": 24,
+                            "start": 13,
+                            "username": "stuartj425"
+                        }
+                    ]
+                },
+                "id": "1348301729423626240",
+                "in_reply_to_user_id": "895045729",
+                "lang": "und",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1348301497356922880",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "@shellmcfc74 @stuartj425 \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+            },
+            {
+                "author_id": "1246702224614383616",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Top level entities that describe a Brands industry",
+                            "id": "45",
+                            "name": "Brand Vertical"
+                        },
+                        "entity": {
+                            "id": "781974597310615553",
+                            "name": "Entertainment"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                            "id": "46",
+                            "name": "Brand Category"
+                        },
+                        "entity": {
+                            "id": "781974597105094656",
+                            "name": "TV/Movies Related"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "10026367762",
+                            "name": "Netflix"
+                        }
+                    }
+                ],
+                "conversation_id": "1348195282958262272",
+                "created_at": "2021-01-10T09:09:38.000Z",
+                "id": "1348195282958262272",
+                "lang": "in",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 8,
+                    "reply_count": 124,
+                    "retweet_count": 0
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "ada yang jual netflix nggak ?"
+            },
+            {
+                "author_id": "33795750",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Top level entities that describe a Brands industry",
+                            "id": "45",
+                            "name": "Brand Vertical"
+                        },
+                        "entity": {
+                            "id": "781974596706635776",
+                            "name": "Retail"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                            "id": "46",
+                            "name": "Brand Category"
+                        },
+                        "entity": {
+                            "id": "783335558466506752",
+                            "name": "Online"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "10026792024",
+                            "name": "Amazon"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                            "id": "48",
+                            "name": "Product"
+                        },
+                        "entity": {
+                            "id": "10045512584",
+                            "name": "Amazon Prime Video"
+                        }
+                    }
+                ],
+                "conversation_id": "1348287213075886099",
+                "created_at": "2021-01-10T16:06:37.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 17,
+                            "normalized_text": "Amazon",
+                            "probability": 0.705,
+                            "start": 12,
+                            "type": "Organization"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 11,
+                            "start": 0,
+                            "username": "myzermo786"
+                        }
+                    ]
+                },
+                "id": "1348300219902009347",
+                "in_reply_to_user_id": "1522400426",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1348297353904664579",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "@myzermo786 Amazon video don\u2019t keep asking  \u201care you still watching\u201d every few episodes \ud83e\udd23"
+            },
+            {
+                "author_id": "778677054699036672",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Television shows from around the world",
+                            "id": "3",
+                            "name": "TV Shows"
+                        },
+                        "entity": {
+                            "id": "10051943004",
+                            "name": "The Punisher (Netflix)"
+                        }
+                    }
+                ],
+                "conversation_id": "1348293146908749825",
+                "created_at": "2021-01-10T16:04:17.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 48,
+                            "normalized_text": "Punisher",
+                            "probability": 0.6103,
+                            "start": 41,
+                            "type": "Other"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 11,
+                            "start": 0,
+                            "username": "bazofroses"
+                        },
+                        {
+                            "end": 20,
+                            "start": 12,
+                            "username": "EssexPR"
+                        }
+                    ]
+                },
+                "id": "1348299634389741568",
+                "in_reply_to_user_id": "23225504",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1348298249749352451",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "@bazofroses @EssexPR Started re watching Punisher as well. When kids aren\u2019t there \ud83d\ude06"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2021-01-09T05:25:56.000Z",
+                "description": "Akun backupnya @bacggy !",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 22,
+                                "start": 15,
+                                "username": "bacggy"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "wa.me/+6285156923027",
+                                "end": 23,
+                                "expanded_url": "http://wa.me/+6285156923027",
+                                "start": 0,
+                                "url": "https://t.co/AZ2TIl8ymg"
+                            }
+                        ]
+                    }
+                },
+                "id": "1347776564914647042",
+                "name": "Order ke Whatsapp \u203c",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1349721395660349440/sJnLpylx_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 4,
+                    "following_count": 1,
+                    "listed_count": 0,
+                    "tweet_count": 2861
+                },
+                "url": "https://t.co/AZ2TIl8ymg",
+                "username": "bacggy2",
+                "verified": false
+            },
+            {
+                "created_at": "2013-02-12T10:58:10.000Z",
+                "description": "Akun ini dikelola oleh 3 admin.",
+                "id": "1171624484",
+                "location": "Bandung, Jawa Barat",
+                "name": "1920",
+                "pinned_tweet_id": "1278540727006277632",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1348521891279949825/-Jfzl5Y0_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 362,
+                    "following_count": 236,
+                    "listed_count": 0,
+                    "tweet_count": 363
+                },
+                "url": "",
+                "username": "cladbeneath",
+                "verified": false
+            },
+            {
+                "created_at": "2021-01-03T08:37:12.000Z",
+                "description": "An Eccentric Introvert. \nLove Anime \ud83e\udd70 Movies \ud83d\ude18 Music \ud83d\ude0d Cricket \ud83d\udd25",
+                "id": "1345650333712674816",
+                "location": "My Mind ",
+                "name": "Quoting Thy Shit (Aswath)",
+                "pinned_tweet_id": "1349997727682158595",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347472216619814916/Qb7be627_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 10,
+                    "following_count": 95,
+                    "listed_count": 0,
+                    "tweet_count": 268
+                },
+                "url": "",
+                "username": "nightcall_vibe",
+                "verified": false
+            },
+            {
+                "created_at": "2018-05-05T04:06:51.000Z",
+                "description": "Cricket Enthusiast. Sports Lover. Dhoni Fan. And Federer Fan.\n Loves @Hanumavihari for His Shots On and Off the Field -Calm As Ice \ud83e\uddca\ud83e\uddca\ud83e\uddca",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 82,
+                                "start": 69,
+                                "username": "Hanumavihari"
+                            }
+                        ]
+                    }
+                },
+                "id": "992616590100312064",
+                "name": "Geet Sodhi-Viharian@11/01/21\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                "pinned_tweet_id": "1334937763708342274",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1348251927381909504/ssw041jz_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 38,
+                    "following_count": 144,
+                    "listed_count": 0,
+                    "tweet_count": 2716
+                },
+                "url": "",
+                "username": "SodhiGeet",
+                "verified": false
+            },
+            {
+                "created_at": "2020-05-29T08:09:10.000Z",
+                "description": "proud to be an indian :)",
+                "id": "1266280364781125636",
+                "name": "Harshit",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1335809006107934723/CLW-OQp5_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 6,
+                    "following_count": 15,
+                    "listed_count": 0,
+                    "tweet_count": 116
+                },
+                "url": "",
+                "username": "Harshit09535283",
+                "verified": false
+            },
+            {
+                "created_at": "2015-12-09T02:40:41.000Z",
+                "description": "Netflix and chill-y weather \ud83e\udd76\n\nCustomer service: @NetflixHelps",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 62,
+                                "start": 49,
+                                "username": "NetflixHelps"
+                            }
+                        ]
+                    }
+                },
+                "id": "4502936240",
+                "name": "Netflix India",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1072124554808422401/s8K84jEW_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1081646,
+                    "following_count": 247,
+                    "listed_count": 546,
+                    "tweet_count": 17496
+                },
+                "url": "",
+                "username": "NetflixIndia",
+                "verified": true
+            },
+            {
+                "created_at": "2008-10-03T04:16:17.000Z",
+                "description": "Black Lives Matter. Black Stories Matter. Follow @StrongBlackLead",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 65,
+                                "start": 49,
+                                "username": "StrongBlackLead"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "netflix.com/blacklivesmatt\u2026",
+                                "end": 23,
+                                "expanded_url": "http://netflix.com/blacklivesmatter",
+                                "start": 0,
+                                "url": "https://t.co/bkkHQoKSjv"
+                            }
+                        ]
+                    }
+                },
+                "id": "16573941",
+                "location": "California, USA",
+                "name": "Netflix",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 10435450,
+                    "following_count": 1667,
+                    "listed_count": 16804,
+                    "tweet_count": 37193
+                },
+                "url": "https://t.co/bkkHQoKSjv",
+                "username": "netflix",
+                "verified": true
+            },
+            {
+                "created_at": "2017-10-14T15:51:49.000Z",
+                "description": "she/her zhongli :(",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "ko-fi.com/joonlogist",
+                                "end": 23,
+                                "expanded_url": "https://ko-fi.com/joonlogist",
+                                "start": 0,
+                                "url": "https://t.co/blRd296wjI"
+                            }
+                        ]
+                    }
+                },
+                "id": "919229263055872000",
+                "location": "tannies heart",
+                "name": "\ud83c\udf31\ud83d\udc3c\u2077\u0633\u0646\u0627",
+                "pinned_tweet_id": "1348387231124303873",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1348725947642638339/PZitq33O_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 2171,
+                    "following_count": 190,
+                    "listed_count": 23,
+                    "tweet_count": 33301
+                },
+                "url": "https://t.co/blRd296wjI",
+                "username": "monohoped",
+                "verified": false
+            },
+            {
+                "created_at": "2020-08-05T17:10:53.000Z",
+                "description": "An anthropomorphic mouse",
+                "id": "1291059066928865281",
+                "name": "Lil Stu",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1291062251517022213/fdfIp5ib_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1,
+                    "following_count": 148,
+                    "listed_count": 0,
+                    "tweet_count": 9
+                },
+                "url": "",
+                "username": "Ratbitchgoof",
+                "verified": false
+            },
+            {
+                "created_at": "2017-01-09T20:43:54.000Z",
+                "description": "https://t.co/3sSEa56tUs\n\nhttps://t.co/1ZagbJVBIl",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "instagram.com/rileycj_worldw\u2026",
+                                "end": 23,
+                                "expanded_url": "http://instagram.com/rileycj_worldwide",
+                                "start": 0,
+                                "url": "https://t.co/3sSEa56tUs"
+                            },
+                            {
+                                "display_url": "youtu.be/bq_zEydcPs8",
+                                "end": 48,
+                                "expanded_url": "https://youtu.be/bq_zEydcPs8",
+                                "start": 25,
+                                "url": "https://t.co/1ZagbJVBIl"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtu.be/5pejzsTX3z8",
+                                "end": 23,
+                                "expanded_url": "https://youtu.be/5pejzsTX3z8",
+                                "start": 0,
+                                "url": "https://t.co/nUvs6avhJ1"
+                            }
+                        ]
+                    }
+                },
+                "id": "818558942867505154",
+                "location": "Botswana Gaborone",
+                "name": "RileyCjWorldwide",
+                "pinned_tweet_id": "1262733572038950913",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1306267223959515136/eunYgpaW_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 9533,
+                    "following_count": 8579,
+                    "listed_count": 0,
+                    "tweet_count": 8146
+                },
+                "url": "https://t.co/nUvs6avhJ1",
+                "username": "RileyCj_Bw",
+                "verified": false
+            },
+            {
+                "created_at": "2018-11-30T11:32:06.000Z",
+                "description": "18.\u2649\ufe0f Addicted to sums call it \u201cMeth\u201damatics",
+                "id": "1068467705685204992",
+                "location": "Botswana ",
+                "name": "\u211d \ud835\udd4c \u211d \ud835\udd40 \ud83e\udd0d",
+                "pinned_tweet_id": "1341856053126901762",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1349848947586723840/oK6s_fSZ_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1373,
+                    "following_count": 954,
+                    "listed_count": 2,
+                    "tweet_count": 2008
+                },
+                "url": "",
+                "username": "kruri_x",
+                "verified": false
+            },
+            {
+                "created_at": "2012-06-19T19:00:03.000Z",
+                "description": "\ud83e\uddd6\ud83c\udffb\u200d\u2640\ufe0f",
+                "id": "612776597",
+                "name": "giuls",
+                "pinned_tweet_id": "1318110843431772160",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1342992579026161666/2EGSgb68_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 8872,
+                    "following_count": 1497,
+                    "listed_count": 31,
+                    "tweet_count": 58990
+                },
+                "url": "",
+                "username": "AD0REVINNIE",
+                "verified": false
+            },
+            {
+                "created_at": "2018-12-04T09:51:00.000Z",
+                "description": "",
+                "id": "1069891813392175104",
+                "name": "Wilskin84",
+                "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 69,
+                    "listed_count": 0,
+                    "tweet_count": 52
+                },
+                "url": "",
+                "username": "wilskin84",
+                "verified": false
+            },
+            {
+                "created_at": "2010-07-29T14:34:19.000Z",
+                "description": "The Official Twitter for Attack On Titan TV. Follow us to get the latest news, videos & updates #AttackOnTitan",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 110,
+                                "start": 96,
+                                "tag": "AttackOnTitan"
+                            }
+                        ]
+                    }
+                },
+                "id": "172359983",
+                "location": "Behind the Walls",
+                "name": "Attack On Titan",
+                "pinned_tweet_id": "1350361434375544832",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1324093768618909697/Ij-CAeyd_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 56894,
+                    "following_count": 12,
+                    "listed_count": 63,
+                    "tweet_count": 64
+                },
+                "url": "",
+                "username": "AttackOnTitan",
+                "verified": false
+            },
+            {
+                "created_at": "2020-07-19T14:54:15.000Z",
+                "description": "E4T\ud83d\udc95LLBRITT\u2764\ufe0f",
+                "id": "1284864101315940353",
+                "name": "$$$$$",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1330867457133862912/hyflHiSd_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 211,
+                    "following_count": 179,
+                    "listed_count": 0,
+                    "tweet_count": 9283
+                },
+                "url": "",
+                "username": "nay_glock",
+                "verified": false
+            },
+            {
+                "created_at": "2009-10-03T04:07:45.000Z",
+                "description": "Inter-Country Social Work \u00a6 Public Health Enthusiast.",
+                "id": "79369907",
+                "location": "Here.",
+                "name": "Myk",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1296786572893970433/EELYdWw4_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 15897,
+                    "following_count": 13900,
+                    "listed_count": 0,
+                    "tweet_count": 22706
+                },
+                "url": "",
+                "username": "chukwuezugo",
+                "verified": false
+            },
+            {
+                "created_at": "2020-09-22T17:09:27.000Z",
+                "description": "This is another account, the last was deleted, the truth HURTS, and they do not like it. \nGod forgives I am not GOD and I do not forget either",
+                "id": "1308453305895575552",
+                "name": "Rober Maximillian Conway",
+                "pinned_tweet_id": "1346162104399704065",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1332772666370121730/0XW9VjGc_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 628,
+                    "following_count": 628,
+                    "listed_count": 0,
+                    "tweet_count": 11882
+                },
+                "url": "",
+                "username": "PritchardGriff2",
+                "verified": false
+            },
+            {
+                "created_at": "2020-11-12T17:40:36.000Z",
+                "description": "Life is Symbolic So Start Interpreting. Resist Tyranny Restore Harmony. Law of the Universe over Law of the land. Views are my own. Peace & Love & High Vibes",
+                "id": "1326942939772301319",
+                "name": "The Mayan Eagle",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1326943090289086465/CU_TLtos_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 613,
+                    "following_count": 1667,
+                    "listed_count": 0,
+                    "tweet_count": 2591
+                },
+                "url": "",
+                "username": "EagleMayan",
+                "verified": false
+            },
+            {
+                "created_at": "2009-02-13T18:39:54.000Z",
+                "description": "Official Twitter account of Amazon. \nContact @AmazonHelp for customer support.\nFollow @AmazonNews for the latest news from Amazon.",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 56,
+                                "start": 45,
+                                "username": "AmazonHelp"
+                            },
+                            {
+                                "end": 97,
+                                "start": 86,
+                                "username": "AmazonNews"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "amazon.com",
+                                "end": 22,
+                                "expanded_url": "http://www.amazon.com",
+                                "start": 0,
+                                "url": "http://t.co/Z2A4m7UeSv"
+                            }
+                        ]
+                    }
+                },
+                "id": "20793816",
+                "location": "Seattle, Washington",
+                "name": "Amazon",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/949070360103698432/kXSiPeTk_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 3539794,
+                    "following_count": 51,
+                    "listed_count": 15345,
+                    "tweet_count": 35089
+                },
+                "url": "http://t.co/Z2A4m7UeSv",
+                "username": "amazon",
+                "verified": true
+            },
+            {
+                "created_at": "2019-09-25T04:09:48.000Z",
+                "description": "Your reference podcast for all things pop culture, including movies, TV, video games, and beyond",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "podcasts.apple.com/us/podcast/pop\u2026",
+                                "end": 23,
+                                "expanded_url": "https://podcasts.apple.com/us/podcast/pop-culture-reference/id1481440049",
+                                "start": 0,
+                                "url": "https://t.co/sxySfuSghA"
+                            }
+                        ]
+                    }
+                },
+                "id": "1176710279842934784",
+                "name": "Pop Culture Reference",
+                "pinned_tweet_id": "1302633860962947072",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1176710399170875392/esHlOwca_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 23,
+                    "following_count": 41,
+                    "listed_count": 0,
+                    "tweet_count": 173
+                },
+                "url": "https://t.co/sxySfuSghA",
+                "username": "PCR_Podcast",
+                "verified": false
+            },
+            {
+                "created_at": "2009-04-27T15:48:17.000Z",
+                "description": "Actress; We Can Be Heroes out NOW! Find me sipping on too much coffee, usually sassin\u2019 & rappin\u2019; always loving, praying, and searching for Gods LIGHT\ud83d\udc9b",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "taylordooley.com",
+                                "end": 23,
+                                "expanded_url": "http://www.taylordooley.com",
+                                "start": 0,
+                                "url": "https://t.co/2NqcqzzlOL"
+                            }
+                        ]
+                    }
+                },
+                "id": "35774828",
+                "location": "Los Angeles, CA",
+                "name": "Taylor Dooley",
+                "pinned_tweet_id": "1334916623921074176",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1291470549336481792/lYkA2MYo_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 12839,
+                    "following_count": 250,
+                    "listed_count": 78,
+                    "tweet_count": 3402
+                },
+                "url": "https://t.co/2NqcqzzlOL",
+                "username": "taylordooley",
+                "verified": true
+            },
+            {
+                "created_at": "2012-05-16T18:58:33.000Z",
+                "description": "Loving Dad, owner of best dog in the world and husband to wonderful wife. LFC obsessed, rubbish at golf and pretty good at insurance pricing \ud83d\ude01\u26bd\ufe0f\ud83d\udc3e\ud83d\udc63",
+                "id": "582158346",
+                "name": "Stuart Jeffery \ud83d\udc3e\ud83d\udc63\u2764 LFC (at \ud83c\udfe1) 19\ud83c\udfc66\ud83c\udfc6 1\ud83c\udfc6 YNWA",
+                "pinned_tweet_id": "990272605927231488",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/845695085161467905/_z7wIifX_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 92,
+                    "following_count": 217,
+                    "listed_count": 0,
+                    "tweet_count": 4660
+                },
+                "url": "",
+                "username": "stuartj425",
+                "verified": false
+            },
+            {
+                "created_at": "2010-02-14T20:04:17.000Z",
+                "description": "Diego Maradona the greatest player to ever grace the game",
+                "id": "114271764",
+                "location": "Manchester",
+                "name": "warren bowen",
+                "pinned_tweet_id": "661662654759612416",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1346826511593185283/ewguQse3_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 3437,
+                    "following_count": 2056,
+                    "listed_count": 30,
+                    "tweet_count": 126552
+                },
+                "url": "",
+                "username": "warrenmcfc",
+                "verified": false
+            },
+            {
+                "created_at": "2012-10-21T10:01:07.000Z",
+                "description": "Blue since 89, it was worth the wait!!! A mum of 2.....totally winging it! Swears a lot...Adores Pep misses Zabby...Time served away days...",
+                "id": "895045729",
+                "name": "Shelly Blue \ud83c\udfc6\ud83c\udfc6\ud83c\udfc6",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347896136565215233/YKk7rY0c_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 2126,
+                    "following_count": 2117,
+                    "listed_count": 4,
+                    "tweet_count": 8625
+                },
+                "url": "",
+                "username": "shellmcfc74",
+                "verified": false
+            },
+            {
+                "created_at": "2019-03-19T08:43:01.000Z",
+                "description": "beralih profesi menjadi jualan app premium, karna aku bokek. yang mau netflix, spotify premium dm yaww\ud83d\udc98\nvia : gopay,tsel,ovo only",
+                "id": "1107925430831505408",
+                "location": "Jakarta Barat, DKI Jakarta",
+                "name": "nomnom(\u00b4 . .\u032b . `)",
+                "pinned_tweet_id": "1347556721338716166",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1349691091658833920/RSqAJIGe_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 476,
+                    "following_count": 591,
+                    "listed_count": 0,
+                    "tweet_count": 3300
+                },
+                "url": "",
+                "username": "junkycola",
+                "verified": false
+            },
+            {
+                "created_at": "2020-04-05T07:32:38.000Z",
+                "description": "",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "t.me/quotesbystrang\u2026",
+                                "end": 23,
+                                "expanded_url": "http://t.me/quotesbystranger",
+                                "start": 0,
+                                "url": "https://t.co/JDOl2ildy8"
+                            }
+                        ]
+                    }
+                },
+                "id": "1246702224614383616",
+                "name": "hyung",
+                "pinned_tweet_id": "1347608204599984128",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347619667083366401/OpJFzjtN_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1168,
+                    "following_count": 979,
+                    "listed_count": 1,
+                    "tweet_count": 12767
+                },
+                "url": "https://t.co/JDOl2ildy8",
+                "username": "sofeazulfadhli",
+                "verified": false
+            },
+            {
+                "created_at": "2013-06-16T14:56:35.000Z",
+                "description": "Please feel free to follow back \u2764\ufe0f\ud83d\ude4f",
+                "id": "1522400426",
+                "location": "west london",
+                "name": "mo",
+                "pinned_tweet_id": "1263904219175677953",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1295062953721462784/DGaW6FRT_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 525,
+                    "following_count": 824,
+                    "listed_count": 6,
+                    "tweet_count": 19582
+                },
+                "url": "",
+                "username": "myzermo786",
+                "verified": false
+            },
+            {
+                "created_at": "2009-04-21T03:33:04.000Z",
+                "description": "\ud83c\uddef\ud83c\uddf2 \ud83c\uddec\ud83c\uddfe \ud83c\udde8\ud83c\uddfa \ud83c\uddec\ud83c\udded",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "instagram.com/i_am_queen_rina",
+                                "end": 23,
+                                "expanded_url": "http://instagram.com/i_am_queen_rina",
+                                "start": 0,
+                                "url": "https://t.co/wn52xJAYQ0"
+                            }
+                        ]
+                    }
+                },
+                "id": "33795750",
+                "location": "London",
+                "name": "Shayla Jayde",
+                "pinned_tweet_id": "1349011775036002304",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1348952522900303874/fkNvsKad_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 127,
+                    "following_count": 102,
+                    "listed_count": 0,
+                    "tweet_count": 4713
+                },
+                "url": "https://t.co/wn52xJAYQ0",
+                "username": "Shayla__Jayde",
+                "verified": false
+            },
+            {
+                "created_at": "2020-06-12T12:26:56.000Z",
+                "description": "Go lang",
+                "id": "1271418652445700099",
+                "location": "Sa tabi tabi lang ",
+                "name": "enola",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1349636085127659522/rNBxcece_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 73,
+                    "following_count": 203,
+                    "listed_count": 0,
+                    "tweet_count": 1071
+                },
+                "url": "",
+                "username": "Sammm___69",
+                "verified": false
+            },
+            {
+                "created_at": "2011-02-02T03:05:43.000Z",
+                "description": "Literature | History | Music | Art | Theatre | Film",
+                "id": "246087962",
+                "name": "Scott Birrell",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1348299079252635649/GXYg7Fm1_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 810,
+                    "following_count": 4861,
+                    "listed_count": 4,
+                    "tweet_count": 19968
+                },
+                "url": "",
+                "username": "s_birrell",
+                "verified": false
+            },
+            {
+                "created_at": "2013-02-05T18:13:06.000Z",
+                "description": "Christian. Evertonian. Faith, politics, sport, art, nature & photography (love a good weather pic) #Prayer \ud83d\ude4f \ud83d\udd6f\ud83d\udc99",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 106,
+                                "start": 99,
+                                "tag": "Prayer"
+                            }
+                        ]
+                    }
+                },
+                "id": "1151597430",
+                "location": "Liverpool, UK",
+                "name": "Joy",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1309975964449992706/Otb5HpfA_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 344,
+                    "following_count": 521,
+                    "listed_count": 16,
+                    "tweet_count": 32390
+                },
+                "url": "",
+                "username": "ev3927",
+                "verified": false
+            },
+            {
+                "created_at": "2009-03-07T19:33:18.000Z",
+                "description": "Love all things old school. Manchester City and gaming \ud83d\udc99 \nPart time entrepreneur, Full time dude.",
+                "id": "23225504",
+                "location": "Manchester, England",
+                "name": "Barnie Stephenson",
+                "pinned_tweet_id": "1348269897873305600",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1349782914792366082/MuD4Eqk9_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 338,
+                    "following_count": 391,
+                    "listed_count": 8,
+                    "tweet_count": 3124
+                },
+                "url": "",
+                "username": "bazofroses",
+                "verified": false
+            },
+            {
+                "created_at": "2016-09-21T19:27:31.000Z",
+                "description": "",
+                "id": "778677054699036672",
+                "location": "Widnes, England",
+                "name": "Danny O'Connor",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1343499956037017600/mffzG7ih_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 108,
+                    "following_count": 239,
+                    "listed_count": 0,
+                    "tweet_count": 4983
+                },
+                "url": "",
+                "username": "Dannyoconnor430",
+                "verified": false
+            },
+            {
+                "created_at": "2009-05-21T23:31:33.000Z",
+                "description": "Publican at the @theowlhighbeach @thethreecolts pubs .\ud83c\udf7a\ud83c\udf77\ud83e\udd43\ud83c\udf7d \ud83c\udf54\ud83e\udd57 This is my personal Twitter and views are my own.  #PubsMatter",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 124,
+                                "start": 113,
+                                "tag": "PubsMatter"
+                            }
+                        ],
+                        "mentions": [
+                            {
+                                "end": 32,
+                                "start": 16,
+                                "username": "theowlhighbeach"
+                            },
+                            {
+                                "end": 47,
+                                "start": 33,
+                                "username": "thethreecolts"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "thethreecolts.com",
+                                "end": 23,
+                                "expanded_url": "http://thethreecolts.com",
+                                "start": 0,
+                                "url": "https://t.co/abeHMZVrXb"
+                            }
+                        ]
+                    }
+                },
+                "id": "41702018",
+                "location": "Essex , UK \ud83c\uddec\ud83c\udde7",
+                "name": "Adam Brooks",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1350196921558835208/aQDezRHW_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 154948,
+                    "following_count": 113327,
+                    "listed_count": 269,
+                    "tweet_count": 143442
+                },
+                "url": "https://t.co/abeHMZVrXb",
+                "username": "EssexPR",
+                "verified": true
+            },
+            {
+                "created_at": "2009-05-25T18:18:06.000Z",
+                "description": "many thoughts head full",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "curiouscat.me/lumachika/",
+                                "end": 23,
+                                "expanded_url": "https://curiouscat.me/lumachika/",
+                                "start": 0,
+                                "url": "https://t.co/YU4Icb7tr6"
+                            }
+                        ]
+                    }
+                },
+                "id": "42456169",
+                "location": "she / her | \u201895",
+                "name": "luma",
+                "pinned_tweet_id": "1290225590361100290",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1310701664366624770/t71O8xIK_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 620,
+                    "following_count": 492,
+                    "listed_count": 10,
+                    "tweet_count": 79519
+                },
+                "url": "https://t.co/YU4Icb7tr6",
+                "username": "lumachika",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1348303257249017859",
+        "next_token": "b26v89c19zqg8o3foshv20mnpcm2bz6oyimcoki25ezr1",
+        "oldest_id": "1348303142832795649",
+        "result_count": 20
+    }
+}

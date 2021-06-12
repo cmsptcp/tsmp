@@ -1,0 +1,3286 @@
+{
+    "data": [
+        {
+            "author_id": "1105549422543409153",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cuisines",
+                        "id": "860133563332648963",
+                        "name": "Cuisines"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Fast food",
+                        "id": "847865239886417922",
+                        "name": "Fast food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                }
+            ],
+            "conversation_id": "1350120267817709569",
+            "created_at": "2021-01-16T02:15:40.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "username": "kgymtob"
+                    },
+                    {
+                        "end": 19,
+                        "start": 9,
+                        "username": "McDonalds"
+                    }
+                ]
+            },
+            "id": "1350265433165877249",
+            "in_reply_to_user_id": "1293915238018899968",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350120267817709569",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@kgymtob @McDonalds HEYYY BESTIEEEEEE"
+        },
+        {
+            "author_id": "60823844",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Careers",
+                        "id": "847544972781826048",
+                        "name": "Careers"
+                    }
+                }
+            ],
+            "conversation_id": "1350108263254261760",
+            "created_at": "2021-01-16T02:15:36.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "Malcolm_fleX48"
+                    }
+                ]
+            },
+            "id": "1350265417055387648",
+            "in_reply_to_user_id": "211025537",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350108263254261760",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@Malcolm_fleX48 The problem is.... jobs under 15 dollars an hour ARE NOT CAREER JOBS. I can\u2019t agree with your text enough... these are entry level jobs to build skill sets for young adults to learn how to be in the work force. Adults trying to make McD\u2019s a career is the problem."
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1350265383534669825"
+                ]
+            },
+            "author_id": "1218351510964310022",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cuisines",
+                        "id": "860133563332648963",
+                        "name": "Cuisines"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Fast food",
+                        "id": "847865239886417922",
+                        "name": "Fast food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                }
+            ],
+            "conversation_id": "1350265387359887361",
+            "created_at": "2021-01-16T02:15:29.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 32,
+                        "start": 22,
+                        "username": "McDonalds"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/ZMXaCAqTWY",
+                        "end": 68,
+                        "expanded_url": "https://twitter.com/bankquits/status/1350265387359887361/photo/1",
+                        "start": 45,
+                        "url": "https://t.co/ZMXaCAqTWY"
+                    }
+                ]
+            },
+            "id": "1350265387359887361",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "having a sleepover at @McDonalds tonight!!1! https://t.co/ZMXaCAqTWY"
+        },
+        {
+            "author_id": "1186041737183055872",
+            "conversation_id": "1350264255921205248",
+            "created_at": "2021-01-16T02:15:25.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "username": "Dynamus_"
+                    }
+                ]
+            },
+            "id": "1350265367726178304",
+            "in_reply_to_user_id": "94236717",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350264255921205248",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@Dynamus_ you ate mcdonald\u2019s 4x this week vic"
+        },
+        {
+            "author_id": "1910882288",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                }
+            ],
+            "conversation_id": "1350183032368599058",
+            "created_at": "2021-01-16T02:15:21.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "McDonalds",
+                        "probability": 0.8609,
+                        "start": 30,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "LepapillonBlu"
+                    },
+                    {
+                        "end": 29,
+                        "start": 15,
+                        "username": "STabbytosavit"
+                    }
+                ]
+            },
+            "id": "1350265354942099459",
+            "in_reply_to_user_id": "3691154787",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350183032368599058",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "@LepapillonBlu @STabbytosavit McDonalds is hiring \u201cadults\u201d"
+        },
+        {
+            "author_id": "1098638611388350464",
+            "conversation_id": "1350191913224302596",
+            "created_at": "2021-01-16T02:15:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "McDonald",
+                        "probability": 0.7392,
+                        "start": 25,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "username": "mgoss79"
+                    },
+                    {
+                        "end": 21,
+                        "start": 9,
+                        "username": "SheaSerrano"
+                    }
+                ]
+            },
+            "id": "1350265344732983299",
+            "in_reply_to_user_id": "176174821",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350233809871056897",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@mgoss79 @SheaSerrano If McDonald's could charge more for a big Mac tomorrow if labor costs increase they would charge more for it today."
+        },
+        {
+            "author_id": "1337758946119938049",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cuisines",
+                        "id": "860133563332648963",
+                        "name": "Cuisines"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Fast food",
+                        "id": "847865239886417922",
+                        "name": "Fast food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032682179",
+                        "name": "eBay"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                }
+            ],
+            "conversation_id": "1350265313959567363",
+            "created_at": "2021-01-16T02:15:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "shelley",
+                        "probability": 0.5702,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 85,
+                        "start": 80,
+                        "tag": "ebay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Fantastic collection of Barbie dolls and toys, various collections, mostly from McDonalds.",
+                        "display_url": "rover.ebay.com/rover/1/711-53\u2026",
+                        "end": 109,
+                        "expanded_url": "https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&toolid=10044&campid=5338548834&customid=&lgeo=1&vectorid=229466&item=174592226127",
+                        "images": [
+                            {
+                                "height": 217,
+                                "url": "https://pbs.twimg.com/news_img/1350265319722463233/PohLgMhj?format=jpg&name=orig",
+                                "width": 400
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1350265319722463233/PohLgMhj?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 86,
+                        "status": 200,
+                        "title": "bundle 30 BARBIE dolls,McDonalds TOYS,1990's,2000's,bride,princess,shelley,BABY",
+                        "unwound_url": "https://www.ebay.com/itm/174592226127",
+                        "url": "https://t.co/ptqXioD0js"
+                    }
+                ]
+            },
+            "id": "1350265313959567363",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter",
+            "text": "bundle 30 BARBIE dolls,McDonalds TOYS,1990's,2000's,bride,princess,shelley,BABY #ebay https://t.co/ptqXioD0js"
+        },
+        {
+            "author_id": "1141238075667955712",
+            "conversation_id": "1350156837199486979",
+            "created_at": "2021-01-16T02:15:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "McDonald",
+                        "probability": 0.6975,
+                        "start": 24,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "NYC",
+                        "probability": 0.9928,
+                        "start": 60,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "_David_Edward"
+                    }
+                ]
+            },
+            "id": "1350265303800967171",
+            "in_reply_to_user_id": "2806325838",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350156837199486979",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@_David_Edward Exactly, McDonald's is too expensive here in NYC. These smooth brains never think anything through."
+        },
+        {
+            "author_id": "1106023910783496192",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597570732032",
+                        "name": "Multi-Purpose Department"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026347212",
+                        "name": "Walmart"
+                    }
+                }
+            ],
+            "conversation_id": "1350168686552780800",
+            "created_at": "2021-01-16T02:15:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 116,
+                        "normalized_text": "McDonald",
+                        "probability": 0.5083,
+                        "start": 109,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "start": 0,
+                        "username": "samanthamarika1"
+                    }
+                ]
+            },
+            "id": "1350265297241059328",
+            "in_reply_to_user_id": "1006474869570093056",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350168686552780800",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@samanthamarika1 The idiots pushing for this don't stop to think that not every buisness has the wealth of a McDonald's or Walmarts. Many small buisnesses are just limping by as it is in this COVID environment."
+        },
+        {
+            "author_id": "231748652",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                }
+            ],
+            "conversation_id": "1350078945530572806",
+            "created_at": "2021-01-16T02:15:08.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "username": "baloney_jim"
+                    },
+                    {
+                        "end": 25,
+                        "start": 13,
+                        "username": "KhoroShogun"
+                    },
+                    {
+                        "end": 37,
+                        "start": 26,
+                        "username": "fightfor15"
+                    },
+                    {
+                        "end": 48,
+                        "start": 38,
+                        "username": "McDonalds"
+                    }
+                ]
+            },
+            "id": "1350265297131892739",
+            "in_reply_to_user_id": "1310404528378961921",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350194937158098945",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@baloney_jim @KhoroShogun @fightfor15 @McDonalds When you're dealing with multimillion dollar salaries, being paid a little less will not effect your quality of life at all. On the other hand the increase to low end workers would fundamentally change their lives. Giving them more purchasing power to then stimulate the economy."
+        },
+        {
+            "author_id": "1131921829889810432",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Food",
+                        "id": "824777229892661248",
+                        "name": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Hamburgers",
+                        "id": "825052673749577728",
+                        "name": "Hamburgers"
+                    }
+                }
+            ],
+            "conversation_id": "1350265272507236352",
+            "created_at": "2021-01-16T02:15:02.000Z",
+            "id": "1350265272507236352",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Does anyone acc order burgers from a chipper, like not Supermac's or McDonald's or whatever but like a proper greasy chipper.. ordering a burger from there feels wrong"
+        },
+        {
+            "author_id": "2895656356",
+            "conversation_id": "1350265269982277637",
+            "created_at": "2021-01-16T02:15:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "McDonald's Man",
+                        "probability": 0.3984,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1350265269982277637",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Radio.co now playing",
+            "text": "McDonald's Man ad"
+        },
+        {
+            "author_id": "1500044143",
+            "conversation_id": "1350261507209261059",
+            "created_at": "2021-01-16T02:14:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "mcdonald",
+                        "probability": 0.4945,
+                        "start": 16,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "FlagsMashupBot"
+                    }
+                ]
+            },
+            "id": "1350265253221822466",
+            "in_reply_to_user_id": "1162495379574857731",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350261507209261059",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@FlagsMashupBot mcdonald's"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1350265231373602816",
+                    "3_1350265231381942273",
+                    "3_1350265231407157253",
+                    "3_1350265231717486592"
+                ]
+            },
+            "author_id": "3242523302",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201641937502998528",
+                        "name": "Arcade gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201644971855499264",
+                        "name": "Retro gaming"
+                    }
+                }
+            ],
+            "conversation_id": "1350265247962054660",
+            "created_at": "2021-01-16T02:14:56.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/c3JkZfoltC",
+                        "end": 302,
+                        "expanded_url": "https://twitter.com/StrayTurtle/status/1350265247962054660/photo/1",
+                        "start": 279,
+                        "url": "https://t.co/c3JkZfoltC"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/c3JkZfoltC",
+                        "end": 302,
+                        "expanded_url": "https://twitter.com/StrayTurtle/status/1350265247962054660/photo/1",
+                        "start": 279,
+                        "url": "https://t.co/c3JkZfoltC"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/c3JkZfoltC",
+                        "end": 302,
+                        "expanded_url": "https://twitter.com/StrayTurtle/status/1350265247962054660/photo/1",
+                        "start": 279,
+                        "url": "https://t.co/c3JkZfoltC"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/c3JkZfoltC",
+                        "end": 302,
+                        "expanded_url": "https://twitter.com/StrayTurtle/status/1350265247962054660/photo/1",
+                        "start": 279,
+                        "url": "https://t.co/c3JkZfoltC"
+                    }
+                ]
+            },
+            "id": "1350265247962054660",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "I was looking at this \u201cN64\u201d arcade cabinet at a McDonald\u2019s apparently. Thinking, \u201cHow would I do that? What if it draws people making a mess? Maybe more kids just buying stuff. Maybe worth it. How about a BUNCH of games? Where do I remember having an arcade? A movie theater! \ud83d\ude02\ud83d\ude0a https://t.co/c3JkZfoltC"
+        },
+        {
+            "author_id": "28046634",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Food",
+                        "id": "824777229892661248",
+                        "name": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Onion Rings",
+                        "id": "825065818824126464",
+                        "name": "Onion Rings"
+                    }
+                }
+            ],
+            "conversation_id": "1350264226275872770",
+            "created_at": "2021-01-16T02:14:48.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "McDonald",
+                        "probability": 0.5856,
+                        "start": 15,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "ZuluMediaCell"
+                    }
+                ]
+            },
+            "id": "1350265214801997825",
+            "in_reply_to_user_id": "1290867134516662275",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350264226275872770",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@ZuluMediaCell McDonald's needs onion rings"
+        },
+        {
+            "author_id": "334486336",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cuisines",
+                        "id": "860133563332648963",
+                        "name": "Cuisines"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Meals",
+                        "id": "1034860760093024257",
+                        "name": "Meals"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Fast food",
+                        "id": "847865239886417922",
+                        "name": "Fast food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "This entity tracks all conversations that mention breakfast. ",
+                        "id": "1006588495480045568",
+                        "name": "Breakfast"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                }
+            ],
+            "conversation_id": "1350265173269860354",
+            "created_at": "2021-01-16T02:14:38.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 32,
+                        "start": 22,
+                        "username": "McDonalds"
+                    }
+                ]
+            },
+            "id": "1350265173269860354",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "I just wanna know why @McDonalds got rid of all day breakfast :\u2019("
+        },
+        {
+            "author_id": "1308768006126751744",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10045836557",
+                        "name": "McDonald's - McFlurry"
+                    }
+                }
+            ],
+            "conversation_id": "1350265146355011585",
+            "created_at": "2021-01-16T02:14:32.000Z",
+            "id": "1350265146355011585",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "one thing i hate more than gay ppl r those spoons that comes w a mcflurry"
+        },
+        {
+            "author_id": "903700698",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cuisines",
+                        "id": "860133563332648963",
+                        "name": "Cuisines"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Fast food",
+                        "id": "847865239886417922",
+                        "name": "Fast food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                }
+            ],
+            "conversation_id": "1350265142349623296",
+            "created_at": "2021-01-16T02:14:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 91,
+                        "normalized_text": "Manchester",
+                        "probability": 0.9311,
+                        "start": 82,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 167,
+                        "normalized_text": "McDonalds",
+                        "probability": 0.7546,
+                        "start": 159,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 43,
+                        "start": 33,
+                        "tag": "Uttoxeter"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 58,
+                        "start": 44,
+                        "username": "EStaffsPolice"
+                    }
+                ]
+            },
+            "id": "1350265142349623296",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 59,
+                "quote_count": 3,
+                "reply_count": 21,
+                "retweet_count": 7
+            },
+            "reply_settings": "everyone",
+            "source": "Orlo",
+            "text": "Tonight a vehicle was stopped in #Uttoxeter @EStaffsPolice. Group of friends from Manchester area not having legitimate reasons to be here other than going to McDonalds!All 4 occupants from different address.\u00a3800 in fines issued to occupants. Please stay at home unless necessary!"
+        },
+        {
+            "author_id": "312959366",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026332256",
+                        "name": "Burger King"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cuisines",
+                        "id": "860133563332648963",
+                        "name": "Cuisines"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Fast food",
+                        "id": "847865239886417922",
+                        "name": "Fast food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Food",
+                        "id": "824777229892661248",
+                        "name": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Hamburgers",
+                        "id": "825052673749577728",
+                        "name": "Hamburgers"
+                    }
+                }
+            ],
+            "conversation_id": "1350265128986537984",
+            "created_at": "2021-01-16T02:14:28.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "McDonald",
+                        "probability": 0.8681,
+                        "start": 22,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "Burger King",
+                        "probability": 0.2381,
+                        "start": 71,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1350265128986537984",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "This man said he eats McDonald\u2019s THREE mf times a day... but he prefer Burger King. Sir if you want to commit suicide just say that"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "height": 683,
+                "media_key": "3_1350265383534669825",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Er0bNloXMAE24Kq.jpg",
+                "width": 951
+            },
+            {
+                "height": 2048,
+                "media_key": "3_1350265231373602816",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Er0bEuyVkAAOcG-.jpg",
+                "width": 946
+            },
+            {
+                "height": 2048,
+                "media_key": "3_1350265231381942273",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Er0bEu0U0AEPWlI.jpg",
+                "width": 946
+            },
+            {
+                "height": 2048,
+                "media_key": "3_1350265231407157253",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Er0bEu6VkAUMxMQ.jpg",
+                "width": 946
+            },
+            {
+                "height": 2048,
+                "media_key": "3_1350265231717486592",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Er0bEwEU0AAVkwf.jpg",
+                "width": 946
+            }
+        ],
+        "tweets": [
+            {
+                "author_id": "1293915238018899968",
+                "conversation_id": "1350120267817709569",
+                "created_at": "2021-01-15T16:38:50.000Z",
+                "id": "1350120267817709569",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 749,
+                    "quote_count": 114,
+                    "reply_count": 742,
+                    "retweet_count": 12
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter Web App",
+                "text": "Be friends with your 3rd @."
+            },
+            {
+                "author_id": "211025537",
+                "conversation_id": "1350108263254261760",
+                "created_at": "2021-01-15T15:51:08.000Z",
+                "id": "1350108263254261760",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 38480,
+                    "quote_count": 2263,
+                    "reply_count": 1727,
+                    "retweet_count": 6260
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "How about instead of raising the minimum wage to $15.00 an hour, you raise your skillset to be worth at least $15.00 an hour?"
+            },
+            {
+                "author_id": "94236717",
+                "conversation_id": "1350264255921205248",
+                "created_at": "2021-01-16T02:10:59.000Z",
+                "id": "1350264255921205248",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 3,
+                    "retweet_count": 0
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "My head hurts"
+            },
+            {
+                "author_id": "3691154787",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Named people in the world like Nelson Mandela",
+                            "id": "10",
+                            "name": "Person"
+                        },
+                        "entity": {
+                            "description": "US President Donald Trump",
+                            "id": "799022225751871488",
+                            "name": "Donald Trump"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Politicians in the world, like Joe Biden",
+                            "id": "35",
+                            "name": "Politician"
+                        },
+                        "entity": {
+                            "description": "US President Donald Trump",
+                            "id": "799022225751871488",
+                            "name": "Donald Trump"
+                        }
+                    }
+                ],
+                "conversation_id": "1350183032368599058",
+                "created_at": "2021-01-15T20:48:14.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 4,
+                            "normalized_text": "Trump",
+                            "probability": 0.9981,
+                            "start": 0,
+                            "type": "Person"
+                        }
+                    ]
+                },
+                "id": "1350183032368599058",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 2592,
+                    "quote_count": 80,
+                    "reply_count": 296,
+                    "retweet_count": 351
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "Trump staffers are mysteriously having trouble finding a new job. Lol"
+            },
+            {
+                "author_id": "176174821",
+                "conversation_id": "1350191913224302596",
+                "created_at": "2021-01-16T00:10:01.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 15,
+                            "start": 0,
+                            "username": "BriantheTaxMan"
+                        },
+                        {
+                            "end": 28,
+                            "start": 16,
+                            "username": "SheaSerrano"
+                        }
+                    ]
+                },
+                "id": "1350233809871056897",
+                "in_reply_to_user_id": "1098638611388350464",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 3,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1350228666005950464",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "@BriantheTaxMan @SheaSerrano What? Have you not heard of inflation and cost of living increase? You think corporations are going to lose profits to pay people more? No. They're going to raise prices which in turn, will raise the cost of everything. There will never be an end of the poverty line."
+            },
+            {
+                "author_id": "2806325838",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Named people in the world like Nelson Mandela",
+                            "id": "10",
+                            "name": "Person"
+                        },
+                        "entity": {
+                            "description": "Former US Vice President Joe Biden",
+                            "id": "10040395078",
+                            "name": "Joe Biden"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Politicians in the world, like Joe Biden",
+                            "id": "35",
+                            "name": "Politician"
+                        },
+                        "entity": {
+                            "description": "Former US Vice President Joe Biden",
+                            "id": "10040395078",
+                            "name": "Joe Biden"
+                        }
+                    }
+                ],
+                "conversation_id": "1350156837199486979",
+                "created_at": "2021-01-15T19:04:09.000Z",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/Breaking911/st\u2026",
+                            "end": 104,
+                            "expanded_url": "https://twitter.com/Breaking911/status/1349879784587874308",
+                            "start": 81,
+                            "url": "https://t.co/UVhH1mg0qH"
+                        }
+                    ]
+                },
+                "id": "1350156837199486979",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 2523,
+                    "quote_count": 36,
+                    "reply_count": 221,
+                    "retweet_count": 451
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1349879784587874308",
+                        "type": "quoted"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "Can't wait to eat my $8.00 Big Mac while reading about the unemployment numbers. https://t.co/UVhH1mg0qH"
+            },
+            {
+                "author_id": "1006474869570093056",
+                "conversation_id": "1350168686552780800",
+                "created_at": "2021-01-15T19:51:14.000Z",
+                "id": "1350168686552780800",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 15470,
+                    "quote_count": 187,
+                    "reply_count": 590,
+                    "retweet_count": 2326
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "Raising the minimum wage to $15 is the nail in the coffin for small businesses."
+            },
+            {
+                "author_id": "1310404528378961921",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Top level entities that describe a Brands industry",
+                            "id": "45",
+                            "name": "Brand Vertical"
+                        },
+                        "entity": {
+                            "id": "781974596161376261",
+                            "name": "Dining"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                            "id": "46",
+                            "name": "Brand Category"
+                        },
+                        "entity": {
+                            "id": "781974597017083904",
+                            "name": "QSR"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "10026319212",
+                            "name": "McDonald's"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Top level interests and hobbies groupings, like Food or Travel",
+                            "id": "65",
+                            "name": "Interests and Hobbies Vertical"
+                        },
+                        "entity": {
+                            "description": "Food",
+                            "id": "825047692124442624",
+                            "name": "Food"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                            "id": "66",
+                            "name": "Interests and Hobbies Category"
+                        },
+                        "entity": {
+                            "description": "Cuisines",
+                            "id": "860133563332648963",
+                            "name": "Cuisines"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                            "id": "67",
+                            "name": "Interests and Hobbies"
+                        },
+                        "entity": {
+                            "description": "Fast food",
+                            "id": "847865239886417922",
+                            "name": "Fast food"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Top level entities that describe a Brands industry",
+                            "id": "45",
+                            "name": "Brand Vertical"
+                        },
+                        "entity": {
+                            "id": "781974596161376261",
+                            "name": "Dining"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                            "id": "46",
+                            "name": "Brand Category"
+                        },
+                        "entity": {
+                            "id": "781974597017083904",
+                            "name": "QSR"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "10026319212",
+                            "name": "McDonald's"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Top level interests and hobbies groupings, like Food or Travel",
+                            "id": "65",
+                            "name": "Interests and Hobbies Vertical"
+                        },
+                        "entity": {
+                            "description": "Food",
+                            "id": "825047692124442624",
+                            "name": "Food"
+                        }
+                    }
+                ],
+                "conversation_id": "1350078945530572806",
+                "created_at": "2021-01-15T21:35:33.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 12,
+                            "start": 0,
+                            "username": "HGPhantamos"
+                        },
+                        {
+                            "end": 25,
+                            "start": 13,
+                            "username": "KhoroShogun"
+                        },
+                        {
+                            "end": 37,
+                            "start": 26,
+                            "username": "fightfor15"
+                        },
+                        {
+                            "end": 48,
+                            "start": 38,
+                            "username": "McDonalds"
+                        }
+                    ]
+                },
+                "id": "1350194937158098945",
+                "in_reply_to_user_id": "231748652",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 3,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1350190901117612032",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "@HGPhantamos @KhoroShogun @fightfor15 @McDonalds Yes because a CEO of a multi-national corporation and a cashier have the same workload and do basically the same thing"
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "3_1350261503870574592"
+                    ]
+                },
+                "author_id": "1162495379574857731",
+                "conversation_id": "1350261507209261059",
+                "created_at": "2021-01-16T02:00:04.000Z",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "pic.twitter.com/keMpnMnkew",
+                            "end": 109,
+                            "expanded_url": "https://twitter.com/FlagsMashupBot/status/1350261507209261059/photo/1",
+                            "start": 86,
+                            "url": "https://t.co/keMpnMnkew"
+                        }
+                    ]
+                },
+                "id": "1350261507209261059",
+                "lang": "ro",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 70,
+                    "quote_count": 4,
+                    "reply_count": 11,
+                    "retweet_count": 17
+                },
+                "reply_settings": "everyone",
+                "source": "BotFlags",
+                "text": "Poland (\ud83c\uddf5\ud83c\uddf1)\n+\nBolivarian Republic of Venezuela  (\ud83c\uddfb\ud83c\uddea)\n=\nBolivarian Republic of Poland: https://t.co/keMpnMnkew"
+            },
+            {
+                "author_id": "1290867134516662275",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Top level interests and hobbies groupings, like Food or Travel",
+                            "id": "65",
+                            "name": "Interests and Hobbies Vertical"
+                        },
+                        "entity": {
+                            "description": "Food",
+                            "id": "825047692124442624",
+                            "name": "Food"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                            "id": "66",
+                            "name": "Interests and Hobbies Category"
+                        },
+                        "entity": {
+                            "description": "Generic Food",
+                            "id": "824777229892661248",
+                            "name": "Generic Food"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                            "id": "67",
+                            "name": "Interests and Hobbies"
+                        },
+                        "entity": {
+                            "description": "Guacamole",
+                            "id": "841744452028841985",
+                            "name": "Guacamole"
+                        }
+                    }
+                ],
+                "conversation_id": "1350264226275872770",
+                "created_at": "2021-01-16T02:10:52.000Z",
+                "id": "1350264226275872770",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 22,
+                    "quote_count": 17,
+                    "reply_count": 17,
+                    "retweet_count": 0
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "Name your most passionate opinion about the least consequential topic. \n\nI\u2019ll go first: avocados are bad but guacamole is good."
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2019-03-12T19:21:37.000Z",
+                "description": "attracted to fictional characters only || she/her minor",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "currentinfo.carrd.co",
+                                "end": 23,
+                                "expanded_url": "https://currentinfo.carrd.co/",
+                                "start": 0,
+                                "url": "https://t.co/xnTnO0YGIm"
+                            }
+                        ]
+                    }
+                },
+                "id": "1105549422543409153",
+                "location": "BLACK",
+                "name": "Shya",
+                "pinned_tweet_id": "1349909556109959171",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1350214111783768064/RqFn7A_C_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 469,
+                    "following_count": 557,
+                    "listed_count": 11,
+                    "tweet_count": 6491
+                },
+                "url": "https://t.co/xnTnO0YGIm",
+                "username": "belphxieswife",
+                "verified": false
+            },
+            {
+                "created_at": "2020-08-13T14:20:26.000Z",
+                "description": "\uff40                    \ud83c\udf31  \u0e51  \u5f71\u5c71\u30c8\u30d3\u30aa\u306f\u79c1\u3092\u611b\u3057\u3066\u308b \u2661",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "aint-cute.com",
+                                "end": 23,
+                                "expanded_url": "http://aint-cute.com",
+                                "start": 0,
+                                "url": "https://t.co/UKyFlFmqqp"
+                            }
+                        ]
+                    }
+                },
+                "id": "1293915238018899968",
+                "location": ", ~ tobio's baby \u2661  she/her",
+                "name": "'",
+                "pinned_tweet_id": "1309493547901399041",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1350119495101153281/cU7lo27x_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 4919,
+                    "following_count": 3133,
+                    "listed_count": 44,
+                    "tweet_count": 10205
+                },
+                "url": "https://t.co/UKyFlFmqqp",
+                "username": "kgymtob",
+                "verified": false
+            },
+            {
+                "created_at": "2009-09-02T17:46:43.000Z",
+                "description": "Grimace is a close personal friend of mine",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "bit.ly/3oTVcMD",
+                                "end": 23,
+                                "expanded_url": "https://bit.ly/3oTVcMD",
+                                "start": 0,
+                                "url": "https://t.co/wfCjdnBm7e"
+                            }
+                        ]
+                    }
+                },
+                "id": "71026122",
+                "name": "McDonald's",
+                "pinned_tweet_id": "1346858026876231681",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1334527633992761344/kwlzzLs6_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 3736785,
+                    "following_count": 13590,
+                    "listed_count": 0,
+                    "tweet_count": 675310
+                },
+                "url": "https://t.co/wfCjdnBm7e",
+                "username": "McDonalds",
+                "verified": true
+            },
+            {
+                "created_at": "2009-07-28T05:40:31.000Z",
+                "description": "Wrestling, retro games & sports. Day job for bills nighttime comedy for fun. AboveAverage open mic guy. ONE DAY I may be GREAT but today I am Above Average!",
+                "id": "60823844",
+                "location": "Los Angeles, CA",
+                "name": "AboveAverageMuta",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1128036325/muta_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 344,
+                    "following_count": 123,
+                    "listed_count": 7,
+                    "tweet_count": 13177
+                },
+                "url": "",
+                "username": "AAMuta",
+                "verified": false
+            },
+            {
+                "created_at": "2010-11-02T02:41:25.000Z",
+                "description": "#ENTP| 6'5 & Jacked\ud83c\udfcb\ud83c\udfff\u200d\u2640\ufe0f| Former D1 Athlete \ud83c\udfc3\ud83c\udfff| Industry Research Scientist \ud83d\udc68\ud83c\udfff\u200d\ud83d\udd2c| Anime| Libertarian Cent \ud83c\uddfa\ud83c\uddf8|Dad\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66|\nKOTHT\ud83d\udee1\ufe0f\u2694\ufe0f",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 5,
+                                "start": 0,
+                                "tag": "ENTP"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "gab.com/Malcolm_Flex48",
+                                "end": 23,
+                                "expanded_url": "https://gab.com/Malcolm_Flex48",
+                                "start": 0,
+                                "url": "https://t.co/JJzZZ1Gs11"
+                            }
+                        ]
+                    }
+                },
+                "id": "211025537",
+                "location": "Alternate Timeline Earth",
+                "name": "@Malcolm Fle\u2718 is on GAB.",
+                "pinned_tweet_id": "1276339046881599488",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347202866075873281/Lk0ric3K_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 47796,
+                    "following_count": 557,
+                    "listed_count": 125,
+                    "tweet_count": 50377
+                },
+                "url": "https://t.co/JJzZZ1Gs11",
+                "username": "Malcolm_fleX48",
+                "verified": false
+            },
+            {
+                "created_at": "2020-01-18T01:56:56.000Z",
+                "description": "professional among us player",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtube.com/channel/UCOXRB\u2026",
+                                "end": 23,
+                                "expanded_url": "https://www.youtube.com/channel/UCOXRBU1ConghvFVhI87hNFQ",
+                                "start": 0,
+                                "url": "https://t.co/0CpHOdhtEV"
+                            }
+                        ]
+                    }
+                },
+                "id": "1218351510964310022",
+                "location": "\ud835\udd1e\ud835\udd32\ud835\udd2f\ud835\udd26\u2661",
+                "name": "cam",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1336075290871795717/PtjOiFWd_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 22,
+                    "following_count": 28,
+                    "listed_count": 0,
+                    "tweet_count": 208
+                },
+                "url": "https://t.co/0CpHOdhtEV",
+                "username": "bankquits",
+                "verified": false
+            },
+            {
+                "created_at": "2019-10-20T22:09:36.000Z",
+                "description": "@levi2cool_ ig:levirhowe",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 11,
+                                "start": 0,
+                                "username": "levi2cool_"
+                            }
+                        ]
+                    }
+                },
+                "id": "1186041737183055872",
+                "name": "\ud83e\udda6",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1313779748670038016/8b2C0ro5_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 86,
+                    "following_count": 83,
+                    "listed_count": 0,
+                    "tweet_count": 1085
+                },
+                "url": "",
+                "username": "levirhowe",
+                "verified": false
+            },
+            {
+                "created_at": "2009-12-03T02:40:48.000Z",
+                "description": "Nature lover, lore whore, tea addict who's passionate about mecha anime, gaming culture and hour long dramas. Rest in peace Johnny #MM",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 134,
+                                "start": 131,
+                                "tag": "MM"
+                            }
+                        ]
+                    }
+                },
+                "id": "94236717",
+                "location": "Raleigh, NC",
+                "name": "TFP || vimctor",
+                "pinned_tweet_id": "1132475383826325504",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1297280088795500551/1EMTd1nS_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1532,
+                    "following_count": 714,
+                    "listed_count": 42,
+                    "tweet_count": 320219
+                },
+                "url": "",
+                "username": "Dynamus_",
+                "verified": false
+            },
+            {
+                "created_at": "2013-09-27T11:30:15.000Z",
+                "description": "How on Earth was it this close? Regulations Protect. Friend of Bill W. Maybe the human race isn\u2019t worth saving. \ud83e\udd37\u200d\u2640\ufe0f #BLM",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 121,
+                                "start": 117,
+                                "tag": "BLM"
+                            }
+                        ]
+                    }
+                },
+                "id": "1910882288",
+                "location": "Wisconsin, USA",
+                "name": "Middle-aged White Liberal Rural Voter",
+                "pinned_tweet_id": "1324360160220008449",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1326158872969687040/2jwX-AbM_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 951,
+                    "following_count": 1513,
+                    "listed_count": 3,
+                    "tweet_count": 13194
+                },
+                "url": "",
+                "username": "dividejen",
+                "verified": false
+            },
+            {
+                "created_at": "2015-09-18T00:49:09.000Z",
+                "description": "Photographer \ud83d\udcf8 & Artist \ud83d\udc69\ud83c\udffd\u200d\ud83c\udfa8 pics here with my \u00a9copyright on them are mine. https://t.co/dK0UoXf8qE #ClimateAction",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 114,
+                                "start": 100,
+                                "tag": "ClimateAction"
+                            }
+                        ],
+                        "urls": [
+                            {
+                                "display_url": "Instagram.com/lepapillonblu/\u2026",
+                                "end": 99,
+                                "expanded_url": "http://Instagram.com/lepapillonblu/#TheresnoPlanetB",
+                                "start": 76,
+                                "url": "https://t.co/dK0UoXf8qE"
+                            }
+                        ]
+                    }
+                },
+                "id": "3691154787",
+                "location": "France \ud83d\udd1b USA",
+                "name": "\u0f3a\ud83e\udd8b\u0f3b\u15f0\u15e9\u01b3\u1587\u15e9\u0f3a\ud83e\udd8b\u0f3b",
+                "pinned_tweet_id": "1312206452774203392",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1349468614097825792/bZ8qIptb_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 71082,
+                    "following_count": 34943,
+                    "listed_count": 139,
+                    "tweet_count": 89230
+                },
+                "url": "",
+                "username": "LepapillonBlu",
+                "verified": false
+            },
+            {
+                "created_at": "2018-08-29T18:20:30.000Z",
+                "description": "Mother of four, Grandma of four!  #ProudResister \ud83c\udf0aBlue Wave  \ud83e\udd41 #BidenHarris2020 \ud83e\udd41 President Biden VP Harris  #Dodgers \u26be",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 48,
+                                "start": 34,
+                                "tag": "ProudResister"
+                            },
+                            {
+                                "end": 79,
+                                "start": 63,
+                                "tag": "BidenHarris2020"
+                            },
+                            {
+                                "end": 117,
+                                "start": 109,
+                                "tag": "Dodgers"
+                            }
+                        ]
+                    }
+                },
+                "id": "1034868411354861568",
+                "location": "Tehachapi, Calif.",
+                "name": "Sandra Tabbytosavit \ud83c\udd98 \ud83e\udd41",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1083158834074415104/HmVN09_k_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 35981,
+                    "following_count": 35907,
+                    "listed_count": 11,
+                    "tweet_count": 240196
+                },
+                "url": "",
+                "username": "STabbytosavit",
+                "verified": false
+            },
+            {
+                "created_at": "2019-02-21T17:40:31.000Z",
+                "description": "Central Valley, California",
+                "id": "1098638611388350464",
+                "name": "Brian",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1299075021302722560/ft7yjc-0_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 26,
+                    "following_count": 64,
+                    "listed_count": 2,
+                    "tweet_count": 6297
+                },
+                "url": "",
+                "username": "BriantheTaxMan",
+                "verified": false
+            },
+            {
+                "created_at": "2010-08-08T20:00:04.000Z",
+                "description": "You ever notice that the worst of us have all the chips? It really kinda takes the sheen off people getting rich",
+                "id": "176174821",
+                "location": "harrisburg, pa",
+                "name": "Mike Goss",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/378800000766442250/7fbaf5308cf32cc87f0fdc0956f633df_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 84,
+                    "following_count": 724,
+                    "listed_count": 3,
+                    "tweet_count": 6006
+                },
+                "url": "",
+                "username": "mgoss79",
+                "verified": false
+            },
+            {
+                "created_at": "2009-07-15T22:46:10.000Z",
+                "description": "just a mexican with an internet connection",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "HalfwayBooks.com",
+                                "end": 23,
+                                "expanded_url": "http://HalfwayBooks.com",
+                                "start": 0,
+                                "url": "https://t.co/3ZxENI9tS1"
+                            }
+                        ]
+                    }
+                },
+                "id": "57162282",
+                "name": "Shea Serrano",
+                "pinned_tweet_id": "1287481489274404865",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1283564656540504065/612vYxkF_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 409909,
+                    "following_count": 793,
+                    "listed_count": 3715,
+                    "tweet_count": 17786
+                },
+                "url": "https://t.co/3ZxENI9tS1",
+                "username": "SheaSerrano",
+                "verified": true
+            },
+            {
+                "created_at": "2020-12-12T13:59:29.000Z",
+                "description": "Get the best deals on dolls and bears when you shop the largest online selection. Free shipping on many items | Browse your favorite brands | affordable prices.",
+                "id": "1337758946119938049",
+                "name": "SA - Dolls and Bears",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1341318420634107904/igfGtW3A_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 18,
+                    "following_count": 10,
+                    "listed_count": 1,
+                    "tweet_count": 4690
+                },
+                "url": "",
+                "username": "SADollsBearsPro",
+                "verified": false
+            },
+            {
+                "created_at": "2019-06-19T06:55:35.000Z",
+                "description": "Comedy Nut. Stand up is the best form of entertainment there's ever been.",
+                "id": "1141238075667955712",
+                "location": "NYC",
+                "name": "ComedyNut",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1348495663798099969/Q-AVUCjd_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 19,
+                    "following_count": 525,
+                    "listed_count": 0,
+                    "tweet_count": 222
+                },
+                "url": "",
+                "username": "SComedynut",
+                "verified": false
+            },
+            {
+                "created_at": "2014-09-12T23:18:58.000Z",
+                "description": "Purveyor of fine gifs. Hipster doofus. Preferred pronouns: David/Dan",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "twitter.com/_david_edward",
+                                "end": 23,
+                                "expanded_url": "https://twitter.com/_david_edward",
+                                "start": 0,
+                                "url": "https://t.co/cNLdDpOiiE"
+                            }
+                        ]
+                    }
+                },
+                "id": "2806325838",
+                "location": "MKE, WI",
+                "name": "David Edward\u2122",
+                "pinned_tweet_id": "1265996491845500928",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1343396443751673857/cS9SJwos_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 7049,
+                    "following_count": 874,
+                    "listed_count": 93,
+                    "tweet_count": 185245
+                },
+                "url": "https://t.co/cNLdDpOiiE",
+                "username": "_David_Edward",
+                "verified": false
+            },
+            {
+                "created_at": "2019-03-14T02:47:04.000Z",
+                "description": "I'm here to support our country, conservative causes, and the unborn, because supporting President Trump gets you suspended.\ud83d\ude4f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83d\ude4f",
+                "id": "1106023910783496192",
+                "name": "Matthew Vainauskas",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347676399012868104/KbXlyKu2_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 165,
+                    "following_count": 291,
+                    "listed_count": 11,
+                    "tweet_count": 1859
+                },
+                "url": "",
+                "username": "MatthewVainaus1",
+                "verified": false
+            },
+            {
+                "created_at": "2018-06-12T09:54:43.000Z",
+                "description": "\u201dJust another black female conservative\u201d...Latest YouTube video: https://t.co/NOQt6dvwAk",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "youtu.be/GNTkl2aNOPY",
+                                "end": 88,
+                                "expanded_url": "https://youtu.be/GNTkl2aNOPY",
+                                "start": 65,
+                                "url": "https://t.co/NOQt6dvwAk"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "linktr.ee/samanthamarika",
+                                "end": 23,
+                                "expanded_url": "https://linktr.ee/samanthamarika",
+                                "start": 0,
+                                "url": "https://t.co/bfY0DBumxX"
+                            }
+                        ]
+                    }
+                },
+                "id": "1006474869570093056",
+                "location": "IG: samanthamasonmarikaa",
+                "name": "samanthamarika",
+                "pinned_tweet_id": "1341145412514639874",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1006476783116476417/2tbmy46M_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 249035,
+                    "following_count": 238,
+                    "listed_count": 482,
+                    "tweet_count": 7589
+                },
+                "url": "https://t.co/bfY0DBumxX",
+                "username": "samanthamarika1",
+                "verified": false
+            },
+            {
+                "created_at": "2010-12-29T10:38:11.000Z",
+                "description": "",
+                "id": "231748652",
+                "location": "United States",
+                "name": "Charles McNicholas",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1350655986143522817/AZMeu_4C_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1,
+                    "following_count": 10,
+                    "listed_count": 0,
+                    "tweet_count": 115
+                },
+                "url": "",
+                "username": "HGPhantamos",
+                "verified": false
+            },
+            {
+                "created_at": "2020-09-28T02:22:50.000Z",
+                "description": "",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "russia.com",
+                                "end": 23,
+                                "expanded_url": "http://russia.com",
+                                "start": 0,
+                                "url": "https://t.co/yo3IxFvNyD"
+                            }
+                        ]
+                    }
+                },
+                "id": "1310404528378961921",
+                "location": "Not Moscow, Russia ",
+                "name": "Winnie Xi Pooh",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1338527062898991107/pGdqpgK1_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 2,
+                    "following_count": 13,
+                    "listed_count": 0,
+                    "tweet_count": 414
+                },
+                "url": "https://t.co/yo3IxFvNyD",
+                "username": "baloney_jim",
+                "verified": false
+            },
+            {
+                "created_at": "2013-03-24T17:33:07.000Z",
+                "description": "Aspiring slacker.  Film Enthusiast.  Whiskey Drinker. Student Loan Debtor.  Avg Writer.  Better Gamer.  The Good, The Bad and the Ugly is the best movie ever.",
+                "id": "1296036565",
+                "location": "Beaumont, TX",
+                "name": "Lucas Shelton",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/843927556705390592/PIOuvRtt_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 21,
+                    "following_count": 22,
+                    "listed_count": 1,
+                    "tweet_count": 3840
+                },
+                "url": "",
+                "username": "KhoroShogun",
+                "verified": false
+            },
+            {
+                "created_at": "2012-10-05T03:14:04.000Z",
+                "description": "International movement of underpaid workers taking a stand against poverty wages. We are winning, join us. #FightFor15",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 118,
+                                "start": 107,
+                                "tag": "FightFor15"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "fightfor15.org",
+                                "end": 23,
+                                "expanded_url": "http://fightfor15.org",
+                                "start": 0,
+                                "url": "https://t.co/PuA1voxOy1"
+                            }
+                        ]
+                    }
+                },
+                "id": "862430010",
+                "location": "On Strike",
+                "name": "Fight For 15",
+                "pinned_tweet_id": "1350078945530572806",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1281232521183653888/xe7GsrbB_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 63348,
+                    "following_count": 4380,
+                    "listed_count": 766,
+                    "tweet_count": 95412
+                },
+                "url": "https://t.co/PuA1voxOy1",
+                "username": "fightfor15",
+                "verified": true
+            },
+            {
+                "created_at": "2019-05-24T13:56:09.000Z",
+                "description": "dark fruits enthusiast and rock and roll star//\n\npriv : @darkfruitspriv //\n\nENFP Fuck Fine Gael, Fianna F\u00e1il and the greens too // \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 71,
+                                "start": 56,
+                                "username": "darkfruitspriv"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "curiouscat.qa/darkfruitstan",
+                                "end": 23,
+                                "expanded_url": "https://curiouscat.qa/darkfruitstan",
+                                "start": 0,
+                                "url": "https://t.co/h7Uya1rJ01"
+                            }
+                        ]
+                    }
+                },
+                "id": "1131921829889810432",
+                "location": "he/him (s\u00e9/\u00e9)|| 19 || \u00c9ire",
+                "name": "Minister for Jambons",
+                "pinned_tweet_id": "1339687774656614405",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1344811163901718528/11mSq_BE_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 609,
+                    "following_count": 703,
+                    "listed_count": 1,
+                    "tweet_count": 7309
+                },
+                "url": "https://t.co/h7Uya1rJ01",
+                "username": "darkfruitsstan",
+                "verified": false
+            },
+            {
+                "created_at": "2014-11-28T06:14:59.000Z",
+                "description": "Hi I'm d.j in beat a qualified d.j and singer from Nottingham trying to get noticed. I've got my own radio station search Dripdrop Radio 24. on Facebook.",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "tun.in/sfzJe",
+                                "end": 23,
+                                "expanded_url": "http://tun.in/sfzJe",
+                                "start": 0,
+                                "url": "https://t.co/w5gnt72Mh3"
+                            }
+                        ]
+                    }
+                },
+                "id": "2895656356",
+                "location": "Nottingham, England",
+                "name": "Dripdrop Radio 24\ud83d\udcaf.",
+                "pinned_tweet_id": "975650122972450816",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1059972060645150721/Zw0RnD_r_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 139,
+                    "following_count": 194,
+                    "listed_count": 0,
+                    "tweet_count": 373055
+                },
+                "url": "https://t.co/w5gnt72Mh3",
+                "username": "djinbeat",
+                "verified": false
+            },
+            {
+                "created_at": "2013-06-11T02:11:35.000Z",
+                "description": "there is a light that never goes out.",
+                "id": "1500044143",
+                "location": "Illinois, Kansas",
+                "name": "pinwheel",
+                "pinned_tweet_id": "1309311890670194689",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1334260062441889799/xLOToX2c_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 128,
+                    "following_count": 688,
+                    "listed_count": 1,
+                    "tweet_count": 1311
+                },
+                "url": "",
+                "username": "pinwheelguy",
+                "verified": false
+            },
+            {
+                "created_at": "2019-08-16T22:44:38.000Z",
+                "description": "Automated bot that creates random flags from 2 existing flags picked randomly. Written in Python3  \nhttps://t.co/BOD3bb4T4r\n r/vexillology &  r/vexillologycir",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "discord.gg/BPdFQk7",
+                                "end": 123,
+                                "expanded_url": "http://discord.gg/BPdFQk7",
+                                "start": 100,
+                                "url": "https://t.co/BOD3bb4T4r"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "flagsmashupbot.pythonanywhere.com",
+                                "end": 23,
+                                "expanded_url": "http://flagsmashupbot.pythonanywhere.com/",
+                                "start": 0,
+                                "url": "https://t.co/oClhcxFPr9"
+                            }
+                        ]
+                    }
+                },
+                "id": "1162495379574857731",
+                "name": "Flags Mashup Bot",
+                "pinned_tweet_id": "1247837478624661507",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1348005059381047297/yfxwbVSR_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 122556,
+                    "following_count": 7,
+                    "listed_count": 315,
+                    "tweet_count": 37903
+                },
+                "url": "https://t.co/oClhcxFPr9",
+                "username": "FlagsMashupBot",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-11T17:08:41.000Z",
+                "description": "I'm a turtle! :D I love music. Check out my most recent releases, VHS 1, VHS 2, and VHS 3! Look at all the pretty colors! xD",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "facebook.com/stray.turtle.1",
+                                "end": 23,
+                                "expanded_url": "http://www.facebook.com/stray.turtle.1",
+                                "start": 0,
+                                "url": "https://t.co/jJ7aHqcXHd"
+                            }
+                        ]
+                    }
+                },
+                "id": "3242523302",
+                "location": "California, USA",
+                "name": "Stray Turtle",
+                "pinned_tweet_id": "1282149787836416005",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1279996880751980544/I7DjJ5SG_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 76,
+                    "following_count": 208,
+                    "listed_count": 32,
+                    "tweet_count": 65412
+                },
+                "url": "https://t.co/jJ7aHqcXHd",
+                "username": "StrayTurtle",
+                "verified": false
+            },
+            {
+                "created_at": "2009-04-01T04:01:25.000Z",
+                "description": "I'm a piano player and choral singer (bass); and I've been in 6 movies ... Eternally grateful for the grace of my Lord and Savior, Jesus Christ!",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtube.com/channel/UCox0F\u2026",
+                                "end": 23,
+                                "expanded_url": "https://www.youtube.com/channel/UCox0FRyNwbxsZ_I1gEgYjMg",
+                                "start": 0,
+                                "url": "https://t.co/U3JiTxujmT"
+                            }
+                        ]
+                    }
+                },
+                "id": "28046634",
+                "location": "Dothan, Alabama USA",
+                "name": "\ud83d\udd25 Thomas James Alford \ud83d\udd25",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1211364887219363845/9pz6uOa-_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 357,
+                    "following_count": 485,
+                    "listed_count": 17,
+                    "tweet_count": 7491
+                },
+                "url": "https://t.co/U3JiTxujmT",
+                "username": "Thomas36303",
+                "verified": false
+            },
+            {
+                "created_at": "2020-08-05T04:30:21.000Z",
+                "description": "conservative christian and finance grad student. i like math.",
+                "id": "1290867134516662275",
+                "location": "Beautiful Tennessee",
+                "name": "Naomi Zulu",
+                "pinned_tweet_id": "1349107150098984963",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1330960013662281729/GdjSsL7a_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 3508,
+                    "following_count": 607,
+                    "listed_count": 13,
+                    "tweet_count": 4829
+                },
+                "url": "",
+                "username": "ZuluMediaCell",
+                "verified": false
+            },
+            {
+                "created_at": "2011-07-13T05:12:26.000Z",
+                "description": "UWM 2020. Probably listening to Kanye or Blink 182 or both. Happy camper of Edwards YMCA. catch me at Whole Foods on a Friday night.",
+                "id": "334486336",
+                "name": "Emma Brittain",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1172003285206753280/3dhXJOvt_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 741,
+                    "following_count": 589,
+                    "listed_count": 0,
+                    "tweet_count": 10731
+                },
+                "url": "",
+                "username": "emmabrittain81",
+                "verified": false
+            },
+            {
+                "created_at": "2020-09-23T13:59:58.000Z",
+                "description": "madison #^.^#\u2665\ufe0e: alt: @tillynotfound",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 36,
+                                "start": 22,
+                                "username": "tillynotfound"
+                            }
+                        ]
+                    }
+                },
+                "id": "1308768006126751744",
+                "location": "mike \u2579\u25e1\u2579 \u2606 t/t \u2606 17",
+                "name": "tills",
+                "pinned_tweet_id": "1325180339182948353",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347402476270411777/yxyz2ocp_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 141,
+                    "following_count": 128,
+                    "listed_count": 0,
+                    "tweet_count": 528
+                },
+                "url": "",
+                "username": "toruko88",
+                "verified": false
+            },
+            {
+                "created_at": "2012-10-25T11:22:47.000Z",
+                "description": "The Special Constabulary of Staffordshire Police. Please do not use this site to report a crime - call us on 101 or 999.",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "staffsspecials.org",
+                                "end": 23,
+                                "expanded_url": "http://www.staffsspecials.org",
+                                "start": 0,
+                                "url": "https://t.co/cVPy3mHa5b"
+                            }
+                        ]
+                    }
+                },
+                "id": "903700698",
+                "location": "Staffordshire, UK",
+                "name": "StaffsSpecials",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/2762326184/bf23a5e7589f63318ca9952a23762ed9_normal.jpeg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 4852,
+                    "following_count": 179,
+                    "listed_count": 55,
+                    "tweet_count": 11581
+                },
+                "url": "https://t.co/cVPy3mHa5b",
+                "username": "StaffsSpecials",
+                "verified": false
+            },
+            {
+                "created_at": "2011-02-15T13:59:42.000Z",
+                "description": "In an emergency always call 999.\nFor reports of crime or for a general enquiry please DM @StaffsPolice.\nFor help and advice visit our website.",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 102,
+                                "start": 89,
+                                "username": "StaffsPolice"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "staffordshire.police.uk",
+                                "end": 22,
+                                "expanded_url": "http://www.staffordshire.police.uk",
+                                "start": 0,
+                                "url": "http://t.co/Lw4KV4TLSX"
+                            }
+                        ]
+                    }
+                },
+                "id": "252584098",
+                "location": "East Staffordshire",
+                "name": "East Staffs Police",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/931101955975507968/_H7Q2aXa_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 2688,
+                    "following_count": 201,
+                    "listed_count": 38,
+                    "tweet_count": 3422
+                },
+                "url": "http://t.co/Lw4KV4TLSX",
+                "username": "EStaffsPolice",
+                "verified": false
+            },
+            {
+                "created_at": "2011-06-07T23:07:05.000Z",
+                "description": "WingateU",
+                "id": "312959366",
+                "name": "\u2728",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1342391816457515008/wNAvub8L_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 483,
+                    "following_count": 530,
+                    "listed_count": 0,
+                    "tweet_count": 47131
+                },
+                "url": "",
+                "username": "_onlyzz",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1350265433165877249",
+        "next_token": "b26v89c19zqg8o3foskrglpe3dzenwjkk91043yqc1kzh",
+        "oldest_id": "1350265128986537984",
+        "result_count": 19
+    }
+}

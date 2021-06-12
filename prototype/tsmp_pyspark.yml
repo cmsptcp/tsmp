@@ -1,0 +1,21 @@
+---
+version: '3.8'
+
+services:    
+  pyspark-notebook:
+    image: jupyter/pyspark-notebook:spark-3.1.1
+    container_name: pyspark-tsmp-1
+    
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - GRANT_SUDO=yes
+    
+    user: root
+
+    ports:
+      - 8888:8888
+      - 4040-4080:4040-4080
+
+    volumes:
+      - d:/tsmp/:/home/jovyan/work/input_data/
+

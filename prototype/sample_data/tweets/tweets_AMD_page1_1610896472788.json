@@ -1,0 +1,2338 @@
+{
+    "data": [
+        {
+            "author_id": "524512963",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596731871232",
+                        "name": "Banking"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10040539354",
+                        "name": "BMO (Bank of Montreal)"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Business",
+                        "id": "847529762566230016",
+                        "name": "Business and finance"
+                    }
+                }
+            ],
+            "conversation_id": "1349645817813086209",
+            "created_at": "2021-01-14T09:13:32.000Z",
+            "entities": {
+                "cashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "AMD"
+                    }
+                ]
+            },
+            "id": "1349645817813086209",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "$AMD downgraded to underperform at BMO. PT $75"
+        },
+        {
+            "author_id": "1263195284512923649",
+            "conversation_id": "1349417423951290369",
+            "created_at": "2021-01-14T09:13:25.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "username": "jn_amd"
+                    }
+                ]
+            },
+            "id": "1349645788285120512",
+            "in_reply_to_user_id": "1213576830206148608",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1349633151308591105",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@jn_amd Bleach bg"
+        },
+        {
+            "author_id": "1335109962545115136",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026364236",
+                        "name": "Dell"
+                    }
+                }
+            ],
+            "conversation_id": "1349645606545977345",
+            "created_at": "2021-01-14T09:12:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "Dell"
+                    },
+                    {
+                        "end": 42,
+                        "start": 33,
+                        "tag": "FreeSync"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Dell S2721H 27 Inch Full HD 1080p, AMD FreeSync IPS Ultra-Thin Bezel Monitor, Constructed-in Audio system, Silver, Black",
+                        "display_url": "rigdesktop.com/product/dell-2\u2026",
+                        "end": 95,
+                        "expanded_url": "http://rigdesktop.com/product/dell-27-inch-full-hd-1080p-amd-freesync-ips-ultra-thin-bezel-monitor",
+                        "images": [
+                            {
+                                "height": 500,
+                                "url": "https://pbs.twimg.com/news_img/1349645785575653376/5fRV_yzx?format=jpg&name=orig",
+                                "width": 500
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1349645785575653376/5fRV_yzx?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 72,
+                        "status": 200,
+                        "title": "Dell 27 Inch Full HD 1080p, AMD FreeSync IPS Ultra-Thin Bezel Monitor Best \ud83d\udda5\ufe0f Offer - RigDesktop.com",
+                        "unwound_url": "http://rigdesktop.com/product/dell-27-inch-full-hd-1080p-amd-freesync-ips-ultra-thin-bezel-monitor/",
+                        "url": "https://t.co/kODk9tNkWP"
+                    }
+                ]
+            },
+            "id": "1349645606545977345",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "#Dell 27 Inch Full HD 1080p, AMD #FreeSync IPS Ultra-Thin Bezel Monitor https://t.co/kODk9tNkWP"
+        },
+        {
+            "author_id": "1021935333712318469",
+            "conversation_id": "1349620047514370050",
+            "created_at": "2021-01-14T09:12:10.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "tabanimcgucci"
+                    },
+                    {
+                        "end": 26,
+                        "start": 15,
+                        "username": "drjaytee87"
+                    }
+                ]
+            },
+            "id": "1349645474161111040",
+            "in_reply_to_user_id": "232507165",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1349622343874846721",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@tabanimcgucci @drjaytee87 Turn it around. I honestly feel with the Zim economy largely informal now, whatever it is one is doing put the customer at the centre of your business. Nothing spurs and grows business like genuinely positive amd happy customer feedback. As for Econet, that comes with monopoly"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1349645421380046848"
+                ]
+            },
+            "author_id": "964194660360081408",
+            "conversation_id": "1349645423749832706",
+            "created_at": "2021-01-14T09:11:58.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/MregfR6RBr",
+                        "end": 64,
+                        "expanded_url": "https://twitter.com/yesismoke86/status/1349645423749832706/photo/1",
+                        "start": 41,
+                        "url": "https://t.co/MregfR6RBr"
+                    }
+                ]
+            },
+            "id": "1349645423749832706",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Seems like awakening amd still high\ud83c\udf3f\ud83c\udf3f\ud83c\udf75\ud83c\udf15\ud83c\udf1f https://t.co/MregfR6RBr"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1349645370641571840"
+                ]
+            },
+            "author_id": "805060946481778690",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029190351",
+                        "name": "ASUS"
+                    }
+                }
+            ],
+            "conversation_id": "1349645407446589440",
+            "created_at": "2021-01-14T09:11:54.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Asus ZenBook 14 AMD (2021)",
+                        "probability": 0.4448,
+                        "start": 0,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 76,
+                        "start": 69,
+                        "tag": "Laptop"
+                    },
+                    {
+                        "end": 82,
+                        "start": 77,
+                        "tag": "ASUS"
+                    },
+                    {
+                        "end": 97,
+                        "start": 83,
+                        "tag": "AsusZenBook14"
+                    },
+                    {
+                        "end": 105,
+                        "start": 98,
+                        "tag": "14inch"
+                    },
+                    {
+                        "end": 120,
+                        "start": 106,
+                        "tag": "AMDRyzen5500U"
+                    },
+                    {
+                        "end": 144,
+                        "start": 121,
+                        "tag": "ExpReleaseFebruary2021"
+                    },
+                    {
+                        "end": 154,
+                        "start": 145,
+                        "tag": "Features"
+                    },
+                    {
+                        "end": 170,
+                        "start": 155,
+                        "tag": "Specifications"
+                    },
+                    {
+                        "end": 177,
+                        "start": 171,
+                        "tag": "Price"
+                    },
+                    {
+                        "end": 182,
+                        "start": 178,
+                        "tag": "USA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "laptop6.com/laptops/asus/z\u2026",
+                        "end": 68,
+                        "expanded_url": "https://www.laptop6.com/laptops/asus/zenbook-14-amd-(2021)-7228",
+                        "start": 45,
+                        "url": "https://t.co/JuqxQOiEns"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/qOymBA2ltc",
+                        "end": 206,
+                        "expanded_url": "https://twitter.com/Laptop6com/status/1349645407446589440/photo/1",
+                        "start": 183,
+                        "url": "https://t.co/qOymBA2ltc"
+                    }
+                ]
+            },
+            "id": "1349645407446589440",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Asus ZenBook 14 AMD (2021) - Price and Specs\nhttps://t.co/JuqxQOiEns\n#Laptop #ASUS #AsusZenBook14 #14inch #AMDRyzen5500U #ExpReleaseFebruary2021 #Features #Specifications #Price #USA https://t.co/qOymBA2ltc"
+        },
+        {
+            "author_id": "1212394582173839360",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "A.C.E (\uc5d0\uc774\uc2a4)",
+                        "id": "914854666764115968",
+                        "name": "A.C.E"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "A.C.E (\uc5d0\uc774\uc2a4)",
+                        "id": "914854666764115968",
+                        "name": "A.C.E"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                }
+            ],
+            "conversation_id": "1349641072457129984",
+            "created_at": "2021-01-14T09:11:18.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "official_ACE7"
+                    }
+                ]
+            },
+            "id": "1349645252571795457",
+            "in_reply_to_user_id": "861579438244241411",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1349641072457129984",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@official_ACE7 how to be cute amd handsome at the same time???? T_T"
+        },
+        {
+            "author_id": "385566520",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                }
+            ],
+            "conversation_id": "1349372304367648771",
+            "created_at": "2021-01-14T09:10:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 81,
+                        "start": 63,
+                        "tag": "StockholmSyndrome"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "fgautier26"
+                    },
+                    {
+                        "end": 25,
+                        "start": 12,
+                        "username": "narendramodi"
+                    },
+                    {
+                        "end": 36,
+                        "start": 26,
+                        "username": "BJP4India"
+                    },
+                    {
+                        "end": 50,
+                        "start": 37,
+                        "username": "narendramodi"
+                    }
+                ]
+            },
+            "id": "1349644946228170754",
+            "in_reply_to_user_id": "243249906",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1349372304367648771",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@fgautier26 @narendramodi @BJP4India @narendramodi has serious #StockholmSyndrome! Being hounded for 12 years by Lutyens media, Pissfuls, judiciary amd KHANgress has taken its toll on him\ud83e\udd26\ud83c\udffd"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1349644893396889601"
+                ]
+            },
+            "author_id": "1225760695804944384",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781972125171060736",
+                        "name": "Auto"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781972125179518977",
+                        "name": "Auto Manufacturer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026490686",
+                        "name": "BMW"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Car culture",
+                        "id": "847528391163092993",
+                        "name": "Automotive"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Luxury",
+                        "id": "847528646185070592",
+                        "name": "Luxury Cars"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781972125171060736",
+                        "name": "Auto"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781972125179518977",
+                        "name": "Auto Manufacturer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026490686",
+                        "name": "BMW"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10045512590",
+                        "name": "BMW USA"
+                    }
+                }
+            ],
+            "conversation_id": "1349644896190287873",
+            "created_at": "2021-01-14T09:09:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "BMW M235i",
+                        "probability": 0.8518,
+                        "start": 21,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 76,
+                        "normalized_text": "AmD Tuning ECU Remap Power",
+                        "probability": 0.6402,
+                        "start": 50,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 267,
+                        "start": 257,
+                        "tag": "AmDtuning"
+                    },
+                    {
+                        "end": 277,
+                        "start": 268,
+                        "tag": "AmDessex"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/JmI7ZVX6db",
+                        "end": 301,
+                        "expanded_url": "https://twitter.com/Amd_Tuning/status/1349644896190287873/photo/1",
+                        "start": 278,
+                        "url": "https://t.co/JmI7ZVX6db"
+                    }
+                ]
+            },
+            "id": "1349644896190287873",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "We recently had this BMW M235i in with us for our AmD Tuning ECU Remap\n\nPower taken up to 384.6 BHP and gaining a substantial 142.4 Nm! Taking it to 582.9 Nm!\n\nContact us on 01708 861 827 or sales@amdtuning.com for any mapping tuning or workshop enquiries\n\n#AmDtuning #AmDessex https://t.co/JmI7ZVX6db"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1349644844109602818"
+                ]
+            },
+            "author_id": "1923646591",
+            "conversation_id": "1349644845959290880",
+            "created_at": "2021-01-14T09:09:41.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 2,
+                        "normalized_text": "AMD",
+                        "probability": 0.6322,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 42,
+                        "tag": "CNET"
+                    },
+                    {
+                        "end": 63,
+                        "start": 48,
+                        "tag": "NocturnalCloud"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "is.gd/iGLzOw",
+                        "end": 87,
+                        "expanded_url": "https://is.gd/iGLzOw",
+                        "start": 64,
+                        "url": "https://t.co/pZO6I2QZ7d"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Kvi1mmrWPw",
+                        "end": 111,
+                        "expanded_url": "https://twitter.com/NocturnalCLD/status/1349644845959290880/photo/1",
+                        "start": 88,
+                        "url": "https://t.co/Kvi1mmrWPw"
+                    }
+                ]
+            },
+            "id": "1349644845959290880",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "NC News V2.0",
+            "text": "AMD talks CES 2021 keynote, plans video - #CNET #NocturnalCloud https://t.co/pZO6I2QZ7d https://t.co/Kvi1mmrWPw"
+        },
+        {
+            "author_id": "1347124580599484418",
+            "conversation_id": "1349337780254609410",
+            "created_at": "2021-01-14T09:09:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 148,
+                        "normalized_text": "Egypt",
+                        "probability": 0.9153,
+                        "start": 144,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 198,
+                        "normalized_text": "sudan",
+                        "probability": 0.6242,
+                        "start": 194,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "username": "HishamPRO35"
+                    },
+                    {
+                        "end": 23,
+                        "start": 13,
+                        "username": "altilooby"
+                    }
+                ]
+            },
+            "id": "1349644836408680451",
+            "in_reply_to_user_id": "892871221",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1349613875822473217",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@HishamPRO35 @altilooby Fools like you will send the region to hell. Happy to see cooler heads who can think and see the long term impact. Only Egypt gets out of this mess unscathed. I pray for sudan amd ethiopia."
+        },
+        {
+            "author_id": "1312761535601598472",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597226799105",
+                        "name": "B2B"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783337567798169600",
+                        "name": "Products"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041873034",
+                        "name": "AMD"
+                    }
+                }
+            ],
+            "conversation_id": "1349195033262632963",
+            "created_at": "2021-01-14T09:08:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 19,
+                        "normalized_text": "AMD",
+                        "probability": 0.5928,
+                        "start": 17,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "username": "WinterSkiis"
+                    }
+                ]
+            },
+            "id": "1349644655705559043",
+            "in_reply_to_user_id": "1312761535601598472",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1349644479708372992",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@WinterSkiis And AMD has a reputation of having great iGPUs on their processors"
+        },
+        {
+            "author_id": "1312761535601598472",
+            "conversation_id": "1349195033262632963",
+            "created_at": "2021-01-14T09:08:13.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "username": "WinterSkiis"
+                    }
+                ]
+            },
+            "id": "1349644479708372992",
+            "in_reply_to_user_id": "1153409960807735297",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1349195033262632963",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@WinterSkiis Did you see CES2021? They're currently partnering with AMD to power their SoC's GPUs."
+        },
+        {
+            "author_id": "834988241640165376",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1174432578503204864",
+                        "name": "PC gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597226799105",
+                        "name": "B2B"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783337567798169600",
+                        "name": "Products"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041873034",
+                        "name": "AMD"
+                    }
+                }
+            ],
+            "conversation_id": "1349644474327175169",
+            "created_at": "2021-01-14T09:08:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 9,
+                        "normalized_text": "AMD's RDNA",
+                        "probability": 0.6647,
+                        "start": 0,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 61,
+                        "normalized_text": "PC Gamer",
+                        "probability": 0.6284,
+                        "start": 54,
+                        "type": "Product"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ift.tt/3nFCY07",
+                        "end": 86,
+                        "expanded_url": "https://ift.tt/3nFCY07",
+                        "start": 63,
+                        "url": "https://t.co/grrhNPwWf4"
+                    }
+                ]
+            },
+            "id": "1349644474327175169",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "IFTTT",
+            "text": "AMD's RDNA graphics are heading for your smartphone - PC Gamer https://t.co/grrhNPwWf4"
+        },
+        {
+            "author_id": "834988241640165376",
+            "conversation_id": "1349644469067505664",
+            "created_at": "2021-01-14T09:08:11.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ift.tt/3bqron9",
+                        "end": 102,
+                        "expanded_url": "https://ift.tt/3bqron9",
+                        "start": 79,
+                        "url": "https://t.co/vUkQymWVYS"
+                    }
+                ]
+            },
+            "id": "1349644469067505664",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "IFTTT",
+            "text": "AMD's Retail Market Share Surges Based on European Reseller Data - ExtremeTech https://t.co/vUkQymWVYS"
+        },
+        {
+            "author_id": "834988241640165376",
+            "conversation_id": "1349644463283593216",
+            "created_at": "2021-01-14T09:08:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "AMD chips",
+                        "probability": 0.3496,
+                        "start": 48,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 68,
+                        "normalized_text": "Digitimes",
+                        "probability": 0.7743,
+                        "start": 60,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ift.tt/3oJ1NK4",
+                        "end": 93,
+                        "expanded_url": "https://ift.tt/3oJ1NK4",
+                        "start": 70,
+                        "url": "https://t.co/Es28tlizOj"
+                    }
+                ]
+            },
+            "id": "1349644463283593216",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "IFTTT",
+            "text": "Notebook brands promoting new models powered by AMD chips - Digitimes https://t.co/Es28tlizOj"
+        },
+        {
+            "author_id": "19330227",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597226799105",
+                        "name": "B2B"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783337567798169600",
+                        "name": "Products"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041873034",
+                        "name": "AMD"
+                    }
+                }
+            ],
+            "conversation_id": "1349641003481903104",
+            "created_at": "2021-01-14T09:07:54.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "username": "MattSqu"
+                    }
+                ]
+            },
+            "id": "1349644400486457355",
+            "in_reply_to_user_id": "136295021",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1349642994744438786",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Fenix 2",
+            "text": "@MattSqu We'll see. AMD still use pins on their processors and there's been a few accounts of the pins getting bent in transit recently"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "height": 526,
+                "media_key": "3_1349645421380046848",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/ErrnXCoXEAAh9_j.jpg",
+                "width": 526
+            },
+            {
+                "height": 549,
+                "media_key": "3_1349645370641571840",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/ErrnUFnXYAAkcp-.jpg",
+                "width": 784
+            },
+            {
+                "height": 1600,
+                "media_key": "3_1349644893396889601",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Errm4TvXcAE22nf.jpg",
+                "width": 1280
+            },
+            {
+                "height": 630,
+                "media_key": "3_1349644844109602818",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Errm1cIXIAIAu6f.png",
+                "width": 630
+            }
+        ],
+        "tweets": [
+            {
+                "author_id": "1213576830206148608",
+                "conversation_id": "1349417423951290369",
+                "created_at": "2021-01-14T08:23:12.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 8,
+                            "start": 0,
+                            "username": "Bokut00"
+                        }
+                    ]
+                },
+                "id": "1349633151308591105",
+                "in_reply_to_user_id": "1263195284512923649",
+                "lang": "und",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1349417423951290369",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "@Bokut00 Ok"
+            },
+            {
+                "author_id": "232507165",
+                "conversation_id": "1349620047514370050",
+                "created_at": "2021-01-14T07:40:16.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 47,
+                            "normalized_text": "Zimbabwe",
+                            "probability": 0.9962,
+                            "start": 40,
+                            "type": "Place"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 11,
+                            "start": 0,
+                            "username": "drjaytee87"
+                        }
+                    ]
+                },
+                "id": "1349622343874846721",
+                "in_reply_to_user_id": "335750593",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 20,
+                    "quote_count": 0,
+                    "reply_count": 4,
+                    "retweet_count": 1
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1349620047514370050",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "@drjaytee87 Customer service is dead in Zimbabwe. Clients actually feel like they are getting favours from service providers and i think zvototangira pakusaziva ma rights edu as customers and as citizens generally"
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "3_1349641065641377792"
+                    ]
+                },
+                "author_id": "861579438244241411",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Named people in the world like Nelson Mandela",
+                            "id": "10",
+                            "name": "Person"
+                        },
+                        "entity": {
+                            "description": "A.C.E (\uc5d0\uc774\uc2a4)",
+                            "id": "914854666764115968",
+                            "name": "A.C.E"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "A musician in the world, like Adele or Bob Dylan",
+                            "id": "54",
+                            "name": "Musician"
+                        },
+                        "entity": {
+                            "description": "A.C.E (\uc5d0\uc774\uc2a4)",
+                            "id": "914854666764115968",
+                            "name": "A.C.E"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "A category for a musical style, like Pop, Rock, or Rap",
+                            "id": "55",
+                            "name": "Music Genre"
+                        },
+                        "entity": {
+                            "description": "K-Pop",
+                            "id": "888105153038958593",
+                            "name": "K-pop"
+                        }
+                    }
+                ],
+                "conversation_id": "1349641072457129984",
+                "created_at": "2021-01-14T08:54:41.000Z",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 7,
+                            "start": 1,
+                            "tag": "\uc5d0\uc774\uc2a4_\ucc2c"
+                        },
+                        {
+                            "end": 31,
+                            "start": 27,
+                            "tag": "ACE"
+                        },
+                        {
+                            "end": 36,
+                            "start": 32,
+                            "tag": "\uc5d0\uc774\uc2a4"
+                        },
+                        {
+                            "end": 44,
+                            "start": 37,
+                            "tag": "CHOICE"
+                        },
+                        {
+                            "end": 49,
+                            "start": 45,
+                            "tag": "\ucd08\uc774\uc2a4"
+                        },
+                        {
+                            "end": 58,
+                            "start": 50,
+                            "tag": "FavBoyz"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "pic.twitter.com/rGrKNNWhLH",
+                            "end": 82,
+                            "expanded_url": "https://twitter.com/official_ACE7/status/1349641072457129984/photo/1",
+                            "start": 59,
+                            "url": "https://t.co/rGrKNNWhLH"
+                        }
+                    ]
+                },
+                "id": "1349641072457129984",
+                "lang": "ko",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 13309,
+                    "quote_count": 112,
+                    "reply_count": 2816,
+                    "retweet_count": 2047
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "[#\uc5d0\uc774\uc2a4_\ucc2c]\n\n\ucd08\uc774\uc2a4!!! Come on\ud83d\udd25\n\n#ACE #\uc5d0\uc774\uc2a4 #CHOICE #\ucd08\uc774\uc2a4 #FavBoyz https://t.co/rGrKNNWhLH"
+            },
+            {
+                "author_id": "243249906",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Named people in the world like Nelson Mandela",
+                            "id": "10",
+                            "name": "Person"
+                        },
+                        "entity": {
+                            "description": "Prime Minister of India Narendra Modi",
+                            "id": "806566669166350336",
+                            "name": "Narendra Modi"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Politicians in the world, like Joe Biden",
+                            "id": "35",
+                            "name": "Politician"
+                        },
+                        "entity": {
+                            "description": "Prime Minister of India Narendra Modi",
+                            "id": "806566669166350336",
+                            "name": "Narendra Modi"
+                        }
+                    }
+                ],
+                "conversation_id": "1349372304367648771",
+                "created_at": "2021-01-13T15:06:42.000Z",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 65,
+                            "start": 58,
+                            "tag": "Hindus"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 17,
+                            "start": 4,
+                            "username": "narendramodi"
+                        },
+                        {
+                            "end": 168,
+                            "start": 158,
+                            "username": "BJP4India"
+                        }
+                    ]
+                },
+                "id": "1349372304367648771",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 1088,
+                    "quote_count": 31,
+                    "reply_count": 100,
+                    "retweet_count": 399
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "Why @narendramodi keeps away frm anybody who stands up fr #Hindus? W defended him when he was untouchable, both with western &amp; Indian Media. We stood for @BJP4India coming t power when nobody thought it possible\n W were treated as pariahs for this\n Does it meanw r still  pariahs?"
+            },
+            {
+                "author_id": "892871221",
+                "conversation_id": "1349337780254609410",
+                "created_at": "2021-01-14T07:06:37.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "username": "altilooby"
+                        }
+                    ]
+                },
+                "id": "1349613875822473217",
+                "in_reply_to_user_id": "171545721",
+                "lang": "ar",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1349337780254609410",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "@altilooby \u0642\u0644 \u062e\u064a\u0631\u0627 \u0627\u0648 \u0627\u0635\u0645\u062a\n\u0662\u0665 \u0633\u0646\u0629 \u0628\u0627\u0644\u062f\u0628\u0645\u0627\u0633\u064a\u0629 \u0628\u062a\u0627\u0639\u062a\u0643 \u062f\u064a \u0648\u0644\u0633\u0647 \u0631\u0627\u0641\u0636\u064a\u0646 \u064a\u0637\u0644\u0639\u0648 \u0645\u0646 \u0627\u0644\u0623\u0631\u0636\n\u0645\u0627\u0641 \u062d\u0644 \u063a\u064a\u0631 \u0627\u0644\u0633\u0644\u0627\u062d"
+            },
+            {
+                "author_id": "1312761535601598472",
+                "conversation_id": "1349195033262632963",
+                "created_at": "2021-01-14T09:08:13.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 12,
+                            "start": 0,
+                            "username": "WinterSkiis"
+                        }
+                    ]
+                },
+                "id": "1349644479708372992",
+                "in_reply_to_user_id": "1153409960807735297",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1349195033262632963",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "@WinterSkiis Did you see CES2021? They're currently partnering with AMD to power their SoC's GPUs."
+            },
+            {
+                "author_id": "1153409960807735297",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "1174344555111469057",
+                            "name": "Samsung Indonesia"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "10026364234",
+                            "name": "Samsung "
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                            "id": "48",
+                            "name": "Product"
+                        },
+                        "entity": {
+                            "id": "10026331316",
+                            "name": "Samsung Mobile"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                            "id": "48",
+                            "name": "Product"
+                        },
+                        "entity": {
+                            "id": "10045298641",
+                            "name": "Samsung USA"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream",
+                            "id": "49",
+                            "name": "Product Version"
+                        },
+                        "entity": {
+                            "id": "10040464729",
+                            "name": "Samsung Mobile UK"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream",
+                            "id": "49",
+                            "name": "Product Version"
+                        },
+                        "entity": {
+                            "id": "10041364617",
+                            "name": "Samsung Mobile US"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Top level interests and hobbies groupings, like Food or Travel",
+                            "id": "65",
+                            "name": "Interests and Hobbies Vertical"
+                        },
+                        "entity": {
+                            "description": "Technology and computing",
+                            "id": "848920371311001600",
+                            "name": "Technology"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                            "id": "66",
+                            "name": "Interests and Hobbies Category"
+                        },
+                        "entity": {
+                            "description": "Cell phones",
+                            "id": "848920700073123840",
+                            "name": "Cell Phones"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                            "id": "66",
+                            "name": "Interests and Hobbies Category"
+                        },
+                        "entity": {
+                            "description": "Mobile",
+                            "id": "848985956778561538",
+                            "name": "Mobile"
+                        }
+                    }
+                ],
+                "conversation_id": "1349195033262632963",
+                "created_at": "2021-01-13T03:22:17.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 6,
+                            "normalized_text": "Samsung",
+                            "probability": 0.6677,
+                            "start": 0,
+                            "type": "Organization"
+                        },
+                        {
+                            "end": 100,
+                            "normalized_text": "Snapdragon chips",
+                            "probability": 0.3439,
+                            "start": 85,
+                            "type": "Product"
+                        }
+                    ]
+                },
+                "id": "1349195033262632963",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 17,
+                    "quote_count": 1,
+                    "reply_count": 9,
+                    "retweet_count": 2
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for iPad",
+                "text": "Samsung is promising desktop chips that can beat the M1...\n\nThey can\u2019t even beat the Snapdragon chips in the mobile market.... what makes them think they can outperform M1"
+            },
+            {
+                "author_id": "136295021",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Top level interests and hobbies groupings, like Food or Travel",
+                            "id": "65",
+                            "name": "Interests and Hobbies Vertical"
+                        },
+                        "entity": {
+                            "description": "Technology and computing",
+                            "id": "848920371311001600",
+                            "name": "Technology"
+                        }
+                    }
+                ],
+                "conversation_id": "1349641003481903104",
+                "created_at": "2021-01-14T09:02:19.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 21,
+                            "normalized_text": "CPU box",
+                            "probability": 0.5919,
+                            "start": 15,
+                            "type": "Product"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 7,
+                            "start": 0,
+                            "username": "SlyCat"
+                        }
+                    ]
+                },
+                "id": "1349642994744438786",
+                "in_reply_to_user_id": "19330227",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1349641003481903104",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "@SlyCat If the CPU box isn't flat it'll be fiiiine"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2012-03-14T16:39:10.000Z",
+                "description": "Day trader on US markets.\nTrading ideas, analyst calls, edge trades.",
+                "id": "524512963",
+                "location": "NYC",
+                "name": "Scalp Ideas",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1979061111/227385_10150247559932463_108605392462_8641864_585019_n_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 2019,
+                    "following_count": 16,
+                    "listed_count": 77,
+                    "tweet_count": 1877
+                },
+                "url": "",
+                "username": "ScalpIdeas",
+                "verified": false
+            },
+            {
+                "created_at": "2020-05-20T19:50:09.000Z",
+                "description": "mon nom est lelouch vi britannia, fils a\u00een\u00e9 de l\u2019imp\u00e9ratrice Marianne,prince d\u00e9chu de l\u2019empire.",
+                "id": "1263195284512923649",
+                "name": "bokuto",
+                "pinned_tweet_id": "1337162259857027072",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347583088294055943/Nq9GYUns_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 3645,
+                    "following_count": 1341,
+                    "listed_count": 10,
+                    "tweet_count": 21746
+                },
+                "url": "",
+                "username": "Bokut00",
+                "verified": false
+            },
+            {
+                "created_at": "2020-01-04T21:44:11.000Z",
+                "description": "03GEN x \ud83c\uddf0\ud83c\uddf2\ud83c\udde8\ud83c\uddf2,bref t\u2019as capt\u00e9 ? @celtics @kyrieirving @jaytatum0",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 39,
+                                "start": 31,
+                                "username": "celtics"
+                            },
+                            {
+                                "end": 52,
+                                "start": 40,
+                                "username": "kyrieirving"
+                            },
+                            {
+                                "end": 63,
+                                "start": 53,
+                                "username": "jaytatum0"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "instagram.com/jn.amd",
+                                "end": 23,
+                                "expanded_url": "http://instagram.com/jn.amd",
+                                "start": 0,
+                                "url": "https://t.co/HoGCQD4FXI"
+                            }
+                        ]
+                    }
+                },
+                "id": "1213576830206148608",
+                "location": "Thousand Sunny",
+                "name": "JN\ud83e\udd77\ud83c\udffe",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1350777310321008640/uDEraAy9_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 729,
+                    "following_count": 577,
+                    "listed_count": 1,
+                    "tweet_count": 3673
+                },
+                "url": "https://t.co/HoGCQD4FXI",
+                "username": "jn_amd",
+                "verified": false
+            },
+            {
+                "created_at": "2020-12-05T06:33:23.000Z",
+                "description": "",
+                "id": "1335109962545115136",
+                "name": "chania oth",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1335110074746933248/GocCKdDd_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 240,
+                    "following_count": 828,
+                    "listed_count": 0,
+                    "tweet_count": 859
+                },
+                "url": "",
+                "username": "ChaniaOth",
+                "verified": false
+            },
+            {
+                "created_at": "2018-07-25T01:49:04.000Z",
+                "description": "When and wherever you see something wrong, speak out! Live for good values that outlive you!",
+                "id": "1021935333712318469",
+                "location": "Norton|Mash West|Zimbabwe|",
+                "name": "Paul Tapiwa Chisveto",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1307184860658835456/OmwRIpmX_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 257,
+                    "following_count": 618,
+                    "listed_count": 0,
+                    "tweet_count": 7819
+                },
+                "url": "",
+                "username": "PChisveto",
+                "verified": false
+            },
+            {
+                "created_at": "2010-12-31T10:05:53.000Z",
+                "description": "Entrepreneur | Journalist | Business Development and Finance | Madridista | CEO @royalreservezim @iconiczim",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 96,
+                                "start": 80,
+                                "username": "royalreservezim"
+                            },
+                            {
+                                "end": 107,
+                                "start": 97,
+                                "username": "iconiczim"
+                            }
+                        ]
+                    }
+                },
+                "id": "232507165",
+                "name": "Tabani Maguchu",
+                "pinned_tweet_id": "1329812113821491202",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1345834577324085250/tEd3ub3K_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 15380,
+                    "following_count": 14748,
+                    "listed_count": 1,
+                    "tweet_count": 7600
+                },
+                "url": "",
+                "username": "tabanimcgucci",
+                "verified": false
+            },
+            {
+                "created_at": "2011-07-15T05:17:25.000Z",
+                "description": "live life to the fullest",
+                "id": "335750593",
+                "location": "Tokyo-to, Japan",
+                "name": "skilled rebhara",
+                "pinned_tweet_id": "1349711900372840449",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1343945624161570817/AN_-PfVA_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 9732,
+                    "following_count": 6743,
+                    "listed_count": 5,
+                    "tweet_count": 24831
+                },
+                "url": "",
+                "username": "drjaytee87",
+                "verified": false
+            },
+            {
+                "created_at": "2018-02-15T17:48:15.000Z",
+                "description": "Music , Football, Cannabis\nRelationship, Games and more",
+                "id": "964194660360081408",
+                "location": "Montevideo, Uruguay",
+                "name": "\ud83c\udf1e\ud83c\udf3f\ud83c\udf3fGanjaMaster\ud83c\udf3f\ud83c\udf3f\ud83c\udf1e",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347950819824558083/XpzB3ZO8_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 183,
+                    "following_count": 500,
+                    "listed_count": 0,
+                    "tweet_count": 822
+                },
+                "url": "",
+                "username": "yesismoke86",
+                "verified": false
+            },
+            {
+                "created_at": "2016-12-03T14:47:41.000Z",
+                "description": "Check The Latest Laptops Price, New, Reviews and Full Specs in https://t.co/3nNOYLjvk3",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "laptop6.com",
+                                "end": 86,
+                                "expanded_url": "http://www.laptop6.com",
+                                "start": 63,
+                                "url": "https://t.co/3nNOYLjvk3"
+                            }
+                        ]
+                    }
+                },
+                "id": "805060946481778690",
+                "location": "Pakistan",
+                "name": "Laptop6",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/805082675639963649/co-FMkjy_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 48,
+                    "following_count": 340,
+                    "listed_count": 0,
+                    "tweet_count": 4086
+                },
+                "url": "",
+                "username": "Laptop6com",
+                "verified": false
+            },
+            {
+                "created_at": "2020-01-01T15:27:05.000Z",
+                "description": "#keiys_loves_K\n#K_DEBUT\n; MULTI---",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 14,
+                                "start": 0,
+                                "tag": "keiys_loves_K"
+                            },
+                            {
+                                "end": 23,
+                                "start": 15,
+                                "tag": "K_DEBUT"
+                            }
+                        ]
+                    }
+                },
+                "id": "1212394582173839360",
+                "name": "(K)eunae",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1350459922715086848/ECY00eu8_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 236,
+                    "following_count": 646,
+                    "listed_count": 0,
+                    "tweet_count": 3807
+                },
+                "url": "",
+                "username": "keunyourhope",
+                "verified": false
+            },
+            {
+                "created_at": "2017-05-08T13:52:00.000Z",
+                "description": "BEAT INTERACTIVE \uc5d0\uc11c \uc6b4\uc601\ud558\ub294 A.C.E(#\uc5d0\uc774\uc2a4) \uacf5\uc2dd \ud2b8\uc704\ud130\uc785\ub2c8\ub2e4.",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 35,
+                                "start": 31,
+                                "tag": "\uc5d0\uc774\uc2a4"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtube.com/c/officialACEb\u2026",
+                                "end": 23,
+                                "expanded_url": "https://www.youtube.com/c/officialACEbeatint",
+                                "start": 0,
+                                "url": "https://t.co/lljZUxx0TH"
+                            }
+                        ]
+                    }
+                },
+                "id": "861579438244241411",
+                "name": "A.C.E",
+                "pinned_tweet_id": "1347408448472850432",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1346302415448862720/DVGlOBIZ_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 473500,
+                    "following_count": 3,
+                    "listed_count": 3118,
+                    "tweet_count": 11131
+                },
+                "url": "https://t.co/lljZUxx0TH",
+                "username": "official_ACE7",
+                "verified": true
+            },
+            {
+                "created_at": "2011-10-05T18:38:42.000Z",
+                "description": "Never forgive nor forget Swamis Kalpavriksha Giriji Maharaj, Sushil Giriji Maharaj, Laxmananda Saraswati ji Maharaj murders RTs not endorsements",
+                "id": "385566520",
+                "name": "#JaiShriRam HinduCivilisationalNationalist",
+                "pinned_tweet_id": "1295605061305790466",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1261887720642600960/CVyf3Zv4_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1002,
+                    "following_count": 874,
+                    "listed_count": 33,
+                    "tweet_count": 98019
+                },
+                "url": "",
+                "username": "PoonamS13",
+                "verified": false
+            },
+            {
+                "created_at": "2011-01-26T16:53:26.000Z",
+                "description": "Journalist (Le Figaro), Writer ('Nouvelle Histoire de l'Inde', Ed du Ch\u00e2telet; 'Les mots du dernier Dala\u00ef-lama, 'Flammarion), prof of Pranayama (ArtofLiving)",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "francoisgautier.com",
+                                "end": 22,
+                                "expanded_url": "http://francoisgautier.com",
+                                "start": 0,
+                                "url": "http://t.co/auorYCCF86"
+                            }
+                        ]
+                    }
+                },
+                "id": "243249906",
+                "location": "Delhi, Pune, Paris, Auroville",
+                "name": "Francois Gautier",
+                "pinned_tweet_id": "1349588228706193414",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347412801682288640/KbdHunBv_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 60718,
+                    "following_count": 182,
+                    "listed_count": 262,
+                    "tweet_count": 33985
+                },
+                "url": "http://t.co/auorYCCF86",
+                "username": "fgautier26",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-10T17:18:56.000Z",
+                "description": "Prime Minister of India",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "narendramodi.in",
+                                "end": 23,
+                                "expanded_url": "http://www.narendramodi.in",
+                                "start": 0,
+                                "url": "https://t.co/zzYhUUfq6i"
+                            }
+                        ]
+                    }
+                },
+                "id": "18839785",
+                "location": "India",
+                "name": "Narendra Modi",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1249934092994375680/xX66NSZP_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 64899128,
+                    "following_count": 2351,
+                    "listed_count": 26196,
+                    "tweet_count": 28785
+                },
+                "url": "https://t.co/zzYhUUfq6i",
+                "username": "narendramodi",
+                "verified": true
+            },
+            {
+                "created_at": "2010-10-26T02:19:07.000Z",
+                "description": "Official Twitter account of the Bharatiya Janata Party (BJP), world's largest political party. \u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940 (\u092d\u093e\u091c\u092a\u093e)\n\nhttps://t.co/d1IYtw5taF",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "instagram.com/bjp4india",
+                                "end": 146,
+                                "expanded_url": "http://instagram.com/bjp4india",
+                                "start": 123,
+                                "url": "https://t.co/d1IYtw5taF"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "bjp.org",
+                                "end": 23,
+                                "expanded_url": "http://www.bjp.org",
+                                "start": 0,
+                                "url": "https://t.co/cjXqo5byqb"
+                            }
+                        ]
+                    }
+                },
+                "id": "207809313",
+                "location": "6-A, Deen Dayal Upadhyay Marg,",
+                "name": "BJP",
+                "pinned_tweet_id": "1350318698532257795",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/812531108092874753/frVON4bm_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 15229800,
+                    "following_count": 3,
+                    "listed_count": 3390,
+                    "tweet_count": 210690
+                },
+                "url": "https://t.co/cjXqo5byqb",
+                "username": "BJP4India",
+                "verified": true
+            },
+            {
+                "created_at": "2020-02-07T12:38:35.000Z",
+                "description": "Contact us for the following and more!\n01708 861827  sales@amdtuning.com\nAmD Tuning Remaps\nPerformance Tuning\nPerformance Exhausts\nSuspension Upgrades",
+                "id": "1225760695804944384",
+                "name": "AmDtuning",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1225761942603735041/pd_Z2tj7_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 328,
+                    "following_count": 36,
+                    "listed_count": 0,
+                    "tweet_count": 212
+                },
+                "url": "",
+                "username": "Amd_Tuning",
+                "verified": false
+            },
+            {
+                "created_at": "2013-10-01T14:24:13.000Z",
+                "description": "- Traversing the Digital World -",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "NocturnalCloud.com",
+                                "end": 22,
+                                "expanded_url": "http://www.NocturnalCloud.com",
+                                "start": 0,
+                                "url": "http://t.co/yEUgagIyoG"
+                            }
+                        ]
+                    }
+                },
+                "id": "1923646591",
+                "location": "London",
+                "name": "Nocturnal Cloud",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/473829265469734912/8OQnyeit_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 45,
+                    "following_count": 55,
+                    "listed_count": 42,
+                    "tweet_count": 61588
+                },
+                "url": "http://t.co/yEUgagIyoG",
+                "username": "NocturnalCLD",
+                "verified": false
+            },
+            {
+                "created_at": "2021-01-07T10:15:24.000Z",
+                "description": "",
+                "id": "1347124580599484418",
+                "name": "Ron Mercy",
+                "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 5,
+                    "following_count": 33,
+                    "listed_count": 0,
+                    "tweet_count": 289
+                },
+                "url": "",
+                "username": "RonMercy2",
+                "verified": false
+            },
+            {
+                "created_at": "2012-10-20T09:27:10.000Z",
+                "description": "\u200f\u062f\u0639 \u0627\u0644\u0623\u064a\u0627\u0645 \u062a\u0641\u0639\u0644 \u0645\u0627 \u062a\u0634\u0627\u0621 \u0641\u0637\u0628 \u0646\u0641\u0633\u0627\u064b \u0625\u0630\u0627 \u062d\u0643\u0645 \u0627\u0644\u0642\u0636\u0627\u0621",
+                "id": "892871221",
+                "location": "\u0648\u062f\u0645\u062f\u0646\u064a-\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+                "name": "\u0647\u0634\u0627\u0645 \u0627\u0644\u0645\u062b\u064a\u0631 \u0644\u0644\u0631\u0639\u0628\ud83c\udfad",
+                "pinned_tweet_id": "1179040050203500544",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1170674404700938241/oZ9Mwp3L_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 211,
+                    "following_count": 681,
+                    "listed_count": 0,
+                    "tweet_count": 448
+                },
+                "url": "",
+                "username": "HishamPRO35",
+                "verified": false
+            },
+            {
+                "created_at": "2010-07-27T16:08:58.000Z",
+                "description": "\u0645\u0647\u062a\u0645 \u0628\u0627\u0644\u062d\u0631\u064a\u0627\u062a \u0648\u062d\u0642\u0648\u0642 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 | \u0627\u0633\u062a\u0634\u0627\u0631\u064a \u0625\u062f\u0627\u0631\u0629 \u0648\u0645\u062d\u0627\u0636\u0631 \u0625\u062f\u0627\u0631\u0629 \u0646\u0638\u0645 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a @austinpeay |  \u0644\u0646\u062c\u0639\u0644\u0647 \u0645\u0643\u0627\u0646\u0627\u064b \u0623\u0641\u0636\u0644",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 82,
+                                "start": 71,
+                                "username": "austinpeay"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "myurls.co/altilooby",
+                                "end": 23,
+                                "expanded_url": "https://myurls.co/altilooby",
+                                "start": 0,
+                                "url": "https://t.co/IrGockEOpu"
+                            }
+                        ]
+                    }
+                },
+                "id": "171545721",
+                "location": "United States",
+                "name": "Al Tilooby",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1202776143415435264/SdcIMi-h_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 15844,
+                    "following_count": 353,
+                    "listed_count": 19,
+                    "tweet_count": 24765
+                },
+                "url": "https://t.co/IrGockEOpu",
+                "username": "altilooby",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-04T14:28:46.000Z",
+                "description": "13, He/Him, \ud83c\uddf5\ud83c\udded | Tech Enthusiast, UI/UX Designer, Journalist, Genshin Impact is my religion",
+                "id": "1312761535601598472",
+                "location": "Rushia's Basement, Japan",
+                "name": "Lazer",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1339205546155540483/TxQ0MVqJ_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 47,
+                    "following_count": 71,
+                    "listed_count": 0,
+                    "tweet_count": 1259
+                },
+                "url": "",
+                "username": "Lazer_Kent",
+                "verified": false
+            },
+            {
+                "created_at": "2019-07-22T21:02:18.000Z",
+                "description": "Sister of @SummerSkiis / Owns too many Apple products.",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 22,
+                                "start": 10,
+                                "username": "SummerSkiis"
+                            }
+                        ]
+                    }
+                },
+                "id": "1153409960807735297",
+                "location": "She/Her \u2022 15",
+                "name": "Abby \ud83c\udf3a",
+                "pinned_tweet_id": "1332855728315445250",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1348802622455738369/zzU6gMGz_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1950,
+                    "following_count": 2622,
+                    "listed_count": 27,
+                    "tweet_count": 37906
+                },
+                "url": "",
+                "username": "WinterSkiis",
+                "verified": false
+            },
+            {
+                "created_at": "2017-02-24T04:48:04.000Z",
+                "description": "PC Enthusiast & Software Engineer working on AI & Machine Learning using Python & Java.",
+                "id": "834988241640165376",
+                "name": "All Things Tech",
+                "pinned_tweet_id": "1339608298849509376",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/834996527319891968/XHUxSJDS_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 147,
+                    "following_count": 45,
+                    "listed_count": 0,
+                    "tweet_count": 12105
+                },
+                "url": "",
+                "username": "TechNewsGen",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-22T07:33:46.000Z",
+                "description": "Animation, film & tech enthusiast masquerading as a cartoon cat. Part of the furry fandom since 1997. British southerner living in the north of England",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "slycat.co.uk",
+                                "end": 23,
+                                "expanded_url": "http://slycat.co.uk",
+                                "start": 0,
+                                "url": "https://t.co/fAtq0UsTCD"
+                            }
+                        ]
+                    }
+                },
+                "id": "19330227",
+                "location": "Northwest England",
+                "name": "SlyCat",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1349337682787397638/ZhFVrfpd_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 2322,
+                    "following_count": 749,
+                    "listed_count": 43,
+                    "tweet_count": 73993
+                },
+                "url": "https://t.co/fAtq0UsTCD",
+                "username": "SlyCat",
+                "verified": false
+            },
+            {
+                "created_at": "2010-04-23T14:42:52.000Z",
+                "description": "Fiercely me",
+                "id": "136295021",
+                "location": "Manchester, England",
+                "name": "Matt Sqwrl",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/416239744461193216/Hu7yJLt3_normal.jpeg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 291,
+                    "following_count": 234,
+                    "listed_count": 9,
+                    "tweet_count": 16926
+                },
+                "url": "",
+                "username": "MattSqu",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1349645817813086209",
+        "oldest_id": "1349644400486457355",
+        "result_count": 17
+    }
+}

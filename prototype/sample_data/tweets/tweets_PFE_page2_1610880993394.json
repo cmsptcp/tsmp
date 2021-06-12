@@ -1,0 +1,1925 @@
+{
+    "data": [
+        {
+            "author_id": "57290634",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Premier of Ontario \u2022 Leader of the @OntarioPCParty\n ",
+                        "id": "1163702641949417472",
+                        "name": "Doug Ford"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Premier of Ontario \u2022 Leader of the @OntarioPCParty\n ",
+                        "id": "1163702641949417472",
+                        "name": "Doug Ford"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1329442527796031488",
+                        "name": "Moderna"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "1329443614888378368",
+                        "name": "Moderna Vaccine"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1350593680550158340",
+            "created_at": "2021-01-17T05:57:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 106,
+                        "start": 99,
+                        "tag": "Pfizer"
+                    },
+                    {
+                        "end": 121,
+                        "start": 113,
+                        "tag": "Moderna"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "username": "CTVNews"
+                    },
+                    {
+                        "end": 20,
+                        "start": 9,
+                        "username": "SharkawyMD"
+                    },
+                    {
+                        "end": 32,
+                        "start": 21,
+                        "username": "fordnation"
+                    },
+                    {
+                        "end": 41,
+                        "start": 33,
+                        "username": "CTVNews"
+                    }
+                ]
+            },
+            "id": "1350683705774206978",
+            "in_reply_to_user_id": "57290634",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350681349703680002",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@CTVNews @SharkawyMD @fordnation @CTVNews you have an obligation to the public to give facts. Both #Pfizer &amp; #Moderna have said their vaccines may not be effective if 2nd dose is given later than recommended time. Since these scientists researched &amp; created the vaccines, I'd go with their recommendations."
+        },
+        {
+            "author_id": "31669146",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1350683617337327621",
+            "created_at": "2021-01-17T05:57:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 125,
+                        "start": 111,
+                        "tag": "CoronaVaccine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Health Minister Greg Hunt pointed out that in a US review of roughly 1.8 million doses of the vaccine there have been \"very positive\" results.",
+                        "display_url": "smh.com.au/politics/feder\u2026",
+                        "end": 150,
+                        "expanded_url": "https://www.smh.com.au/politics/federal/australia-seeking-advice-on-norwegian-deaths-following-pfizer-vaccine-20210117-p56uoh.html",
+                        "images": [
+                            {
+                                "height": 628,
+                                "url": "https://pbs.twimg.com/news_img/1350606123179585536/lVUrZ63P?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1350606123179585536/lVUrZ63P?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 127,
+                        "status": 200,
+                        "title": "Australia seeking advice on Norwegian deaths following Pfizer vaccine",
+                        "unwound_url": "https://www.smh.com.au/politics/federal/australia-seeking-advice-on-norwegian-deaths-following-pfizer-vaccine-20210117-p56uoh.html",
+                        "url": "https://t.co/6Yl3wn6mGf"
+                    }
+                ]
+            },
+            "id": "1350683617337327621",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "Urgent ?!\nNothing much else around vaccination has been \u2018urgent\u2019 to Hunt (or anyone else in the Morrison govt)\n#CoronaVaccine \nhttps://t.co/6Yl3wn6mGf"
+        },
+        {
+            "author_id": "1331806702040199169",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Wellness & Health",
+                        "id": "903303816698671104",
+                        "name": "Wellness and health"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Community Health",
+                        "id": "918538847302041600",
+                        "name": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Common Medication",
+                        "id": "920768310152593408",
+                        "name": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1350683393101594624",
+            "created_at": "2021-01-17T05:56:30.000Z",
+            "id": "1350683393101594624",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 44,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "PFIZER VACCINE\ud83d\udc89\ud83d\udc89\ud83d\udc89?!!! MORE LIKE KILL\ud83d\udc80\ud83d\udc80\ud83d\udc80 YOU INSTANTLY POTION!!! I DON\u2019T TRUST THAT SHIT AND I\u2019M NEVER GETTING IT INJECTED INTO ME ONCE LET ALONE TWICE!!! \ud83c\uddfa\ud83c\uddf8"
+        },
+        {
+            "author_id": "3106743727",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1350683392547803137",
+            "created_at": "2021-01-17T05:56:29.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 77,
+                        "normalized_text": "Norway",
+                        "probability": 0.9734,
+                        "start": 72,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 112,
+                        "normalized_text": "Pfizer Covid Vaccination",
+                        "probability": 0.342,
+                        "start": 89,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 132,
+                        "start": 118,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "At least 13 Isrealis suffered facial paralysis after taking the Pfizer coronavirus vaccination. RT reported: At least 13 Israelis have experienced facial paralysis after being administered the Pfizer Covid-19 vaccine, a month after the US Food and Drug Administration reported similar issues but said they weren\u2019t linked to the jab. Israel has been hailed for\u2026",
+                        "display_url": "thegatewaypundit.com/2021/01/13-isr\u2026",
+                        "end": 156,
+                        "expanded_url": "https://www.thegatewaypundit.com/2021/01/13-israelis-suffer-facial-paralysis-pfizer-covid-jab-29-dead-norway-following-pfizer-covid-vaccination/?utm_source=Twitter&utm_campaign=websitesharingbuttons",
+                        "images": [
+                            {
+                                "height": 375,
+                                "url": "https://pbs.twimg.com/news_img/1350591629464391681/emJMcTWv?format=jpg&name=orig",
+                                "width": 620
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1350591629464391681/emJMcTWv?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 133,
+                        "status": 200,
+                        "title": "13 Israelis Suffer Facial Paralysis After Pfizer Covid Jab - 29 Dead in Norway Following Pfizer Covid Vaccination",
+                        "unwound_url": "https://www.thegatewaypundit.com/2021/01/13-israelis-suffer-facial-paralysis-pfizer-covid-jab-29-dead-norway-following-pfizer-covid-vaccination/?utm_source=Twitter&utm_campaign=websitesharingbuttons",
+                        "url": "https://t.co/rhjz3Nuz32"
+                    }
+                ]
+            },
+            "id": "1350683392547803137",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "13 Israelis Suffer Facial Paralysis After Pfizer Covid Jab - 29 Dead in Norway Following Pfizer Covid Vaccination via @gatewaypundit https://t.co/rhjz3Nuz32"
+        },
+        {
+            "author_id": "1162394229756366848",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1350682958902951937",
+            "created_at": "2021-01-17T05:56:28.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Pfizer",
+                        "probability": 0.8891,
+                        "start": 24,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "username": "h0e_Biden"
+                    }
+                ]
+            },
+            "id": "1350683388429148161",
+            "in_reply_to_user_id": "1395603674",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350682958902951937",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@h0e_Biden Hey at least Pfizer said their vaccine works against it, even tho it\u2019s not peer reviewed"
+        },
+        {
+            "author_id": "603553879",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1350683353389948928",
+            "created_at": "2021-01-17T05:56:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 141,
+                        "start": 123,
+                        "tag": "billGEPPETTOgates"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Chinese health experts have now called on Norway and other countries to suspend the use of the controversial mRNA-based COVID-19 vaccines produced by companies such as Pfizer, especially among elderly people, due to the vaccines\u2019 safety uncertainties following the deaths of 23 elderly Norwegian people who recently received the vaccine. See more information here: https://www.globaltimes.cn/page/202101/1212915.shtml [\u2026]",
+                        "display_url": "21wire.tv/2021/01/16/chi\u2026",
+                        "end": 168,
+                        "expanded_url": "https://21wire.tv/2021/01/16/china-calls-to-suspend-pfizer-mrna-vaccine/",
+                        "images": [
+                            {
+                                "height": 720,
+                                "url": "https://pbs.twimg.com/news_img/1350518738341212162/4UMdBQ9B?format=jpg&name=orig",
+                                "width": 1280
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1350518738341212162/4UMdBQ9B?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 145,
+                        "status": 200,
+                        "title": "China Calls to Suspend Pfizer mRNA Vaccine - 21WIRE.TV",
+                        "unwound_url": "https://21wire.tv/2021/01/16/china-calls-to-suspend-pfizer-mrna-vaccine/",
+                        "url": "https://t.co/LwFFW5eKC4"
+                    }
+                ]
+            },
+            "id": "1350683353389948928",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Ivermectin bad... Vaccine good... Yeah right \ud83e\udd14\ud83d\ude44.. How many more deaths will there be? Oh wait, a couple of billion, as per #billGEPPETTOgates \ud83e\udd2c\ud83d\ude08\nhttps://t.co/LwFFW5eKC4"
+        },
+        {
+            "author_id": "3159802423",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "1329443614888378368",
+                        "name": "Moderna Vaccine"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1350674359946395649",
+            "created_at": "2021-01-17T05:56:20.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "Brazil",
+                        "probability": 0.9998,
+                        "start": 44,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 90,
+                        "normalized_text": "China",
+                        "probability": 0.9973,
+                        "start": 86,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Russia",
+                        "probability": 0.9974,
+                        "start": 94,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 150,
+                        "normalized_text": "Pfizer",
+                        "probability": 0.44,
+                        "start": 145,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 262,
+                        "normalized_text": "China",
+                        "probability": 0.9901,
+                        "start": 258,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "ZimMediaReview"
+                    }
+                ]
+            },
+            "id": "1350683353150750721",
+            "in_reply_to_user_id": "3000984971",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350674359946395649",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@ZimMediaReview Recent studies conducted in Brazil  has shown that both vaccines from China &amp; Russia had 50% efficacy rates compared to moderna, Pfizer &amp;  \nastrazeneca vaccine with 94.5, 95, &amp; 96% efficacy. Why is the government wasting funds to source from China ?"
+        },
+        {
+            "author_id": "3300692264",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1350683337900384261",
+            "created_at": "2021-01-17T05:56:16.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "Norway",
+                        "probability": 0.9961,
+                        "start": 10,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 38,
+                        "normalized_text": "Pfizer",
+                        "probability": 0.4677,
+                        "start": 33,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Twenty-three people died in Norway within days of receiving their first dose of the Pfizer Covid-19 vaccine with 13 of those deaths apparently related to the side effects of the shots, New York Post r...",
+                        "display_url": "pgj.cc/Lyzs33",
+                        "end": 80,
+                        "expanded_url": "https://pgj.cc/Lyzs33",
+                        "images": [
+                            {
+                                "height": 338,
+                                "url": "https://pbs.twimg.com/news_img/1350683338160414720/6HJFRyA-?format=jpg&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1350683338160414720/6HJFRyA-?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 57,
+                        "status": 200,
+                        "title": "23 die in Norway after receiving Pfizer Covid-19 vaccine",
+                        "unwound_url": "https://newsscrollngr.com/index.php/component/k2/item/24455-23-die-in-norway-after-receiving-pfizer-covid-19-vaccine",
+                        "url": "https://t.co/2bK1VFhPpw"
+                    }
+                ]
+            },
+            "id": "1350683337900384261",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "23 die in Norway after receiving Pfizer Covid-19 vaccine\nhttps://t.co/2bK1VFhPpw"
+        },
+        {
+            "author_id": "2159937294",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1350484419161714689",
+            "created_at": "2021-01-17T05:55:25.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Pfizer",
+                        "probability": 0.7021,
+                        "start": 65,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "DrTonyLeachon"
+                    }
+                ]
+            },
+            "id": "1350683124087152642",
+            "in_reply_to_user_id": "500825663",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350484419161714689",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@DrTonyLeachon Doc, with the recent news of 23 deaths bec of the Pfizer? would you recommend to still use it?"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "7_1172758979111505921"
+                ]
+            },
+            "author_id": "867072692",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1350683049197879296",
+            "created_at": "2021-01-17T05:55:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Pfizer",
+                        "probability": 0.7195,
+                        "start": 17,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/Xi5Kp3Zk5T",
+                        "end": 230,
+                        "expanded_url": "https://twitter.com/kaalahbynes_/status/1172759058190929920/video/1",
+                        "start": 207,
+                        "url": "https://t.co/Xi5Kp3Zk5T"
+                    }
+                ]
+            },
+            "id": "1350683049197879296",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "This is from the Pfizer v-a-c-c-i-n-e. Please understand these shots cause harm. Injury is REAL and not rare. It\u2019s a shame these poor people are being gaslighted, and social media giants are censoring them. https://t.co/Xi5Kp3Zk5T"
+        },
+        {
+            "author_id": "4874720566",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1350452451174969348",
+            "created_at": "2021-01-17T05:54:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 189,
+                        "normalized_text": "Pfizer",
+                        "probability": 0.7442,
+                        "start": 184,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "errjustsaying"
+                    },
+                    {
+                        "end": 27,
+                        "start": 15,
+                        "username": "ghost_wales"
+                    }
+                ]
+            },
+            "id": "1350682987399098368",
+            "in_reply_to_user_id": "2424097747",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350452451174969348",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@errjustsaying @ghost_wales Dad at 103 still waiting for a phone call to say when someone will visit his home. He is housebound now and we had to turn down the offer the first week of Pfizer to go to a hub."
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "duration_ms": 34063,
+                "height": 1280,
+                "media_key": "7_1172758979111505921",
+                "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1172758979111505921/pu/img/iGN6V-k8P7NiCsEe.jpg",
+                "public_metrics": {
+                    "view_count": 7312052
+                },
+                "type": "video",
+                "width": 720
+            }
+        ],
+        "tweets": [
+            {
+                "author_id": "57290634",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Named people in the world like Nelson Mandela",
+                            "id": "10",
+                            "name": "Person"
+                        },
+                        "entity": {
+                            "description": "Premier of Ontario \u2022 Leader of the @OntarioPCParty\n ",
+                            "id": "1163702641949417472",
+                            "name": "Doug Ford"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Politicians in the world, like Joe Biden",
+                            "id": "35",
+                            "name": "Politician"
+                        },
+                        "entity": {
+                            "description": "Premier of Ontario \u2022 Leader of the @OntarioPCParty\n ",
+                            "id": "1163702641949417472",
+                            "name": "Doug Ford"
+                        }
+                    }
+                ],
+                "conversation_id": "1350593680550158340",
+                "created_at": "2021-01-17T05:48:22.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 67,
+                            "normalized_text": "Ontario",
+                            "probability": 0.7804,
+                            "start": 61,
+                            "type": "Place"
+                        },
+                        {
+                            "end": 144,
+                            "normalized_text": "Ontario",
+                            "probability": 0.9555,
+                            "start": 138,
+                            "type": "Place"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 8,
+                            "start": 0,
+                            "username": "CTVNews"
+                        },
+                        {
+                            "end": 20,
+                            "start": 9,
+                            "username": "SharkawyMD"
+                        },
+                        {
+                            "end": 163,
+                            "start": 152,
+                            "username": "fordnation"
+                        },
+                        {
+                            "end": 214,
+                            "start": 206,
+                            "username": "CTVNews"
+                        }
+                    ]
+                },
+                "id": "1350681349703680002",
+                "in_reply_to_user_id": "203123011",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1350593680550158340",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter Web App",
+                "text": "@CTVNews @SharkawyMD As we all watch the horror show that is Ontario healthcare, I'd question any info that used a medical reference from Ontario. Does @fordnation have people involved in ON Science Table? @CTVNews should fact check this with other legitimate sources before accepting it as truth."
+            },
+            {
+                "author_id": "1395603674",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Ongoing News Stories like 'Brexit'",
+                            "id": "123",
+                            "name": "Ongoing News Story"
+                        },
+                        "entity": {
+                            "id": "1220701888179359745",
+                            "name": "COVID-19"
+                        }
+                    }
+                ],
+                "conversation_id": "1350682958902951937",
+                "created_at": "2021-01-17T05:54:46.000Z",
+                "id": "1350682958902951937",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 11,
+                    "quote_count": 0,
+                    "reply_count": 3,
+                    "retweet_count": 0
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "Reading about the new strain of covid has made me more Doomer, and frustrated. Legitimately cannot emotionally withstand more years of everything shutdown that i enjoyed, and no social setting to talk to people."
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "3_1350674341709705217"
+                    ]
+                },
+                "author_id": "3000984971",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Ongoing News Stories like 'Brexit'",
+                            "id": "123",
+                            "name": "Ongoing News Story"
+                        },
+                        "entity": {
+                            "id": "1220701888179359745",
+                            "name": "COVID-19"
+                        }
+                    }
+                ],
+                "conversation_id": "1350674359946395649",
+                "created_at": "2021-01-17T05:20:36.000Z",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 11,
+                            "start": 0,
+                            "tag": "FrontPages"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "pic.twitter.com/BPwZQIBUwG",
+                            "end": 70,
+                            "expanded_url": "https://twitter.com/ZimMediaReview/status/1350674359946395649/photo/1",
+                            "start": 47,
+                            "url": "https://t.co/BPwZQIBUwG"
+                        }
+                    ]
+                },
+                "id": "1350674359946395649",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 3,
+                    "reply_count": 5,
+                    "retweet_count": 2
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "#FrontPages: Sunday News- vaccine preparedness https://t.co/BPwZQIBUwG"
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "3_1350484407161810945",
+                        "3_1350484407157592069"
+                    ]
+                },
+                "author_id": "500825663",
+                "conversation_id": "1350484419161714689",
+                "created_at": "2021-01-16T16:45:50.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 20,
+                            "normalized_text": "Bangkok",
+                            "probability": 0.8846,
+                            "start": 14,
+                            "type": "Place"
+                        },
+                        {
+                            "end": 90,
+                            "normalized_text": "Indonesia",
+                            "probability": 0.8938,
+                            "start": 82,
+                            "type": "Place"
+                        },
+                        {
+                            "end": 96,
+                            "normalized_text": "US",
+                            "probability": 0.819,
+                            "start": 95,
+                            "type": "Place"
+                        },
+                        {
+                            "end": 122,
+                            "normalized_text": "Philippines of US",
+                            "probability": 0.3296,
+                            "start": 106,
+                            "type": "Place"
+                        },
+                        {
+                            "end": 165,
+                            "normalized_text": "Indonesia",
+                            "probability": 0.9986,
+                            "start": 157,
+                            "type": "Place"
+                        },
+                        {
+                            "end": 178,
+                            "normalized_text": "Thailand",
+                            "probability": 0.9836,
+                            "start": 171,
+                            "type": "Place"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "pic.twitter.com/qW7KFax8MZ",
+                            "end": 205,
+                            "expanded_url": "https://twitter.com/DrTonyLeachon/status/1350484419161714689/photo/1",
+                            "start": 182,
+                            "url": "https://t.co/qW7KFax8MZ"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/qW7KFax8MZ",
+                            "end": 205,
+                            "expanded_url": "https://twitter.com/DrTonyLeachon/status/1350484419161714689/photo/1",
+                            "start": 182,
+                            "url": "https://t.co/qW7KFax8MZ"
+                        }
+                    ]
+                },
+                "geo": {
+                    "place_id": "006523c50dfe9086"
+                },
+                "id": "1350484419161714689",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 4918,
+                    "quote_count": 464,
+                    "reply_count": 204,
+                    "retweet_count": 1908
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "Front page of Bangkok Post newspaper January 16, 2021. \n\nSinovac US$5 per dose vs Indonesia at US $ 17 vs Philippines of US $ 36 \n\nWhy is Sinovac cheaper in Indonesia and Thailand ? https://t.co/qW7KFax8MZ"
+            },
+            {
+                "author_id": "2424097747",
+                "conversation_id": "1350452451174969348",
+                "created_at": "2021-01-16T14:38:49.000Z",
+                "id": "1350452451174969348",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 911,
+                    "quote_count": 11,
+                    "reply_count": 120,
+                    "retweet_count": 83
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for iPad",
+                "text": "70 year olds now being vaccinated in our area!  Well on target!"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2009-07-16T09:36:53.000Z",
+                "description": "\ud83c\udf41A grandma... love kids, camping, coffee, reading & figure skating.",
+                "id": "57290634",
+                "name": "Gail Duffy",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/3009194774/34b719a34c20adef444bac3dc55bd79d_normal.jpeg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 370,
+                    "following_count": 446,
+                    "listed_count": 11,
+                    "tweet_count": 12661
+                },
+                "url": "",
+                "username": "gsfd57",
+                "verified": false
+            },
+            {
+                "created_at": "2010-10-15T15:48:42.000Z",
+                "description": "Tweeting breaking news from CTVNews.ca in the CTV National newsroom. RTs do not constitute endorsement of views.",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "ctvnews.ca",
+                                "end": 22,
+                                "expanded_url": "http://www.ctvnews.ca",
+                                "start": 0,
+                                "url": "http://t.co/sIkkpnZFhH"
+                            }
+                        ]
+                    }
+                },
+                "id": "203123011",
+                "name": "CTV News",
+                "pinned_tweet_id": "1349828535251316741",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1113055141761073153/9gjeEtmz_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1042917,
+                    "following_count": 333,
+                    "listed_count": 4973,
+                    "tweet_count": 253723
+                },
+                "url": "http://t.co/sIkkpnZFhH",
+                "username": "CTVNews",
+                "verified": true
+            },
+            {
+                "created_at": "2012-12-14T07:20:31.000Z",
+                "description": "Internist, Germ Warrior. Thoughts on ID, HIV, health education, sports, politics, the bizarre & humorous. Tweets are my own. I mince my meat not my words.",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "m.youtube.com/channel/UCSBzv\u2026",
+                                "end": 23,
+                                "expanded_url": "https://m.youtube.com/channel/UCSBzv1_4BZk1C4-BW2HMCYw",
+                                "start": 0,
+                                "url": "https://t.co/Sh0Z4PCQ44"
+                            }
+                        ]
+                    }
+                },
+                "id": "1010593116",
+                "location": "Toronto, Ontario",
+                "name": "Abdu Sharkawy",
+                "pinned_tweet_id": "1308121321457491974",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1320124839764647936/j9VRHdWO_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 23619,
+                    "following_count": 463,
+                    "listed_count": 146,
+                    "tweet_count": 9317
+                },
+                "url": "https://t.co/Sh0Z4PCQ44",
+                "username": "SharkawyMD",
+                "verified": false
+            },
+            {
+                "created_at": "2014-09-14T19:11:44.000Z",
+                "description": "Premier of Ontario \u2022 Leader of the @OntarioPCParty \u2022 For The People",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 50,
+                                "start": 35,
+                                "username": "OntarioPCParty"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "Ontario.ca/Premier",
+                                "end": 23,
+                                "expanded_url": "http://Ontario.ca/Premier",
+                                "start": 0,
+                                "url": "https://t.co/EXbP9BDOMD"
+                            }
+                        ]
+                    }
+                },
+                "id": "2809959174",
+                "location": "Ontario",
+                "name": "Doug Ford",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1309885106241376258/WyelwSvn_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 421642,
+                    "following_count": 2461,
+                    "listed_count": 965,
+                    "tweet_count": 7565
+                },
+                "url": "https://t.co/EXbP9BDOMD",
+                "username": "fordnation",
+                "verified": true
+            },
+            {
+                "created_at": "2009-04-16T06:13:33.000Z",
+                "description": "Writer, devoted supporter of public schools, former teacher, recovering journo, former ed of EduResearch Matters. I have an opinion on most things educational.",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "aare.edu.au/blog/",
+                                "end": 23,
+                                "expanded_url": "http://www.aare.edu.au/blog/",
+                                "start": 0,
+                                "url": "https://t.co/0VDG8Yhom2"
+                            }
+                        ]
+                    }
+                },
+                "id": "31669146",
+                "location": "Sydney, Australia",
+                "name": "Maralyn Parker",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1345327739159474181/PU2D4Ruv_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 8573,
+                    "following_count": 1009,
+                    "listed_count": 189,
+                    "tweet_count": 26008
+                },
+                "url": "https://t.co/0VDG8Yhom2",
+                "username": "MaralynParker",
+                "verified": false
+            },
+            {
+                "created_at": "2020-11-26T03:47:26.000Z",
+                "description": "JUST A PATRIOT FIGHTING FOR THE COUNTRY HE LOVES!!! \ud83c\uddfa\ud83c\uddf8 I LOVE AMERICA BECAUSE IT IS THE GREATEST COUNTRY IN THE WORLD!!! \ud83c\uddfa\ud83c\uddf8 JOIN THE #PATRIOTARMY !!! \ud83c\uddfa\ud83c\uddf8",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 145,
+                                "start": 133,
+                                "tag": "PATRIOTARMY"
+                            }
+                        ]
+                    }
+                },
+                "id": "1331806702040199169",
+                "location": "United States",
+                "name": "THE PATRIOT!!! \ud83c\uddfa\ud83c\uddf8",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1334322768754556928/iQQvvntU_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1399,
+                    "following_count": 75,
+                    "listed_count": 1,
+                    "tweet_count": 701
+                },
+                "url": "",
+                "username": "The1776Patri0t",
+                "verified": false
+            },
+            {
+                "created_at": "2015-03-24T11:44:52.000Z",
+                "description": "",
+                "id": "3106743727",
+                "name": "Linda",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/932029953603858433/4KSHEvNf_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 373,
+                    "following_count": 244,
+                    "listed_count": 0,
+                    "tweet_count": 70316
+                },
+                "url": "",
+                "username": "lmdixon5",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-20T00:45:40.000Z",
+                "description": "TGP Founder - Where Hope Made a Comeback - Top Choice of those who seek truth and fulfillment",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "thegatewaypundit.com",
+                                "end": 23,
+                                "expanded_url": "http://www.thegatewaypundit.com/",
+                                "start": 0,
+                                "url": "https://t.co/9D93JQ9grt"
+                            }
+                        ]
+                    }
+                },
+                "id": "19211550",
+                "location": "St. Louis, Missouri",
+                "name": "Jim Hoft",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/967266044338294786/6cu37jlt_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 394060,
+                    "following_count": 1471,
+                    "listed_count": 3036,
+                    "tweet_count": 115877
+                },
+                "url": "https://t.co/9D93JQ9grt",
+                "username": "gatewaypundit",
+                "verified": true
+            },
+            {
+                "created_at": "2019-08-16T16:02:42.000Z",
+                "description": "thomas sankara stan account",
+                "id": "1162394229756366848",
+                "location": "Tallahassee, FL",
+                "name": "Brando \ud83d\ude33",
+                "pinned_tweet_id": "1239746815475449856",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1168998301888331776/MGhLoGS1_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 212,
+                    "following_count": 449,
+                    "listed_count": 2,
+                    "tweet_count": 985
+                },
+                "url": "",
+                "username": "BrandoNeutrino",
+                "verified": false
+            },
+            {
+                "created_at": "2013-05-01T21:20:40.000Z",
+                "description": "26 | programmer, musician (DJ Replyguy), photographer. socialism + defund the police (he/him)",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "instagram.com/angeflomusic",
+                                "end": 23,
+                                "expanded_url": "http://instagram.com/angeflomusic",
+                                "start": 0,
+                                "url": "https://t.co/TqCBheP8Cg"
+                            }
+                        ]
+                    }
+                },
+                "id": "1395603674",
+                "location": "Los Angeles, CA",
+                "name": "angelo",
+                "pinned_tweet_id": "1349233568392757250",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1346691631806730240/l--ywhA0_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1413,
+                    "following_count": 1326,
+                    "listed_count": 10,
+                    "tweet_count": 6799
+                },
+                "url": "https://t.co/TqCBheP8Cg",
+                "username": "h0e_Biden",
+                "verified": false
+            },
+            {
+                "created_at": "2012-06-09T12:20:42.000Z",
+                "description": "\u27b0Faith-Hope-Love \u27b0  \n\n\n\n\ud83d\ude4f. \ud83d\udcaa. \ud83d\udc93. \u26bd. \ud83d\udcbb. \u2652",
+                "id": "603553879",
+                "location": "South Africa",
+                "name": "Cambie \ud83d\udc40\ud83d\udc42\ud83e\udde0\ud83d\ude4f\ud83c\udffc\ud83c\uddff\ud83c\udde6",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/871645134735192064/yrVGS_Tm_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 183,
+                    "following_count": 564,
+                    "listed_count": 1,
+                    "tweet_count": 2697
+                },
+                "url": "",
+                "username": "shauncampbell13",
+                "verified": false
+            },
+            {
+                "created_at": "2015-04-16T14:09:55.000Z",
+                "description": "Not here to be liked,\nNo political affiliations,\nArsenal supporter,\nDespise corruption,\nAfrica shall prosper with better leaders.",
+                "id": "3159802423",
+                "location": "Cyberspace Caves",
+                "name": "Mandaza Douglas \u269b",
+                "pinned_tweet_id": "1326709298714431493",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1328837649348497409/5qLhiWXW_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 680,
+                    "following_count": 417,
+                    "listed_count": 7,
+                    "tweet_count": 9935
+                },
+                "url": "",
+                "username": "MandazaDouglas",
+                "verified": false
+            },
+            {
+                "created_at": "2015-01-27T07:44:03.000Z",
+                "description": "Reviews of Zimbabwe media content. News Updates. Political Commentary. Supporters of Freedom of Expression spaces. RTs are not endorsements",
+                "id": "3000984971",
+                "name": "Zim Media Review",
+                "pinned_tweet_id": "993029305134469120",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/560178187993616385/cYOjJeon_normal.jpeg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 172063,
+                    "following_count": 351,
+                    "listed_count": 211,
+                    "tweet_count": 68571
+                },
+                "url": "",
+                "username": "ZimMediaReview",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-29T16:11:03.000Z",
+                "description": "News and features on Nigeria and the world. Bringing it all together in one platform",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "newsscrollngr.com",
+                                "end": 23,
+                                "expanded_url": "http://www.newsscrollngr.com",
+                                "start": 0,
+                                "url": "https://t.co/PZx4vV8VNi"
+                            }
+                        ]
+                    }
+                },
+                "id": "3300692264",
+                "location": "Nigeria",
+                "name": "NewsScroll",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/797104276371886080/-D4w0qqq_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 631,
+                    "following_count": 381,
+                    "listed_count": 2,
+                    "tweet_count": 14880
+                },
+                "url": "https://t.co/PZx4vV8VNi",
+                "username": "NewsScrollngr",
+                "verified": false
+            },
+            {
+                "created_at": "2013-10-28T01:05:28.000Z",
+                "description": "#DuterteforPresident (even before he declared) but his appointees suck. \n\nThe views and opinions expressed by me are purely mine. \ud83d\ude0f\ud83d\udc4a\n\n#RSA2022",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 20,
+                                "start": 0,
+                                "tag": "DuterteforPresident"
+                            },
+                            {
+                                "end": 142,
+                                "start": 134,
+                                "tag": "RSA2022"
+                            }
+                        ]
+                    }
+                },
+                "id": "2159937294",
+                "name": "DonCamote\u2197\ufe0f",
+                "pinned_tweet_id": "1343792932369780736",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1229938063997980672/8fMjRz_9_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 279,
+                    "following_count": 520,
+                    "listed_count": 3,
+                    "tweet_count": 7842
+                },
+                "url": "",
+                "username": "wagkamote",
+                "verified": false
+            },
+            {
+                "created_at": "2012-02-23T14:15:29.000Z",
+                "description": "TOFIL Awardee in Medicine 2010. Past President, Philippine College of https://t.co/w3b55ph8gC Reform Advocate.Ex Special Adviser National TaskForce COVID 19 \ud83c\uddf5\ud83c\udded",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "Physicians.Health",
+                                "end": 93,
+                                "expanded_url": "http://Physicians.Health",
+                                "start": 70,
+                                "url": "https://t.co/w3b55ph8gC"
+                            }
+                        ]
+                    }
+                },
+                "id": "500825663",
+                "name": "Tony Leachon MD",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/419471716453068802/uEx7VKaM_normal.jpeg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 23927,
+                    "following_count": 3384,
+                    "listed_count": 135,
+                    "tweet_count": 55080
+                },
+                "url": "",
+                "username": "DrTonyLeachon",
+                "verified": true
+            },
+            {
+                "created_at": "2012-10-07T22:45:44.000Z",
+                "description": "20 \u2022 he/they/angel \u2022 \u262d \u2022 #BlackLivesMatter",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 42,
+                                "start": 25,
+                                "tag": "BlackLivesMatter"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "pb-resources.com",
+                                "end": 23,
+                                "expanded_url": "http://www.pb-resources.com",
+                                "start": 0,
+                                "url": "https://t.co/z4b0NjJdu2"
+                            }
+                        ]
+                    }
+                },
+                "id": "867072692",
+                "location": "vietnam",
+                "name": "his majesty \u265b",
+                "pinned_tweet_id": "1321629337708384263",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347747999116615680/D38t2558_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 985,
+                    "following_count": 663,
+                    "listed_count": 1,
+                    "tweet_count": 17533
+                },
+                "url": "https://t.co/z4b0NjJdu2",
+                "username": "shxwnprint",
+                "verified": false
+            },
+            {
+                "created_at": "2016-02-03T19:30:51.000Z",
+                "description": "",
+                "id": "4874720566",
+                "name": "Jackie Mayes",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/884458301173485568/ARhmnjR2_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 61,
+                    "following_count": 116,
+                    "listed_count": 0,
+                    "tweet_count": 3517
+                },
+                "url": "",
+                "username": "JackieMayes5",
+                "verified": false
+            },
+            {
+                "created_at": "2014-04-02T17:00:38.000Z",
+                "description": "No Covid Deniers or \ud83d\ude00 or anti vaxers please. Boris supporter. Polite Twitterite. No DMs. Happily married Essex Girl!",
+                "id": "2424097747",
+                "location": "England, United Kingdom",
+                "name": "Helen \ud83c\uddec\ud83c\udde7 \ud83c\uddec\ud83c\udde7 Reason To Be Hopeful \ud83d\udc99",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1313232783502909442/jt0-jkcg_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 16682,
+                    "following_count": 10234,
+                    "listed_count": 7,
+                    "tweet_count": 49318
+                },
+                "url": "",
+                "username": "errjustsaying",
+                "verified": false
+            },
+            {
+                "created_at": "2019-09-12T11:50:56.000Z",
+                "description": "Ex Soldier pro U.K wish we could abolish all devolved governments for one Westminster government. Anti SNP & Plaid Cymru. I like Roman history passionate Tory!",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "shop.conservatives.com",
+                                "end": 23,
+                                "expanded_url": "https://shop.conservatives.com/",
+                                "start": 0,
+                                "url": "https://t.co/klNuAz3WTx"
+                            }
+                        ]
+                    }
+                },
+                "id": "1172115161643139073",
+                "location": "Plaid Cmyru are lunatics. ",
+                "name": "CraiginWales #SNPOut",
+                "pinned_tweet_id": "1350380442218852353",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1348964744900845569/QhD9QrZE_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 17132,
+                    "following_count": 12677,
+                    "listed_count": 12,
+                    "tweet_count": 82614
+                },
+                "url": "https://t.co/klNuAz3WTx",
+                "username": "ghost_wales",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1350683705774206978",
+        "oldest_id": "1350682987399098368",
+        "result_count": 11
+    }
+}

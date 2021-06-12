@@ -1,0 +1,3544 @@
+{
+    "data": [
+        {
+            "author_id": "23188106",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1270347669588729856",
+                        "name": "Tim Burgess"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "id": "1270347669588729856",
+                        "name": "Tim Burgess"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1350466686240096258",
+            "created_at": "2021-01-17T09:15:28.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Amazon",
+                        "probability": 0.7957,
+                        "start": 37,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "username": "mickysheehan"
+                    },
+                    {
+                        "end": 26,
+                        "start": 14,
+                        "username": "Tim_Burgess"
+                    }
+                ]
+            },
+            "id": "1350733467684843520",
+            "in_reply_to_user_id": "1477139270",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350494427236724737",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@mickysheehan @Tim_Burgess It\u2019s from Amazon."
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1350733435413950464"
+                ]
+            },
+            "author_id": "2485811094",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Holidays like Christmas or Halloween",
+                        "id": "119",
+                        "name": "Holiday"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversations for Christmas for all years.",
+                        "id": "1250078501849280512",
+                        "name": "Christmas"
+                    }
+                }
+            ],
+            "conversation_id": "1350733443030806528",
+            "created_at": "2021-01-17T09:15:22.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Christmas",
+                        "probability": 0.7888,
+                        "start": 30,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 72,
+                        "start": 56,
+                        "tag": "Tammysdragonfly"
+                    },
+                    {
+                        "end": 115,
+                        "start": 109,
+                        "tag": "mgtab"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bookShow.me/B07KN62BT9",
+                        "end": 143,
+                        "expanded_url": "http://bookShow.me/B07KN62BT9",
+                        "start": 120,
+                        "url": "https://t.co/tZFVn8u8nA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/GSvWeWTkNd",
+                        "end": 167,
+                        "expanded_url": "https://twitter.com/Tammysdragonfly/status/1350733443030806528/photo/1",
+                        "start": 144,
+                        "url": "https://t.co/GSvWeWTkNd"
+                    }
+                ]
+            },
+            "id": "1350733443030806528",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "reply_settings": "everyone",
+            "source": "The Social Jukebox",
+            "text": ".\u2022\u00b4\u00af`\u2022.\u2665\u2744\u2665.\u2022\u00b4\u00af`\u2022\nMake It...\nA Christmas She\u2019ll Remember\n#Tammysdragonfly\nCan Two Lost Hearts Find Christmas?\n#mgtab 99c\nhttps://t.co/tZFVn8u8nA https://t.co/GSvWeWTkNd"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1350733432289189889"
+                ]
+            },
+            "author_id": "896228847628296192",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10040276627",
+                        "name": "Amazon Studios"
+                    }
+                }
+            ],
+            "conversation_id": "1350733433983664133",
+            "created_at": "2021-01-17T09:15:20.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 82,
+                        "normalized_text": "Technica AT2020 Cardioid Condenser Studio Microphone",
+                        "probability": 0.3561,
+                        "start": 29,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 103,
+                        "normalized_text": "Amazon",
+                        "probability": 0.5029,
+                        "start": 98,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 148,
+                        "start": 137,
+                        "tag": "microphone"
+                    },
+                    {
+                        "end": 156,
+                        "start": 150,
+                        "tag": "gamer"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/2l8M5sk",
+                        "end": 135,
+                        "expanded_url": "https://amzn.to/2l8M5sk",
+                        "start": 112,
+                        "url": "https://t.co/BIDLTHaqBb"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/QCARaCJNqz",
+                        "end": 180,
+                        "expanded_url": "https://twitter.com/GAMESANDGEARS07/status/1350733433983664133/photo/1",
+                        "start": 157,
+                        "url": "https://t.co/QCARaCJNqz"
+                    }
+                ]
+            },
+            "id": "1350733433983664133",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "The Social Jukebox",
+            "text": "Check out this Awesome Audio-Technica AT2020 Cardioid Condenser Studio Microphone\n\nGet it here on Amazon ==&gt; https://t.co/BIDLTHaqBb\n\n#microphone  #gamer https://t.co/QCARaCJNqz"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1350733429944561674"
+                ]
+            },
+            "author_id": "3388074669",
+            "conversation_id": "1350733431659966465",
+            "created_at": "2021-01-17T09:15:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 253,
+                        "start": 240,
+                        "tag": "spirituality"
+                    },
+                    {
+                        "end": 259,
+                        "start": 254,
+                        "tag": "IAN1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/2kjHu4X",
+                        "end": 283,
+                        "expanded_url": "http://amzn.to/2kjHu4X",
+                        "start": 260,
+                        "url": "https://t.co/yj4icVZcCA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/bgNewmucPx",
+                        "end": 307,
+                        "expanded_url": "https://twitter.com/TwitrPartner/status/1350733431659966465/photo/1",
+                        "start": 284,
+                        "url": "https://t.co/bgNewmucPx"
+                    }
+                ]
+            },
+            "id": "1350733431659966465",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "The Social Jukebox",
+            "text": "'A documented genius, lovely as well, she went to vision quest &amp; demanded a traditional naked experience. Spending the entire time terrified, unable to move because something in the earth was pressing'\nA must read by @ WBooneHedgepeth. #spirituality #IAN1\nhttps://t.co/yj4icVZcCA https://t.co/bgNewmucPx"
+        },
+        {
+            "author_id": "1374983628",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "856568905648578560",
+                        "name": "Grand Theft Auto"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1350733429772611584",
+            "created_at": "2021-01-17T09:15:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "GTA IV Cheats",
+                        "probability": 0.4889,
+                        "start": 0,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 22,
+                        "tag": "kindle"
+                    },
+                    {
+                        "end": 35,
+                        "start": 30,
+                        "tag": "Fire"
+                    },
+                    {
+                        "end": 47,
+                        "start": 40,
+                        "tag": "FireHD"
+                    },
+                    {
+                        "end": 79,
+                        "start": 72,
+                        "tag": "Amazon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/eUXiD",
+                        "end": 71,
+                        "expanded_url": "http://goo.gl/eUXiD",
+                        "start": 48,
+                        "url": "https://t.co/cOuOdThNxK"
+                    }
+                ]
+            },
+            "id": "1350733429772611584",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "IFTTT",
+            "text": "GTA IV Cheats app for #kindle #Fire and #FireHD https://t.co/cOuOdThNxK #Amazon January 17, 2021 at 09:15AM"
+        },
+        {
+            "author_id": "2809392518",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1350733426370949122",
+            "created_at": "2021-01-17T09:15:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "Amazon",
+                        "probability": 0.4344,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "everythingcool12.weebly.com",
+                        "end": 78,
+                        "expanded_url": "http://everythingcool12.weebly.com",
+                        "start": 55,
+                        "url": "https://t.co/P6JCQKVj21"
+                    },
+                    {
+                        "display_url": "youtu.be/BrM8CW4CgR8",
+                        "end": 102,
+                        "expanded_url": "https://youtu.be/BrM8CW4CgR8",
+                        "start": 79,
+                        "url": "https://t.co/EimgT0R9G8"
+                    }
+                ]
+            },
+            "id": "1350733426370949122",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "IFTTT",
+            "text": "January 17, 2021 at 09:15AM Amazon Gift Card Giveaways https://t.co/P6JCQKVj21 https://t.co/EimgT0R9G8"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1350733422789070850"
+                ]
+            },
+            "author_id": "4135631423",
+            "conversation_id": "1350733423955079170",
+            "created_at": "2021-01-17T09:15:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 117,
+                        "normalized_text": "Maxwell",
+                        "probability": 0.7794,
+                        "start": 111,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 152,
+                        "normalized_text": "Kiana",
+                        "probability": 0.998,
+                        "start": 148,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 192,
+                        "normalized_text": "Dark Angel",
+                        "probability": 0.6698,
+                        "start": 183,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 230,
+                        "start": 227,
+                        "tag": "KU"
+                    },
+                    {
+                        "end": 270,
+                        "start": 262,
+                        "tag": "Romance"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amazon.com/gp/product/B07\u2026",
+                        "end": 256,
+                        "expanded_url": "https://www.amazon.com/gp/product/B07QPXR3X2",
+                        "start": 233,
+                        "url": "https://t.co/3zzPeZe0AW"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RsuCD3ldxH",
+                        "end": 298,
+                        "expanded_url": "https://twitter.com/EroticaNation/status/1350733423955079170/photo/1",
+                        "start": 275,
+                        "url": "https://t.co/RsuCD3ldxH"
+                    }
+                ]
+            },
+            "id": "1350733423955079170",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "The Social Jukebox",
+            "text": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u201cI couldn't put it down. I loved it!\u201d\nHer beauty is why he wants her. His darkness is why she stays.\nMaxwell was a man with a plan. Until Kiana walked into his life. \n\nGet \u201cDark Angel\u201d by @ ReanaMalori today!\nFREE on #KU \n\nhttps://t.co/3zzPeZe0AW\nBWWM #Romance HEA https://t.co/RsuCD3ldxH"
+        },
+        {
+            "author_id": "4896561348",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "description": "Amazon - AI",
+                        "id": "10050907867",
+                        "name": "Amazon - AI"
+                    }
+                }
+            ],
+            "conversation_id": "1350733423246266373",
+            "created_at": "2021-01-17T09:15:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "amazon",
+                        "probability": 0.7365,
+                        "start": 11,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1350733423246266373",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Apparently amazon\u2019s data centre explosion \nCheck out this post on Gab"
+        },
+        {
+            "author_id": "4048404617",
+            "conversation_id": "1350733421572665344",
+            "created_at": "2021-01-17T09:15:17.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "M-ArtIn",
+                        "probability": 0.6111,
+                        "start": 53,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 103,
+                        "normalized_text": "Herc",
+                        "probability": 0.6371,
+                        "start": 100,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 169,
+                        "normalized_text": "M-ArtIn",
+                        "probability": 0.5559,
+                        "start": 163,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ift.tt/2OmaPKH",
+                        "end": 279,
+                        "expanded_url": "https://ift.tt/2OmaPKH",
+                        "start": 256,
+                        "url": "https://t.co/Jwmy1UYDAM"
+                    }
+                ]
+            },
+            "id": "1350733421572665344",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "IFTTT",
+            "text": "\u201cThe P. L. O. T. device looks find and dandy to me,\u201d M-ArtIn said. \u201cYou mean fine and dandy?\u201d asked Herc. \u201cYes, there must have been a typo in my space circuits,\u201d M-ArtIn said, making a completely unreadable gesture with his robotic hands. \u201cDo these typo\u2026 https://t.co/Jwmy1UYDAM"
+        },
+        {
+            "author_id": "1161087031130243072",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1350726015551606787",
+            "created_at": "2021-01-17T09:15:15.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 65,
+                        "normalized_text": "amazon",
+                        "probability": 0.5904,
+                        "start": 60,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 90,
+                        "normalized_text": "amazon",
+                        "probability": 0.6057,
+                        "start": 85,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "username": "ramkadam"
+                    },
+                    {
+                        "end": 26,
+                        "start": 10,
+                        "username": "PrakashJavdekar"
+                    }
+                ]
+            },
+            "id": "1350733411896287232",
+            "in_reply_to_user_id": "1683957062",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350726015551606787",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@ramkadam @PrakashJavdekar Sir you have to start boycotting amazon. Stop buying from amazon."
+        },
+        {
+            "author_id": "617853906",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Bitcoin Cryptocurrency",
+                        "id": "1007360414114435072",
+                        "name": "Bitcoin cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Business",
+                        "id": "847529762566230016",
+                        "name": "Business and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1350733405269467137",
+            "created_at": "2021-01-17T09:15:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "business"
+                    },
+                    {
+                        "end": 24,
+                        "start": 10,
+                        "tag": "businessgoals"
+                    },
+                    {
+                        "end": 40,
+                        "start": 25,
+                        "tag": "businessgrowth"
+                    },
+                    {
+                        "end": 54,
+                        "start": 41,
+                        "tag": "businesstips"
+                    },
+                    {
+                        "end": 67,
+                        "start": 55,
+                        "tag": "businesstip"
+                    },
+                    {
+                        "end": 79,
+                        "start": 68,
+                        "tag": "businesses"
+                    },
+                    {
+                        "end": 92,
+                        "start": 80,
+                        "tag": "bigbusiness"
+                    },
+                    {
+                        "end": 102,
+                        "start": 93,
+                        "tag": "facebook"
+                    },
+                    {
+                        "end": 123,
+                        "start": 104,
+                        "tag": "affiliatemarketing"
+                    },
+                    {
+                        "end": 129,
+                        "start": 124,
+                        "tag": "gift"
+                    },
+                    {
+                        "end": 139,
+                        "start": 130,
+                        "tag": "shopping"
+                    },
+                    {
+                        "end": 146,
+                        "start": 140,
+                        "tag": "gifts"
+                    },
+                    {
+                        "end": 162,
+                        "start": 147,
+                        "tag": "onlineshopping"
+                    },
+                    {
+                        "end": 171,
+                        "start": 163,
+                        "tag": "bitcoin"
+                    },
+                    {
+                        "end": 218,
+                        "start": 211,
+                        "tag": "Amazon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/2UrpB7J",
+                        "end": 242,
+                        "expanded_url": "https://bit.ly/2UrpB7J",
+                        "start": 219,
+                        "url": "https://t.co/N4zGZzAgvt"
+                    }
+                ]
+            },
+            "id": "1350733405269467137",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "source": "ContentStudio.io",
+            "text": "#business #businessgoals #businessgrowth #businesstips #businesstip #businesses #bigbusiness #facebook  #affiliatemarketing #gift #shopping #gifts #onlineshopping #bitcoin free shipping on purchases over $25 at #Amazon https://t.co/N4zGZzAgvt"
+        },
+        {
+            "author_id": "1293420361762009088",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Bitcoin Cryptocurrency",
+                        "id": "1007360414114435072",
+                        "name": "Bitcoin cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Business",
+                        "id": "847529762566230016",
+                        "name": "Business and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10045512584",
+                        "name": "Amazon Prime Video"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10046538542",
+                        "name": "Amazon Prime"
+                    }
+                }
+            ],
+            "conversation_id": "1350733403092639744",
+            "created_at": "2021-01-17T09:15:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "business"
+                    },
+                    {
+                        "end": 24,
+                        "start": 10,
+                        "tag": "businessgoals"
+                    },
+                    {
+                        "end": 40,
+                        "start": 25,
+                        "tag": "businessgrowth"
+                    },
+                    {
+                        "end": 54,
+                        "start": 41,
+                        "tag": "businesstips"
+                    },
+                    {
+                        "end": 67,
+                        "start": 55,
+                        "tag": "businesstip"
+                    },
+                    {
+                        "end": 79,
+                        "start": 68,
+                        "tag": "businesses"
+                    },
+                    {
+                        "end": 92,
+                        "start": 80,
+                        "tag": "bigbusiness"
+                    },
+                    {
+                        "end": 102,
+                        "start": 93,
+                        "tag": "facebook"
+                    },
+                    {
+                        "end": 111,
+                        "start": 103,
+                        "tag": "bitcoin"
+                    },
+                    {
+                        "end": 119,
+                        "start": 112,
+                        "tag": "Amazon"
+                    },
+                    {
+                        "end": 154,
+                        "start": 143,
+                        "tag": "PrimeVideo"
+                    },
+                    {
+                        "end": 184,
+                        "start": 172,
+                        "tag": "AmazonPrime"
+                    },
+                    {
+                        "end": 202,
+                        "start": 185,
+                        "tag": "AmazonPrimeVideo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3qf26wr",
+                        "end": 226,
+                        "expanded_url": "https://bit.ly/3qf26wr",
+                        "start": 203,
+                        "url": "https://t.co/hDTzT1oMPZ"
+                    }
+                ]
+            },
+            "id": "1350733403092639744",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "ContentStudio.io",
+            "text": "#business #businessgoals #businessgrowth #businesstips #businesstip #businesses #bigbusiness #facebook #bitcoin #Amazon Find, shop for and get #PrimeVideo  member deals on #AmazonPrime #AmazonPrimeVideo https://t.co/hDTzT1oMPZ"
+        },
+        {
+            "author_id": "208099744",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10045512584",
+                        "name": "Amazon Prime Video"
+                    }
+                }
+            ],
+            "conversation_id": "1349769938521624576",
+            "created_at": "2021-01-17T09:15:12.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "username": "PrimeVideoIN"
+                    }
+                ]
+            },
+            "id": "1350733400341024768",
+            "in_reply_to_user_id": "758172291754823680",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1349769938521624576",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@PrimeVideoIN Boycott"
+        },
+        {
+            "author_id": "1207404436500500482",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1350733393252773889",
+            "created_at": "2021-01-17T09:15:11.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Longines Woman Longines",
+                        "probability": 0.3664,
+                        "start": 6,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 67,
+                        "start": 58,
+                        "username": "AmazonUK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amazon.co.uk/dp/B00M72R9GC/\u2026",
+                        "end": 53,
+                        "expanded_url": "https://www.amazon.co.uk/dp/B00M72R9GC/ref=cm_sw_r_tw_awdb_imm_t1_oaabGbPPQHYR7",
+                        "start": 30,
+                        "url": "https://t.co/rFvzy688ig"
+                    }
+                ]
+            },
+            "id": "1350733393252773889",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Watch Longines Woman Longines https://t.co/rFvzy688ig via @AmazonUK"
+        },
+        {
+            "author_id": "904344810512941056",
+            "conversation_id": "1348134419329130497",
+            "created_at": "2021-01-17T09:15:09.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "username": "awealthofcs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "One man's journey to find meaning in Bill Murray's many unexpected adventures with everyday people, rare and never-before seen footage of the comedic icon participating in stories previously presumed to be urban legend.",
+                        "display_url": "amazon.com/Bill-Murray-St\u2026",
+                        "end": 56,
+                        "expanded_url": "https://www.amazon.com/Bill-Murray-Stories-Lessons-Mythical/dp/B07HLS229B",
+                        "images": [
+                            {
+                                "height": 1600,
+                                "url": "https://pbs.twimg.com/news_img/1350733389423378433/9b9AtPCj?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1350733389423378433/9b9AtPCj?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 33,
+                        "status": 200,
+                        "title": "Watch The Bill Murray Stories: Life Lessons Learned From a Mythical Man online - Prime Video",
+                        "unwound_url": "https://www.amazon.com/Bill-Murray-Stories-Lessons-Mythical/dp/B07HLS229B",
+                        "url": "https://t.co/dIr9Xp78nR"
+                    }
+                ]
+            },
+            "id": "1350733388735533057",
+            "in_reply_to_user_id": "97530284",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1350659272233902081",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@awealthofcs You would dig this: https://t.co/dIr9Xp78nR"
+        },
+        {
+            "author_id": "192117628",
+            "conversation_id": "1350733387019927555",
+            "created_at": "2021-01-17T09:15:09.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "DallaslynL"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "familymediasite.com",
+                        "end": 133,
+                        "expanded_url": "http://familymediasite.com",
+                        "images": [
+                            {
+                                "height": 1627,
+                                "url": "https://pbs.twimg.com/news_img/1349114490294468610/__TO_6kQ?format=jpg&name=orig",
+                                "width": 1260
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1349114490294468610/__TO_6kQ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 110,
+                        "status": 200,
+                        "title": "\u00aeThe Family Media Company \u00aeReece ENTERPRISES/\u00a9REECENETRICS\u2122/\u00aeFAMILY MEDIA COMPANY\u2122/\u00a9TDM Comics International/REECE ENTERTAINMENT & PRODUCTIONS/\u00a9THE S.P.I.R.I.T. OF MUSIC UNIVERSE\u00ae; AKA \u00a9THE LEGEND OF THE TRUE MUSIC MAKERS | Spreading The Love of Positive Family Entertainment & Media for ALL Cultures",
+                        "unwound_url": "http://www.familymediasite.com/",
+                        "url": "https://t.co/SmPqDCzko2"
+                    },
+                    {
+                        "display_url": "tdmcomics.com",
+                        "end": 157,
+                        "expanded_url": "http://tdmcomics.com",
+                        "start": 134,
+                        "url": "https://t.co/loWFqoJwJF"
+                    },
+                    {
+                        "description": "The Make-It, Take-It Basketball Game of Life",
+                        "display_url": "post-up.me",
+                        "end": 181,
+                        "expanded_url": "http://post-up.me",
+                        "images": [
+                            {
+                                "height": 200,
+                                "url": "https://pbs.twimg.com/news_img/1299129882320936960/U_pFqJN_?format=jpg&name=orig",
+                                "width": 200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1299129882320936960/U_pFqJN_?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 158,
+                        "status": 200,
+                        "title": "Post Up",
+                        "unwound_url": "http://post-up.me",
+                        "url": "https://t.co/Afdjk9SAEc"
+                    },
+                    {
+                        "display_url": "amazon.com/-/e/B003VPV7NU",
+                        "end": 205,
+                        "expanded_url": "https://amazon.com/-/e/B003VPV7NU",
+                        "start": 182,
+                        "url": "https://t.co/vLG2FKoalZ"
+                    },
+                    {
+                        "display_url": "reeceenterprises.us",
+                        "end": 231,
+                        "expanded_url": "http://reeceenterprises.us",
+                        "start": 208,
+                        "url": "https://t.co/FBa3imiPbr"
+                    },
+                    {
+                        "description": "Linktree. Make your link do more.",
+                        "display_url": "linktr.ee/thereecewarrior",
+                        "end": 258,
+                        "expanded_url": "https://linktr.ee/thereecewarrior",
+                        "images": [
+                            {
+                                "height": 180,
+                                "url": "https://pbs.twimg.com/news_img/1348586579393040384/WD8uNW-J?format=jpg&name=orig",
+                                "width": 180
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1348586579393040384/WD8uNW-J?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 235,
+                        "status": 200,
+                        "title": "@thereecewarrior",
+                        "unwound_url": "https://linktr.ee/thereecewarrior",
+                        "url": "https://t.co/EVJb6HYOca"
+                    }
+                ]
+            },
+            "id": "1350733387019927555",
+            "in_reply_to_user_id": "3025309486",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@DallaslynL we \"HONOR\" WOMEN &amp; MOMS, and MILITARY Females with our NEW, EXCITING \"G.i.J.i.M.O.M.\" Series: https://t.co/SmPqDCzko2 https://t.co/loWFqoJwJF https://t.co/Afdjk9SAEc https://t.co/vLG2FKoalZ   https://t.co/FBa3imiPbr    https://t.co/EVJb6HYOca"
+        },
+        {
+            "author_id": "35677152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1349931704652361731",
+            "created_at": "2021-01-17T09:15:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "amazon",
+                        "probability": 0.6812,
+                        "start": 53,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "username": "JonsEcon"
+                    }
+                ]
+            },
+            "id": "1350733384151044098",
+            "in_reply_to_user_id": "320290739",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1349931704652361731",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@JonsEcon $15/hr min. wage = 1000% more business for amazon and all the other big corps. it eliminates the mom and pop competition"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1350733380900556805"
+                ]
+            },
+            "author_id": "2788989366",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Travel",
+                        "id": "839159814991167489",
+                        "name": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Destinations",
+                        "id": "857603051657482241",
+                        "name": "Destinations"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Travel",
+                        "id": "839159814991167489",
+                        "name": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "General Travel",
+                        "id": "839160129752686593",
+                        "name": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversations about travel and vacation.",
+                        "id": "839161975712067584",
+                        "name": "Travel Actions"
+                    }
+                }
+            ],
+            "conversation_id": "1350733382066589697",
+            "created_at": "2021-01-17T09:15:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 8,
+                        "tag": "Singapore"
+                    },
+                    {
+                        "end": 37,
+                        "start": 30,
+                        "tag": "travel"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ift.tt/1slFegu",
+                        "end": 87,
+                        "expanded_url": "https://ift.tt/1slFegu",
+                        "start": 64,
+                        "url": "https://t.co/flpnSd6IjN"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/NItKbRN0Vq",
+                        "end": 111,
+                        "expanded_url": "https://twitter.com/InstaSingapore/status/1350733382066589697/photo/1",
+                        "start": 88,
+                        "url": "https://t.co/NItKbRN0Vq"
+                    }
+                ]
+            },
+            "id": "1350733382066589697",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "IFTTT",
+            "text": "Explore #Singapore with these #travel guides, products and more https://t.co/flpnSd6IjN https://t.co/NItKbRN0Vq"
+        },
+        {
+            "author_id": "1263076222881239040",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026653543",
+                        "name": "Panasonic"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Technology and computing",
+                        "id": "848920371311001600",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cameras and Camcorders",
+                        "id": "848920584826126336",
+                        "name": "Cameras"
+                    }
+                }
+            ],
+            "conversation_id": "1350733381751988224",
+            "created_at": "2021-01-17T09:15:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Panasonic Lumix G100 4K Mirrorless Vlogging Camera",
+                        "probability": 0.8059,
+                        "start": 17,
+                        "type": "Product"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/2LxgWzX",
+                        "end": 143,
+                        "expanded_url": "https://amzn.to/2LxgWzX",
+                        "start": 120,
+                        "url": "https://t.co/ZFPaicCppq"
+                    }
+                ]
+            },
+            "id": "1350733381751988224",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Integromat",
+            "text": "Avail 18% Off On Panasonic Lumix G100 4K Mirrorless Vlogging Camera\n\nMRP: Rs 72,990\n\nDeal Price: Rs 59,990\n\nOffer Link: https://t.co/ZFPaicCppq"
+        },
+        {
+            "author_id": "1337042238870851585",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1350733381118603264",
+            "created_at": "2021-01-17T09:15:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 107,
+                        "start": 100,
+                        "tag": "Amazon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Disposable Face Mask, Face Masks of 50 Pack Disposable Mask (Blue)",
+                        "display_url": "amzn.to/3bNBrCP",
+                        "end": 91,
+                        "expanded_url": "https://amzn.to/3bNBrCP",
+                        "images": [
+                            {
+                                "height": 315,
+                                "url": "https://pbs.twimg.com/news_img/1350733381647167492/90Kzb_Bu?format=png&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1350733381647167492/90Kzb_Bu?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 68,
+                        "status": 200,
+                        "title": "Disposable Face Mask, Face Masks of 50 Pack Disposable Mask (Blue)",
+                        "unwound_url": "https://www.amazon.com/Disposable-Face-Mask-Masks-Pack/dp/B08BK9X7TV/ref=as_li_ss_tl?smid=A2HLSOH3STQHJB&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1SA8H0AH3V6A4WBJ5M9A&linkCode=sl1&tag=welly0b-20&linkId=3ee0e97aead8e2cba9aafed483bf5278&language=en_US",
+                        "url": "https://t.co/sh2tF0O57n"
+                    }
+                ]
+            },
+            "id": "1350733381118603264",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Disposable Face Mask, Face Masks of 50 Pack Disposable Mask (Blue)\n\nhttps://t.co/sh2tF0O57n\n\n$7.47\n\n#Amazon"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "height": 2880,
+                "media_key": "3_1350733435413950464",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Er7E5ywXcAAFrKk.jpg",
+                "width": 2880
+            },
+            {
+                "height": 1500,
+                "media_key": "3_1350733432289189889",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Er7E5nHXYAEcuc3.jpg",
+                "width": 1500
+            },
+            {
+                "height": 512,
+                "media_key": "3_1350733429944561674",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Er7E5eYXMAozBuE.jpg",
+                "width": 1024
+            },
+            {
+                "height": 346,
+                "media_key": "3_1350733422789070850",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Er7E5DuXEAIRw3s.jpg",
+                "width": 230
+            },
+            {
+                "height": 672,
+                "media_key": "3_1350733380900556805",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Er7E2nrXEAUDOOH.jpg",
+                "width": 1024
+            }
+        ],
+        "tweets": [
+            {
+                "author_id": "1477139270",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Named people in the world like Nelson Mandela",
+                            "id": "10",
+                            "name": "Person"
+                        },
+                        "entity": {
+                            "id": "1270347669588729856",
+                            "name": "Tim Burgess"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "A musician in the world, like Adele or Bob Dylan",
+                            "id": "54",
+                            "name": "Musician"
+                        },
+                        "entity": {
+                            "id": "1270347669588729856",
+                            "name": "Tim Burgess"
+                        }
+                    }
+                ],
+                "conversation_id": "1350466686240096258",
+                "created_at": "2021-01-16T17:25:37.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 12,
+                            "start": 0,
+                            "username": "Tim_Burgess"
+                        }
+                    ]
+                },
+                "id": "1350494427236724737",
+                "in_reply_to_user_id": "19429176",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1350466686240096258",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "@Tim_Burgess Its off the governments own website!!!!!!!"
+            },
+            {
+                "author_id": "1683957062",
+                "conversation_id": "1350726015551606787",
+                "created_at": "2021-01-17T08:45:52.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 185,
+                            "start": 169,
+                            "username": "PrakashJavdekar"
+                        }
+                    ]
+                },
+                "id": "1350726015551606787",
+                "lang": "hi",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 1936,
+                    "quote_count": 24,
+                    "reply_count": 87,
+                    "retweet_count": 596
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for Android",
+                "text": "\u091c\u0948\u0938\u0947 \u092b\u093c\u093f\u0932\u094d\u092e \u0914\u0930 \u0938\u0940\u0930\u093f\u092f\u0932 \u0915\u0940 \u0938\u092e\u0940\u0915\u094d\u0937\u093e \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0938\u0947\u0902\u0938\u0930 \u092c\u094b\u0930\u094d\u0921 \u0915\u0940 \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e \u0939\u0948, \u0935\u0948\u0938\u0940 \u0939\u0940 \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e OTT \u092a\u094d\u0932\u0947\u091f\u092b\u093e\u0930\u094d\u092e \u0915\u0947 \u0938\u093f\u0930\u093f\u091c\u093c \u0915\u0940 \u0938\u092e\u0940\u0915\u094d\u0937\u093e \u0915\u0947 \u0932\u093f\u090f \u092c\u0928\u093e\u0908 \u091c\u093e\u090f \u092f\u0939 \u092e\u093e\u0902\u0917 \u0915\u0930\u0924\u093e \u0939\u0941\u0906 \u092a\u0924\u094d\u0930 \u0936\u094d\u0930\u0940 @PrakashJavdekar \u091c\u0940 \u0915\u094b \u0932\u093f\u0916 \u0930\u0939\u093e \u0939\u0942\u0901"
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "13_1349768850053627904"
+                    ]
+                },
+                "author_id": "758172291754823680",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Top level entities that describe a Brands industry",
+                            "id": "45",
+                            "name": "Brand Vertical"
+                        },
+                        "entity": {
+                            "id": "781974596706635776",
+                            "name": "Retail"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                            "id": "46",
+                            "name": "Brand Category"
+                        },
+                        "entity": {
+                            "id": "783335558466506752",
+                            "name": "Online"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "10026792024",
+                            "name": "Amazon"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                            "id": "48",
+                            "name": "Product"
+                        },
+                        "entity": {
+                            "id": "10045512584",
+                            "name": "Amazon Prime Video"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                            "id": "48",
+                            "name": "Product"
+                        },
+                        "entity": {
+                            "id": "10046538542",
+                            "name": "Amazon Prime"
+                        }
+                    }
+                ],
+                "conversation_id": "1349769938521624576",
+                "created_at": "2021-01-14T17:26:45.000Z",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 65,
+                            "start": 51,
+                            "tag": "TandavOnPrime"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "Tandav is the coming together of different worlds under the gamut of politics. It is a Dramatic take of the powerplay between people at the highest level where they get overthrown by others to secure their position. Young and upcoming student politicians are also featured and we get to see where their future is headed in this dark abyss of politics.",
+                            "display_url": "bit.ly/3nDiFk4",
+                            "end": 127,
+                            "expanded_url": "https://bit.ly/3nDiFk4",
+                            "images": [
+                                {
+                                    "height": 1920,
+                                    "url": "https://pbs.twimg.com/news_img/1349769942921461761/uDUdfyCa?format=jpg&name=orig",
+                                    "width": 2560
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1349769942921461761/uDUdfyCa?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 104,
+                            "status": 200,
+                            "title": "Watch Tandav Season 1 - Prime Video",
+                            "unwound_url": "https://www.primevideo.com/detail/amzn1.dv.gti.f2bb30a3-ac86-e5f1-e43a-aed8c125baff/?ref_=dvm_soc_in_fbe_twitter_tandav_youthpro_launchp",
+                            "url": "https://t.co/gdD8kQqSRB"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/IDiOeyyYdW",
+                            "end": 151,
+                            "expanded_url": "https://twitter.com/PrimeVideoIN/status/1349769938521624576/video/1",
+                            "start": 128,
+                            "url": "https://t.co/IDiOeyyYdW"
+                        }
+                    ]
+                },
+                "id": "1349769938521624576",
+                "lang": "et",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 652,
+                    "quote_count": 46,
+                    "reply_count": 199,
+                    "retweet_count": 24
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for Advertisers",
+                "text": "Iss Naye saal mein badhega yuva, sab badlega Yuva! #TandavOnPrime now on Amazon Prime Video.\nWatch Now: https://t.co/gdD8kQqSRB https://t.co/IDiOeyyYdW"
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "3_1350659268677160961"
+                    ]
+                },
+                "author_id": "97530284",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "id": "1286398220520665089",
+                            "name": "IMDb"
+                        }
+                    }
+                ],
+                "conversation_id": "1348134419329130497",
+                "created_at": "2021-01-17T04:20:39.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 44,
+                            "normalized_text": "IMDB",
+                            "probability": 0.386,
+                            "start": 41,
+                            "type": "Organization"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "pic.twitter.com/6GJOnkLUGW",
+                            "end": 102,
+                            "expanded_url": "https://twitter.com/awealthofcs/status/1350659272233902081/photo/1",
+                            "start": 79,
+                            "url": "https://t.co/6GJOnkLUGW"
+                        }
+                    ]
+                },
+                "id": "1350659272233902081",
+                "in_reply_to_user_id": "97530284",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 44,
+                    "quote_count": 2,
+                    "reply_count": 11,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "id": "1348134419329130497",
+                        "type": "replied_to"
+                    }
+                ],
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "I don\u2019t know if this is true but it\u2019s on IMDB so I\u2019m choosing to believe it is https://t.co/6GJOnkLUGW"
+            },
+            {
+                "author_id": "320290739",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Named people in the world like Nelson Mandela",
+                            "id": "10",
+                            "name": "Person"
+                        },
+                        "entity": {
+                            "description": "CEO of Amazon",
+                            "id": "826764782443253760",
+                            "name": "Jeff Bezos"
+                        }
+                    }
+                ],
+                "conversation_id": "1349931704652361731",
+                "created_at": "2021-01-15T04:09:33.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 22,
+                            "normalized_text": "Jeff Bezos",
+                            "probability": 0.9989,
+                            "start": 13,
+                            "type": "Person"
+                        }
+                    ]
+                },
+                "id": "1349931704652361731",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 5046,
+                    "quote_count": 74,
+                    "reply_count": 163,
+                    "retweet_count": 1022
+                },
+                "reply_settings": "everyone",
+                "source": "Twitter for iPhone",
+                "text": "Do you think Jeff Bezos supports a $15 minimum wage because he has a big heart, or because he knows that he can afford it while his competitors cannot?"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2009-03-07T12:23:39.000Z",
+                "description": "Association leader, educator, storyteller, public speaker, podcaster, fisherman, squash player, dad, grandad, post-turtle, mad as a bag of eels...",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "stamshaw.com",
+                                "end": 23,
+                                "expanded_url": "http://www.stamshaw.com",
+                                "start": 0,
+                                "url": "https://t.co/44rno5tILx"
+                            }
+                        ]
+                    }
+                },
+                "id": "23188106",
+                "location": "Purbrook, Hampshire",
+                "name": "Lee Davies \ud83d\udc99",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1346052146597343232/eWBzGURo_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1716,
+                    "following_count": 1772,
+                    "listed_count": 83,
+                    "tweet_count": 30156
+                },
+                "url": "https://t.co/44rno5tILx",
+                "username": "LeeMarkDavies",
+                "verified": false
+            },
+            {
+                "created_at": "2013-06-02T11:53:24.000Z",
+                "description": "Slave to the rhythm. chef. Dad. Designer. The all Sheehaning eye",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "michaelsheehanpromotions.co.uk",
+                                "end": 23,
+                                "expanded_url": "http://www.michaelsheehanpromotions.co.uk",
+                                "start": 0,
+                                "url": "https://t.co/7oD7t601rm"
+                            }
+                        ]
+                    }
+                },
+                "id": "1477139270",
+                "location": "Derbados",
+                "name": "Micky Sheehan",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1349281071393869829/4C_1jOXM_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 973,
+                    "following_count": 1377,
+                    "listed_count": 5,
+                    "tweet_count": 3476
+                },
+                "url": "https://t.co/7oD7t601rm",
+                "username": "mickysheehan",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-24T02:54:13.000Z",
+                "description": "13 Charlatans studio albums/ 5 solo/ O Genesis Recordings/ DJ / Author: Telling Stories. Tim Book Two. One Two Another/ New LP: I Love The New Sky out now",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "smarturl.it/tim-burgess-il\u2026",
+                                "end": 23,
+                                "expanded_url": "https://smarturl.it/tim-burgess-iltns",
+                                "start": 0,
+                                "url": "https://t.co/lZr6TrQtKa"
+                            }
+                        ]
+                    }
+                },
+                "id": "19429176",
+                "name": "Tim Burgess",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1263179802732830720/ilZChYeS_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 241647,
+                    "following_count": 832,
+                    "listed_count": 1761,
+                    "tweet_count": 181145
+                },
+                "url": "https://t.co/lZr6TrQtKa",
+                "username": "Tim_Burgess",
+                "verified": true
+            },
+            {
+                "created_at": "2014-05-09T20:11:53.000Z",
+                "description": "USA TODAY BESTSELLING AUTHOR/Award-Winning Romance-Suspense/Two Hearts Wounded Warrior/Kissed By Fate/Tales of The Dragonfly/RWA PAN/2X-Readers' Favorite Gold",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "Tammysdragonfly.com",
+                                "end": 23,
+                                "expanded_url": "http://www.Tammysdragonfly.com",
+                                "start": 0,
+                                "url": "https://t.co/pKWx7aQMdk"
+                            }
+                        ]
+                    }
+                },
+                "id": "2485811094",
+                "location": "Illinois",
+                "name": "Tamara Ferguson",
+                "pinned_tweet_id": "1335437863861809154",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/464926376374439936/oevKuUom_normal.jpeg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 150869,
+                    "following_count": 132587,
+                    "listed_count": 2048,
+                    "tweet_count": 1010353
+                },
+                "url": "https://t.co/pKWx7aQMdk",
+                "username": "Tammysdragonfly",
+                "verified": false
+            },
+            {
+                "created_at": "2017-08-12T04:36:23.000Z",
+                "description": "Follow Us On Twitch: https://t.co/AOv7EPGWzP",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "twitch.tv/gamesandgears",
+                                "end": 44,
+                                "expanded_url": "https://www.twitch.tv/gamesandgears",
+                                "start": 21,
+                                "url": "https://t.co/AOv7EPGWzP"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "gamesandgears.org/youtube",
+                                "end": 23,
+                                "expanded_url": "http://gamesandgears.org/youtube",
+                                "start": 0,
+                                "url": "https://t.co/wCnkGcIUsW"
+                            }
+                        ]
+                    }
+                },
+                "id": "896228847628296192",
+                "name": "GAMES & GEARS \u2699\ufe0f",
+                "pinned_tweet_id": "1116941485595820032",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/967699383256051712/iE_afglW_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 6198,
+                    "following_count": 6228,
+                    "listed_count": 33,
+                    "tweet_count": 96308
+                },
+                "url": "https://t.co/wCnkGcIUsW",
+                "username": "GAMESANDGEARS07",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-22T22:22:39.000Z",
+                "description": "The @MainChannel_ #Twitter #Promotion #Network for #Indies & #SmallBiz\n\n#books #authors\n#films #filmmakers\n#photos #photographers\n#arts #creatives #creators",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 26,
+                                "start": 18,
+                                "tag": "Twitter"
+                            },
+                            {
+                                "end": 37,
+                                "start": 27,
+                                "tag": "Promotion"
+                            },
+                            {
+                                "end": 46,
+                                "start": 38,
+                                "tag": "Network"
+                            },
+                            {
+                                "end": 58,
+                                "start": 51,
+                                "tag": "Indies"
+                            },
+                            {
+                                "end": 70,
+                                "start": 61,
+                                "tag": "SmallBiz"
+                            },
+                            {
+                                "end": 78,
+                                "start": 72,
+                                "tag": "books"
+                            },
+                            {
+                                "end": 87,
+                                "start": 79,
+                                "tag": "authors"
+                            },
+                            {
+                                "end": 94,
+                                "start": 88,
+                                "tag": "films"
+                            },
+                            {
+                                "end": 106,
+                                "start": 95,
+                                "tag": "filmmakers"
+                            },
+                            {
+                                "end": 114,
+                                "start": 107,
+                                "tag": "photos"
+                            },
+                            {
+                                "end": 129,
+                                "start": 115,
+                                "tag": "photographers"
+                            },
+                            {
+                                "end": 135,
+                                "start": 130,
+                                "tag": "arts"
+                            },
+                            {
+                                "end": 146,
+                                "start": 136,
+                                "tag": "creatives"
+                            },
+                            {
+                                "end": 156,
+                                "start": 147,
+                                "tag": "creators"
+                            }
+                        ],
+                        "mentions": [
+                            {
+                                "end": 17,
+                                "start": 4,
+                                "username": "MainChannel_"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "twitter.com/MainChannel_",
+                                "end": 23,
+                                "expanded_url": "https://twitter.com/MainChannel_",
+                                "start": 0,
+                                "url": "https://t.co/nHQKjnbV8p"
+                            }
+                        ]
+                    }
+                },
+                "id": "3388074669",
+                "location": "United States",
+                "name": "TMC Network",
+                "pinned_tweet_id": "1349485013939728390",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1270821329730756608/NmvU3CBn_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 2727,
+                    "following_count": 2042,
+                    "listed_count": 27,
+                    "tweet_count": 79291
+                },
+                "url": "https://t.co/nHQKjnbV8p",
+                "username": "TwitrPartner",
+                "verified": false
+            },
+            {
+                "created_at": "2013-04-23T16:55:58.000Z",
+                "description": "",
+                "id": "1374983628",
+                "name": "delete",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/776679841223630848/iaOLzjfN_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 78,
+                    "following_count": 0,
+                    "listed_count": 89,
+                    "tweet_count": 242467
+                },
+                "url": "",
+                "username": "app_xndr",
+                "verified": false
+            },
+            {
+                "created_at": "2014-09-14T12:44:32.000Z",
+                "description": "this is where I promote Cool sites and products i am interested in some are free and other are paid",
+                "id": "2809392518",
+                "name": "GrateStuff4U",
+                "pinned_tweet_id": "1156344611184492544",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/511210684147712000/wwMeXjyH_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 4162,
+                    "following_count": 3994,
+                    "listed_count": 34,
+                    "tweet_count": 169727
+                },
+                "url": "",
+                "username": "GrateStuff4U",
+                "verified": false
+            },
+            {
+                "created_at": "2015-11-07T17:12:22.000Z",
+                "description": "#BookPromotion for #Authors & #Publishers of #Erotica & #Romance. #Books #eBooks #BookPromo #BookMarketing #Erotic #EARTG 18+! DM for #Promotion Info.",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 14,
+                                "start": 0,
+                                "tag": "BookPromotion"
+                            },
+                            {
+                                "end": 27,
+                                "start": 19,
+                                "tag": "Authors"
+                            },
+                            {
+                                "end": 41,
+                                "start": 30,
+                                "tag": "Publishers"
+                            },
+                            {
+                                "end": 53,
+                                "start": 45,
+                                "tag": "Erotica"
+                            },
+                            {
+                                "end": 64,
+                                "start": 56,
+                                "tag": "Romance"
+                            },
+                            {
+                                "end": 72,
+                                "start": 66,
+                                "tag": "Books"
+                            },
+                            {
+                                "end": 80,
+                                "start": 73,
+                                "tag": "eBooks"
+                            },
+                            {
+                                "end": 91,
+                                "start": 81,
+                                "tag": "BookPromo"
+                            },
+                            {
+                                "end": 106,
+                                "start": 92,
+                                "tag": "BookMarketing"
+                            },
+                            {
+                                "end": 114,
+                                "start": 107,
+                                "tag": "Erotic"
+                            },
+                            {
+                                "end": 121,
+                                "start": 115,
+                                "tag": "EARTG"
+                            },
+                            {
+                                "end": 144,
+                                "start": 134,
+                                "tag": "Promotion"
+                            }
+                        ]
+                    }
+                },
+                "id": "4135631423",
+                "location": "United States",
+                "name": "The Best of Erotica & Romance",
+                "pinned_tweet_id": "1313171902349926402",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/948340936588771328/HYPflmby_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 13374,
+                    "following_count": 8313,
+                    "listed_count": 340,
+                    "tweet_count": 308905
+                },
+                "url": "",
+                "username": "EroticaNation",
+                "verified": false
+            },
+            {
+                "created_at": "2016-02-12T09:18:03.000Z",
+                "description": "Fail we may, sail we must",
+                "id": "4896561348",
+                "location": "UK/OZ",
+                "name": "333",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1319231961446178816/kzWua0Qj_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 736,
+                    "following_count": 3630,
+                    "listed_count": 1,
+                    "tweet_count": 6251
+                },
+                "url": "",
+                "username": "PaulPay71986062",
+                "verified": false
+            },
+            {
+                "created_at": "2015-10-26T19:55:01.000Z",
+                "description": "Worst-selling author of comedic #SciFi, The Herc Braveman Adventures. Dreamweaver, soothsayer, indoor enthusiast, irony slinger, satirist. He/Herc",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 38,
+                                "start": 32,
+                                "tag": "SciFi"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "tinyurl.com/hercbraveman",
+                                "end": 23,
+                                "expanded_url": "https://tinyurl.com/hercbraveman",
+                                "start": 0,
+                                "url": "https://t.co/1gCsFMubNd"
+                            }
+                        ]
+                    }
+                },
+                "id": "4048404617",
+                "location": "England, United Kingdom",
+                "name": "Herschel K. Stroganoff",
+                "pinned_tweet_id": "971859091508391936",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/967710709898448896/O9ibz9qW_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 429,
+                    "following_count": 1093,
+                    "listed_count": 16,
+                    "tweet_count": 32176
+                },
+                "url": "https://t.co/1gCsFMubNd",
+                "username": "hkstroganoff",
+                "verified": false
+            },
+            {
+                "created_at": "2019-08-13T01:28:14.000Z",
+                "description": "Share and comment on indian politics. Sincere intention is not to offend anyone.",
+                "id": "1161087031130243072",
+                "name": "PoliticallyIncorrect",
+                "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 41,
+                    "following_count": 160,
+                    "listed_count": 0,
+                    "tweet_count": 3320
+                },
+                "url": "",
+                "username": "Politic42742916",
+                "verified": false
+            },
+            {
+                "created_at": "2013-08-19T18:57:38.000Z",
+                "description": "\u090f\u0915 \u0926\u093f\u0928 \u092a\u0930\u092e\u093e\u0924\u094d\u092e\u093e \u092e\u0941\u091d\u0947 , \u0938\u0902\u0938\u093e\u0930 \u0924\u094d\u092f\u093e\u0917\u0915\u0930 \u0939\u093f\u092e\u093e\u0932\u092f \u092e\u0947\u0902 \u0938\u0902\u0928\u094d\u092f\u0938\u094d\u0924 \u091c\u0940\u0935\u0928 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0947 ! \u0906\u0924\u094d\u092e\u093e \u0914\u0930 \u092a\u0930\u092e\u093e\u0924\u094d\u092e\u093e \u0915\u093e \u092d\u0947\u0926 \u0938\u092e\u091d\u0924\u0947, \u092e\u094b\u0915\u094d\u0937 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930 \u0938\u0915\u0942",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "ramkadam.in",
+                                "end": 23,
+                                "expanded_url": "http://www.ramkadam.in/",
+                                "start": 0,
+                                "url": "https://t.co/j7pZqAqntH"
+                            }
+                        ]
+                    }
+                },
+                "id": "1683957062",
+                "location": "Ghatkopar ( w) mumbai india",
+                "name": "Ram Kadam - \u0930\u093e\u092e \u0915\u0926\u092e",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1248126619702554625/s6Y1Aq1p_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 36464,
+                    "following_count": 87,
+                    "listed_count": 42,
+                    "tweet_count": 6229
+                },
+                "url": "https://t.co/j7pZqAqntH",
+                "username": "ramkadam",
+                "verified": true
+            },
+            {
+                "created_at": "2013-01-09T06:32:33.000Z",
+                "description": "Minister of Environment, Forest & Climate Change; Information & Broadcasting; & Heavy Industries & Public Enterprises,\nGoI \nFacebook : PrakashJavadekarOfficial",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "prakashjavadekar.com",
+                                "end": 23,
+                                "expanded_url": "http://www.prakashjavadekar.com",
+                                "start": 0,
+                                "url": "https://t.co/Zu9m3s8Bf4"
+                            }
+                        ]
+                    }
+                },
+                "id": "1072993274",
+                "name": "Prakash Javadekar",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1305535718647713798/_lzITGyP_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 2550215,
+                    "following_count": 374,
+                    "listed_count": 1580,
+                    "tweet_count": 18974
+                },
+                "url": "https://t.co/Zu9m3s8Bf4",
+                "username": "PrakashJavdekar",
+                "verified": true
+            },
+            {
+                "created_at": "2012-06-25T04:38:20.000Z",
+                "description": "#affiliate #bitcoin #business #crypto #cryptocurrency #deals #discount #gifts #giftideas #marketing #referral #shopping #socialmedia #travel #twitter #webtalk",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 10,
+                                "start": 0,
+                                "tag": "affiliate"
+                            },
+                            {
+                                "end": 19,
+                                "start": 11,
+                                "tag": "bitcoin"
+                            },
+                            {
+                                "end": 29,
+                                "start": 20,
+                                "tag": "business"
+                            },
+                            {
+                                "end": 37,
+                                "start": 30,
+                                "tag": "crypto"
+                            },
+                            {
+                                "end": 53,
+                                "start": 38,
+                                "tag": "cryptocurrency"
+                            },
+                            {
+                                "end": 60,
+                                "start": 54,
+                                "tag": "deals"
+                            },
+                            {
+                                "end": 70,
+                                "start": 61,
+                                "tag": "discount"
+                            },
+                            {
+                                "end": 77,
+                                "start": 71,
+                                "tag": "gifts"
+                            },
+                            {
+                                "end": 88,
+                                "start": 78,
+                                "tag": "giftideas"
+                            },
+                            {
+                                "end": 99,
+                                "start": 89,
+                                "tag": "marketing"
+                            },
+                            {
+                                "end": 109,
+                                "start": 100,
+                                "tag": "referral"
+                            },
+                            {
+                                "end": 119,
+                                "start": 110,
+                                "tag": "shopping"
+                            },
+                            {
+                                "end": 132,
+                                "start": 120,
+                                "tag": "socialmedia"
+                            },
+                            {
+                                "end": 140,
+                                "start": 133,
+                                "tag": "travel"
+                            },
+                            {
+                                "end": 149,
+                                "start": 141,
+                                "tag": "twitter"
+                            },
+                            {
+                                "end": 158,
+                                "start": 150,
+                                "tag": "webtalk"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "brettmurphy.net",
+                                "end": 23,
+                                "expanded_url": "http://www.brettmurphy.net",
+                                "start": 0,
+                                "url": "https://t.co/MUjvoVD2yq"
+                            }
+                        ]
+                    }
+                },
+                "id": "617853906",
+                "location": "Bay Area, CA",
+                "name": "Brett Murphy",
+                "pinned_tweet_id": "1346841169943175169",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1305061122630795265/lYYwb4gH_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 70062,
+                    "following_count": 4278,
+                    "listed_count": 537,
+                    "tweet_count": 875019
+                },
+                "url": "https://t.co/MUjvoVD2yq",
+                "username": "bmurphypointman",
+                "verified": false
+            },
+            {
+                "created_at": "2020-08-12T05:34:02.000Z",
+                "description": "#affiliate #bitcoin #business #crypto #cryptocurrency #deals #discount #gifts #giftideas #marketing #referral #shopping #socialmedia #travel #twitter #webtalk",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 10,
+                                "start": 0,
+                                "tag": "affiliate"
+                            },
+                            {
+                                "end": 19,
+                                "start": 11,
+                                "tag": "bitcoin"
+                            },
+                            {
+                                "end": 29,
+                                "start": 20,
+                                "tag": "business"
+                            },
+                            {
+                                "end": 37,
+                                "start": 30,
+                                "tag": "crypto"
+                            },
+                            {
+                                "end": 53,
+                                "start": 38,
+                                "tag": "cryptocurrency"
+                            },
+                            {
+                                "end": 60,
+                                "start": 54,
+                                "tag": "deals"
+                            },
+                            {
+                                "end": 70,
+                                "start": 61,
+                                "tag": "discount"
+                            },
+                            {
+                                "end": 77,
+                                "start": 71,
+                                "tag": "gifts"
+                            },
+                            {
+                                "end": 88,
+                                "start": 78,
+                                "tag": "giftideas"
+                            },
+                            {
+                                "end": 99,
+                                "start": 89,
+                                "tag": "marketing"
+                            },
+                            {
+                                "end": 109,
+                                "start": 100,
+                                "tag": "referral"
+                            },
+                            {
+                                "end": 119,
+                                "start": 110,
+                                "tag": "shopping"
+                            },
+                            {
+                                "end": 132,
+                                "start": 120,
+                                "tag": "socialmedia"
+                            },
+                            {
+                                "end": 140,
+                                "start": 133,
+                                "tag": "travel"
+                            },
+                            {
+                                "end": 149,
+                                "start": 141,
+                                "tag": "twitter"
+                            },
+                            {
+                                "end": 158,
+                                "start": 150,
+                                "tag": "webtalk"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "brettmurphy.net",
+                                "end": 23,
+                                "expanded_url": "https://www.brettmurphy.net/",
+                                "start": 0,
+                                "url": "https://t.co/y0M96PqC3k"
+                            }
+                        ]
+                    }
+                },
+                "id": "1293420361762009088",
+                "location": "Bay Area, CA",
+                "name": "brettmurphynet",
+                "pinned_tweet_id": "1326312301960458240",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1326317365840109568/9OQW3-wY_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 19,
+                    "following_count": 27,
+                    "listed_count": 1,
+                    "tweet_count": 79342
+                },
+                "url": "https://t.co/y0M96PqC3k",
+                "username": "brettmurphynet",
+                "verified": false
+            },
+            {
+                "created_at": "2010-10-26T16:44:38.000Z",
+                "description": "Stupid...Don't know why I am a paid subscriber of Communist trade Union since last 22 years..",
+                "id": "208099744",
+                "name": "Madhusudan Kisan",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1256231226597408769/_ss7-b5G_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 158,
+                    "following_count": 853,
+                    "listed_count": 0,
+                    "tweet_count": 12487
+                },
+                "url": "",
+                "username": "ms2geet",
+                "verified": false
+            },
+            {
+                "created_at": "2016-07-27T05:28:55.000Z",
+                "description": "Welcome to the world of Tandav \ud83d\ude4f",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "amzn.to/Tandav",
+                                "end": 23,
+                                "expanded_url": "http://amzn.to/Tandav",
+                                "start": 0,
+                                "url": "https://t.co/DYAUvrJjKb"
+                            }
+                        ]
+                    }
+                },
+                "id": "758172291754823680",
+                "location": "India",
+                "name": "amazon prime video IN",
+                "pinned_tweet_id": "1349787875122978816",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1349243271281741827/sf3M82Gd_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 597217,
+                    "following_count": 136,
+                    "listed_count": 408,
+                    "tweet_count": 9682
+                },
+                "url": "https://t.co/DYAUvrJjKb",
+                "username": "PrimeVideoIN",
+                "verified": true
+            },
+            {
+                "created_at": "2019-12-18T20:57:37.000Z",
+                "description": "mummy is love junglechi venus Mary lion heart ninja",
+                "id": "1207404436500500482",
+                "name": "Rebecca Murray",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1207405395368693761/uMbMk-8y_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 10,
+                    "following_count": 233,
+                    "listed_count": 0,
+                    "tweet_count": 5202
+                },
+                "url": "",
+                "username": "Rebecca37618246",
+                "verified": false
+            },
+            {
+                "created_at": "2010-10-28T10:29:00.000Z",
+                "description": "Follow https://t.co/i7jkAbIl56 and we'll deliver news, giveaways and deals straight to your timeline. For customer support, @AmazonHelp are here 24/7 every day.",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 135,
+                                "start": 124,
+                                "username": "AmazonHelp"
+                            }
+                        ],
+                        "urls": [
+                            {
+                                "display_url": "Amazon.co.uk",
+                                "end": 30,
+                                "expanded_url": "http://Amazon.co.uk",
+                                "start": 7,
+                                "url": "https://t.co/i7jkAbIl56"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "amazon.co.uk",
+                                "end": 22,
+                                "expanded_url": "http://www.amazon.co.uk",
+                                "start": 0,
+                                "url": "http://t.co/1jk5eo7H15"
+                            }
+                        ]
+                    }
+                },
+                "id": "209004862",
+                "location": "United Kingdom",
+                "name": "Amazon.co.uk",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/806220210239926272/1YQ70tXT_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1614897,
+                    "following_count": 101,
+                    "listed_count": 1980,
+                    "tweet_count": 8762
+                },
+                "url": "http://t.co/1jk5eo7H15",
+                "username": "AmazonUK",
+                "verified": true
+            },
+            {
+                "created_at": "2017-09-03T14:06:19.000Z",
+                "description": "DIY value investor looking for wonderful companies @ wonderful prices.\n\nMy asset allocation strategy: https://t.co/Kt4LPUvasd\n\nNot advice. Do your own homework.",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "tinyurl.com/y37jvbmj",
+                                "end": 125,
+                                "expanded_url": "http://tinyurl.com/y37jvbmj",
+                                "start": 102,
+                                "url": "https://t.co/Kt4LPUvasd"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "valuestockgeek.com",
+                                "end": 23,
+                                "expanded_url": "https://valuestockgeek.com/",
+                                "start": 0,
+                                "url": "https://t.co/APeTu1xY6J"
+                            }
+                        ]
+                    }
+                },
+                "id": "904344810512941056",
+                "name": "ValueStockGeek",
+                "pinned_tweet_id": "1350497551062081536",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1334993662028165120/Ya2dgGSk_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 22501,
+                    "following_count": 1442,
+                    "listed_count": 418,
+                    "tweet_count": 441
+                },
+                "url": "https://t.co/APeTu1xY6J",
+                "username": "ValueStockGeek",
+                "verified": false
+            },
+            {
+                "created_at": "2009-12-17T21:34:18.000Z",
+                "description": "Trying to bring some common sense to the world of finance. Book: https://t.co/c53AckMaZF Podcast: https://t.co/GrhZZzIjLv",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "amzn.to/1FmQOXf",
+                                "end": 88,
+                                "expanded_url": "http://amzn.to/1FmQOXf",
+                                "start": 65,
+                                "url": "https://t.co/c53AckMaZF"
+                            },
+                            {
+                                "display_url": "awealthofcommonsense.com/podcast/",
+                                "end": 121,
+                                "expanded_url": "http://awealthofcommonsense.com/podcast/",
+                                "start": 98,
+                                "url": "https://t.co/GrhZZzIjLv"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "awealthofcommonsense.com",
+                                "end": 23,
+                                "expanded_url": "http://www.awealthofcommonsense.com",
+                                "start": 0,
+                                "url": "https://t.co/Md4o8cTyjS"
+                            }
+                        ]
+                    }
+                },
+                "id": "97530284",
+                "location": "Grand Rapids, MI",
+                "name": "Ben Carlson",
+                "pinned_tweet_id": "1333435715179454464",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1129347632114085888/0oXWvEvX_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 137996,
+                    "following_count": 570,
+                    "listed_count": 3277,
+                    "tweet_count": 32107
+                },
+                "url": "https://t.co/Md4o8cTyjS",
+                "username": "awealthofcs",
+                "verified": true
+            },
+            {
+                "created_at": "2010-09-18T06:47:35.000Z",
+                "description": "Terry Reece, AKA the Warrior\nFounder/Chairman/CEO\nReece Enterprises/Time Travel Network, Inc./Family Media Co./TDM Comics Int./THE SPIRIT OF MUSIC UNIVERSE",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "FamilyMediaSite.com",
+                                "end": 22,
+                                "expanded_url": "http://www.FamilyMediaSite.com",
+                                "start": 0,
+                                "url": "http://t.co/JVloZ4RYAe"
+                            }
+                        ]
+                    }
+                },
+                "id": "192117628",
+                "location": "Las Vegas, Nevada  USA",
+                "name": "Terry Reece",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/631715518097977344/EcRxKdcl_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 1328,
+                    "following_count": 5002,
+                    "listed_count": 40,
+                    "tweet_count": 12257
+                },
+                "url": "http://t.co/JVloZ4RYAe",
+                "username": "thereecewarrior",
+                "verified": false
+            },
+            {
+                "created_at": "2015-02-08T17:49:56.000Z",
+                "description": "Warm bread and cheese.",
+                "id": "3025309486",
+                "location": "Rochester",
+                "name": "Dallaslyn Lamb",
+                "pinned_tweet_id": "714194537284038656",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/769726975711641600/_QGOfAec_normal.jpg",
+                "protected": true,
+                "public_metrics": {
+                    "followers_count": 64,
+                    "following_count": 99,
+                    "listed_count": 0,
+                    "tweet_count": 498
+                },
+                "url": "",
+                "username": "DallaslynL",
+                "verified": false
+            },
+            {
+                "created_at": "2009-04-27T05:09:26.000Z",
+                "description": "Redeemed husband, father, son, friend by the Grace of God. RTs are not necessarily endorsements. Shadow & Ghost banned since the beginning for Truth telling",
+                "id": "35677152",
+                "location": "IE, ca",
+                "name": "Truth seeker to Truth speaker @oct7 on gab.com",
+                "pinned_tweet_id": "1289124429394395136",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/848346182975856640/ijevyKik_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 238,
+                    "following_count": 446,
+                    "listed_count": 4,
+                    "tweet_count": 18974
+                },
+                "url": "",
+                "username": "octoseven",
+                "verified": false
+            },
+            {
+                "created_at": "2011-06-19T17:07:28.000Z",
+                "description": "Musician, economics nerd. Love/hate relationship with public policy. #WhoDat",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 76,
+                                "start": 69,
+                                "tag": "WhoDat"
+                            }
+                        ]
+                    }
+                },
+                "id": "320290739",
+                "location": "Michigan, USA",
+                "name": "Jon",
+                "pinned_tweet_id": "1214298849214435328",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1347905676874559488/q4gpyrZm_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 877,
+                    "following_count": 551,
+                    "listed_count": 11,
+                    "tweet_count": 23612
+                },
+                "url": "",
+                "username": "JonsEcon",
+                "verified": false
+            },
+            {
+                "created_at": "2014-09-04T02:48:32.000Z",
+                "description": "The Official UNOFFICIAL Instagram & Twitter for everything #Singaporean & #Singapore.",
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "end": 71,
+                                "start": 59,
+                                "tag": "Singaporean"
+                            },
+                            {
+                                "end": 84,
+                                "start": 74,
+                                "tag": "Singapore"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "rebrand.ly/singaporedeals",
+                                "end": 23,
+                                "expanded_url": "http://rebrand.ly/singaporedeals",
+                                "start": 0,
+                                "url": "https://t.co/zLyBeR7TSN"
+                            }
+                        ]
+                    }
+                },
+                "id": "2788989366",
+                "location": "Singapore",
+                "name": "Insta Singapore",
+                "pinned_tweet_id": "732347501089447936",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/732348164376662016/f9AlNHGe_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 2149,
+                    "following_count": 621,
+                    "listed_count": 282,
+                    "tweet_count": 352565
+                },
+                "url": "https://t.co/zLyBeR7TSN",
+                "username": "InstaSingapore",
+                "verified": false
+            },
+            {
+                "created_at": "2020-05-20T11:57:00.000Z",
+                "description": "Online Shopping website where you can find Best Deals, Price Comparison & discounts for wide range of products.",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "dealsified.com",
+                                "end": 23,
+                                "expanded_url": "https://dealsified.com/",
+                                "start": 0,
+                                "url": "https://t.co/Dtz8XXgYUc"
+                            }
+                        ]
+                    }
+                },
+                "id": "1263076222881239040",
+                "name": "Discounts Deck",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1264872542931546112/0w9OArQZ_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 639,
+                    "following_count": 2,
+                    "listed_count": 4,
+                    "tweet_count": 11420
+                },
+                "url": "https://t.co/Dtz8XXgYUc",
+                "username": "discountsdeck",
+                "verified": false
+            },
+            {
+                "created_at": "2020-12-10T14:31:32.000Z",
+                "description": "Amazon  https://t.co/4rwjfd0Csv\nContact @AmazonHelp for customer support.\nFollow @AmazonNews for the latest news from Amazon.",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "end": 51,
+                                "start": 40,
+                                "username": "AmazonHelp"
+                            },
+                            {
+                                "end": 92,
+                                "start": 81,
+                                "username": "AmazonNews"
+                            }
+                        ],
+                        "urls": [
+                            {
+                                "display_url": "Amazon.com",
+                                "end": 31,
+                                "expanded_url": "http://Amazon.com",
+                                "start": 8,
+                                "url": "https://t.co/4rwjfd0Csv"
+                            }
+                        ]
+                    }
+                },
+                "id": "1337042238870851585",
+                "name": "Amazon",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1343196583651848195/hp6rjN2u_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 33,
+                    "following_count": 645,
+                    "listed_count": 0,
+                    "tweet_count": 99
+                },
+                "url": "",
+                "username": "AmazonB00k",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1350733467684843520",
+        "next_token": "b26v89c19zqg8o3foskrgwc4dquly7o69txb3dbq3vx4t",
+        "oldest_id": "1350733381118603264",
+        "result_count": 20
+    }
+}
